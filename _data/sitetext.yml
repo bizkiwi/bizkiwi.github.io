@@ -62,28 +62,23 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Humble Beginnings"
-        year: "2009-2010"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
       - title: "ICT Consultancy"
-        year: "March 2010"
+        year: "2010-2014"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Touch Screen Apps"
-        year: "2014-2018"
+        year: "2014-2017"
         desc: "Made Order Advisor and MkAPPy touchscreen apps for select Mcdonald's restaurants in New Zealand."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Automated Barcode Scanning"
+      - title: "Serial Port Monitoring Device"
         year: "2017"
-        desc: "AutoScan serial port monitor for real-time parsing and reading barcodes being printed on a thermal printer."
+        desc: "AutoScan is a serial port monitoring device used to automatically intercept and 'scan' barcodes being printed to a thermal printer."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Ecommerce Solutions"
-        year: "2018-2021"
+      - title: "Ecommerce and Inventory Systems"
+        year: "2017-2020"
         desc: "AutoScan serial port monitor for real-time parsing and reading barcodes being printed on a thermal printer."
         image: assets/img/timeline/4.jpg
         alt:
@@ -98,7 +93,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
-        align: right
+        align: left
     end: "Be Part <br> of Our <br> Story!"
 
   about:
