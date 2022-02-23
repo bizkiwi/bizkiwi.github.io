@@ -46,7 +46,7 @@ en: &DEFAULT_EN
         desc: "Authoring of report, user, wiki and technical documentation including use of Github and Markdown."
         icon: fas fa-clouds
       - title: "Cloud Server Systems"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Use of Cloud-based data Application Programmable Interfaces (API) including Amazon Web Services (AWS), Google Cloud and Arduino Cloud."
         icon: fas fa-clouds
 
   portfolio:
