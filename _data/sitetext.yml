@@ -21,18 +21,18 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce Solutions"
-        desc: "Responsive Design, Website Development, Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Ecommerce Solutions"
+        desc: "Digital commerce solutions specialising in use of the Shopify platform and third-parties ecosystem."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Mobile first and single page responsive web applications development."
         icon: fas fa-laptop
       - title: "Electrotechnology"
-        desc: "Your description here, full **Markdown** support"
-        icon: fas fa-laptop
+        desc: "Electronics, Microcontrollers, Sensors, Actuators and Internet of Things (IoT)."
+        icon: fa-solid fa-bolt
       - title: "Prototype Development"
-        desc: "Your description here, full **Markdown** support"
-        icon: fas fa-laptop
+        desc: "Development of proof-of-concept hardware, software and firmware prototype devices and systems."
+        icon: fa-solid fa-wand-magic-sparkles
       - title: "Software Development"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-laptop
@@ -44,10 +44,10 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Technical Documentation"
         desc: "Your description here, full **Markdown** support"
-        icon: fas fa-laptop
+        icon: fa-solid fa-clouds
       - title: "Cloud Server Systems"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fa-solid fa-clouds
 
   portfolio:
     title: "Portfolio"
@@ -79,17 +79,17 @@ en: &DEFAULT_EN
         alt:
       - title: "Ecommerce and Inventory Systems"
         year: "2017-2020"
-        desc: "AutoScan serial port monitor for real-time parsing and reading barcodes being printed on a thermal printer."
+        desc: "Shopify ecommerce stores with integrated stock feeds and Inventory Management System."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Medical Device Prototyping"
         year: "2020-2022"
-        desc: "AutoScan serial port monitor for real-time parsing and reading barcodes being printed on a thermal printer."
+        desc: "Proof of concept rapid electronics prototype device development."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Open Source Software (OSS)"
         year: "2022+"
-        desc: "AutoScan serial port monitor for real-time parsing and reading barcodes being printed on a thermal printer."
+        desc: "Published open source software repositories originating from BizKiwi.NZ internal development and academic studies projects."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -97,7 +97,7 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "BizKiwi.NZ"
+    title: "About"
     text: "our story"
     body: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
     section: about
