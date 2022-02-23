@@ -28,13 +28,13 @@ en: &DEFAULT_EN
         desc: "Mobile first and single page responsive web applications development."
         icon: fas fa-mobile-alt
       - title: "Internet of Things (IoT)"
-        desc: "Electronics, Microcontrollers, Sensors, Actuators, IoT and Electrotechnology."
+        desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators, IoT and Electrotechnology."
         icon: fas fa-bolt
       - title: "Prototype Development"
         desc: "Development of proof-of-concept hardware, firmware and software prototype devices and systems."
         icon: fas fa-magic
       - title: "Software Development"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Desktop and Server Software Application Development."
         icon: fas fa-laptop
       - title: "Website Development"
         desc: "Laravel, WordPress and SilverStripe development platforms."
