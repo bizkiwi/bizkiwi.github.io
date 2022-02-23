@@ -127,8 +127,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Stephen Julian"
-        text: "BInfoTech, NCEE, NZDE (Electronics), BEngTech (Electrical)"
-        role: "Hardware and Software Systems Engineer"
+        role: "BInfoTech, NCEE, NZDE (Electronics), BEngTech (Electrical)<br>Hardware and Software Systems Engineer"
         image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
