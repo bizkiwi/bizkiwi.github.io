@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "BizKiwi.NZ offers ICT and Electrotechnology services that include hardware, firmware, software and server systems and integration solutions."
+    text: "BizKiwi.NZ offers ICT and Electrotechnology services that include hardware, firmware, software, server systems and integration solutions."
     section: services
     list:
       - title: "Ecommerce Solutions"
@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Electronics, Microcontrollers, Sensors, Actuators and Internet of Things (IoT)."
         icon: fas fa-bolt
       - title: "Prototype Development"
-        desc: "Development of proof-of-concept hardware, software and firmware prototype devices and systems."
+        desc: "Development of proof-of-concept hardware, firmware and software prototype devices and systems."
         icon: fas fa-wand-magic-sparkles
       - title: "Software Development"
         desc: "Your description here, full **Markdown** support"
@@ -39,11 +39,11 @@ en: &DEFAULT_EN
       - title: "Website Development"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-laptop
-      - title: "Content Management Systems"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Databases and CMS"
+        desc: "Hosted and Cloud-based No-SQL, relational databases and Content Management Systems (CMS)."
         icon: fas fa-laptop
       - title: "Technical Documentation"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Authoring of report, user, wiki and technical documentation including use of Github and Markdown."
         icon: fas fa-clouds
       - title: "Cloud Server Systems"
         desc: "Your description here, full **Markdown** support"
