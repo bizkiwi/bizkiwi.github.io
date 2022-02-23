@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-laptop
       - title: "Website Development"
-        desc: "Laravel, WordPress, SilverStripe development platforms."
+        desc: "Laravel, WordPress and SilverStripe development platforms."
         icon: fas fa-laptop
       - title: "Databases and CMS"
         desc: "Hosted and Cloud-based No-SQL, relational databases and Content Management Systems (CMS)."
