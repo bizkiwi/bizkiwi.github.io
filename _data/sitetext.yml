@@ -21,8 +21,8 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "E-Commerce Solutions"
+        desc: "Responsive Design, Website Development, Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -45,7 +45,7 @@ en: &DEFAULT_EN
       - title: "Technical Documentation"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Cloud Server Systems"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
@@ -62,24 +62,39 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - title: "Humble Beginnings"
+        year: "2009-2010"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "ICT Consultancy"
+        year: "March 2010"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Touch Screen Apps"
+        year: "2014-2018"
+        desc: "Made Order Advisor and MkAPPy touchscreen apps for select Mcdonald's restaurants in New Zealand."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Automated Barcode Scanning"
+        year: "2017"
+        desc: "AutoScan serial port monitor for real-time parsing and reading barcodes being printed on a thermal printer."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Ecommerce Solutions"
+        year: "2018-2021"
+        desc: "AutoScan serial port monitor for real-time parsing and reading barcodes being printed on a thermal printer."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Medical Device Prototyping"
+        year: "2020-2022"
+        desc: "AutoScan serial port monitor for real-time parsing and reading barcodes being printed on a thermal printer."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Open Source Software (OSS)"
+        year: "2022+"
+        desc: "AutoScan serial port monitor for real-time parsing and reading barcodes being printed on a thermal printer."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -111,7 +126,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "INTRODUCING"
+    title: "Introducing"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -169,9 +184,9 @@ en: &DEFAULT_EN
         icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://linkedin.com/in/bizkiwi
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/bizkiwi
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
