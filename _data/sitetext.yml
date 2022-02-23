@@ -22,31 +22,31 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Ecommerce Solutions"
-        desc: "Digital commerce solutions specialising in use of the Shopify platform and third-parties ecosystem."
+        desc: "Digital commerce solutions specialising in use of the Shopify platform and third-parties ecosystem.<br>"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
-        desc: "Mobile first and single page responsive web applications development."
+        desc: "Mobile first and single page responsive web applications development.<br>"
         icon: fas fa-mobile-alt
       - title: "Internet of Things (IoT)"
-        desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators, IoT and Electrotechnology."
+        desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators, IoT and Electrotechnology.<br>"
         icon: fas fa-bolt
       - title: "Prototype Development"
-        desc: "Development of proof-of-concept hardware, firmware and software prototype devices and systems."
+        desc: "Development of proof-of-concept hardware, firmware and software prototype devices and systems.<br>"
         icon: fas fa-magic
       - title: "Software Development"
-        desc: "Desktop and Server Software Application Development."
+        desc: "Desktop and Server Software Application Development.<br>"
         icon: fas fa-laptop
       - title: "Website Development"
-        desc: "Laravel, WordPress and SilverStripe development platforms."
+        desc: "Laravel, WordPress and SilverStripe development platforms.<br>"
         icon: fas fa-sitemap
       - title: "Databases and CMS"
-        desc: "Hosted and Cloud-based No-SQL, relational databases and Content Management Systems (CMS)."
+        desc: "Hosted and Cloud-based No-SQL, relational databases and Content Management Systems (CMS).<br>"
         icon: fas fa-database
       - title: "Technical Documentation"
-        desc: "Authoring of report, user, wiki and technical documentation including use of Github and Markdown."
+        desc: "Authoring of report, user, wiki and technical documentation including use of Github and Markdown.<br>"
         icon: fas fa-book
       - title: "Cloud Server Systems"
-        desc: "Use of Cloud-based data Application Programmable Interfaces (API) including Amazon Web Services (AWS), Google Cloud and Arduino Cloud."
+        desc: "Use of Cloud-based data Application Programmable Interfaces (API) including Amazon Web Services (AWS), Google Cloud and Arduino Cloud.<br>"
         icon: fas fa-cloud
 
   portfolio:
