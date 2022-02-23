@@ -122,12 +122,12 @@ en: &DEFAULT_EN
 
   team:
     title: "Team"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "BizKiwi.NZ is a consultancy services brand represented by Stephen Julian. Opportunities for new team members and partnerships may arise in the future."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Stephen Julian"
-        text: BInfoTech, NCEE, NZDE (Electronics), BEngTech (Electrical)
+        text: "BInfoTech, NCEE, NZDE (Electronics), BEngTech (Electrical)"
         role: "Hardware and Software Systems Engineer"
         image: assets/img/team/4.jpg
         social:
