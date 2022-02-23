@@ -26,28 +26,28 @@ en: &DEFAULT_EN
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Mobile first and single page responsive web applications development."
-        icon: fas fa-laptop
-      - title: "Electrotechnology"
-        desc: "Electronics, Microcontrollers, Sensors, Actuators and Internet of Things (IoT)."
+        icon: fas fa-mobile-alt
+      - title: "Internet of Things (IoT)"
+        desc: "Electronics, Microcontrollers, Sensors, Actuators, IoT and Electrotechnology."
         icon: fas fa-bolt
       - title: "Prototype Development"
         desc: "Development of proof-of-concept hardware, firmware and software prototype devices and systems."
-        icon: fas fa-wand-magic-sparkles
+        icon: fas fa-magic
       - title: "Software Development"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-laptop
       - title: "Website Development"
         desc: "Laravel, WordPress and SilverStripe development platforms."
-        icon: fas fa-laptop
+        icon: fas fa-sitemap
       - title: "Databases and CMS"
         desc: "Hosted and Cloud-based No-SQL, relational databases and Content Management Systems (CMS)."
-        icon: fas fa-laptop
+        icon: fas fa-database
       - title: "Technical Documentation"
         desc: "Authoring of report, user, wiki and technical documentation including use of Github and Markdown."
-        icon: fas fa-clouds
+        icon: fas fa-book
       - title: "Cloud Server Systems"
         desc: "Use of Cloud-based data Application Programmable Interfaces (API) including Amazon Web Services (AWS), Google Cloud and Arduino Cloud."
-        icon: fas fa-clouds
+        icon: fas fa-cloud
 
   portfolio:
     title: "Portfolio"
