@@ -6,7 +6,7 @@ alt: Automated Barcode Scanning System
 
 caption:
   title: Barcode Autoscanner
-  subtitle: Auto-interception of Barcode data being sent to a Thermal Printer
+  subtitle: Intercepting printing Barcodes
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
