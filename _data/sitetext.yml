@@ -126,16 +126,16 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      name: "Stephen Julian"
-        role: "Hardware and Software Systems Engineer"
-        image: assets/img/team/4.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com/superfood
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com/in/bizkiwi
-            icon: fab fa-linkedin-in
+    name: "Stephen Julian"
+      role: "Hardware and Software Systems Engineer"
+      image: assets/img/team/4.jpg
+      social:
+        - url: https://twitter.com
+          icon: fab fa-twitter
+        - url: https://facebook.com/superfood
+          icon: fab fa-facebook-f
+        - url: https://linkedin.com/in/bizkiwi
+          icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
