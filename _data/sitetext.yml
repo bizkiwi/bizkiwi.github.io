@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "BizKiwi.NZ offers ICT and Electrotechnology services that include hardware, firmware, software and server systems and integration solutions."
     section: services
     list:
       - title: "Ecommerce Solutions"
