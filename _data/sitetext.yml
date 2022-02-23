@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "**BizKiwi.NZ offers ICT and Electrotechnology services that include hardware, firmware, software, server systems and integration solutions.**"
+    text: "<strong>BizKiwi.NZ offers ICT and Electrotechnology services that include hardware, firmware, software, server systems and integration solutions.</strong>"
     section: services
     list:
       - title: "Ecommerce Solutions"
@@ -64,7 +64,7 @@ en: &DEFAULT_EN
     events:
       - title: "ICT Consultancy"
         year: "2010-2014"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Touch Screen Apps"
@@ -99,7 +99,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     text: "our story"
-    body: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
+    body: "<strong>BizKiwi.NZ started out building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer.</strong>"
     section: about
 
   clients:
@@ -122,12 +122,12 @@ en: &DEFAULT_EN
 
   team:
     title: "Team"
-    text: "**BizKiwi.NZ is a consultancy services brand represented by Stephen Julian.** <br> <br> Opportunities for new team members and partnerships may arise in the future."
+    text: "<strong>BizKiwi.NZ is a consultancy services brand represented by Stephen Julian.</strong> <br> <br> Opportunities for new team members and partnerships may arise in the future."
     subtext: Steve is a Full Stack software developer now diversifying into the emerging field of Internet of Things (IoT). His qualifications include a Bachelor of Information Technology and a Bachelor of Engineering Technology (Electrical).
     section: team
     people:
       - name: "Stephen Julian"
-        role: "BInfoTech, NCEE, NZDE (Electronics), BEngTech<br>Hardware and Software Systems Engineer"
+        role: "<strong>BInfoTech, NCEE, NZDE (Electronics), BEngTech</strong><br>Hardware and Software Systems Engineer"
         image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
