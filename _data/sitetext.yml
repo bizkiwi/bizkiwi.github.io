@@ -122,7 +122,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Team"
-    text: "BizKiwi.NZ is a consultancy services brand represented by Stephen Julian.<br>Opportunities for new team members and partnerships may arise in the future."
+    text: "BizKiwi.NZ is a consultancy services brand represented by Stephen Julian.<br><br>Opportunities for new team members and partnerships may arise in the future."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
