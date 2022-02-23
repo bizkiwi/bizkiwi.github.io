@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "BizKiwi.NZ offers ICT and Electrotechnology services that include hardware, firmware, software, server systems and integration solutions."
+    text: "**BizKiwi.NZ offers ICT and Electrotechnology services that include hardware, firmware, software, server systems and integration solutions.**"
     section: services
     list:
       - title: "Ecommerce Solutions"
@@ -122,7 +122,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Team"
-    text: "BizKiwi.NZ is a consultancy services brand represented by Stephen Julian. <br> <br> Opportunities for new team members and partnerships may arise in the future."
+    text: "**BizKiwi.NZ is a consultancy services brand represented by Stephen Julian.** <br> <br> Opportunities for new team members and partnerships may arise in the future."
     subtext: Steve is a Full Stack software developer now diversifying into the emerging field of Internet of Things (IoT). His qualifications include a Bachelor of Information Technology and a Bachelor of Engineering Technology (Electrical).
     section: team
     people:
