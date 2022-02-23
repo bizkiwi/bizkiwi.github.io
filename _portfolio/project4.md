@@ -5,7 +5,7 @@ image: assets/img/portfolio/04-full.jpg
 alt: Automated Barcode Scanning System
 
 caption:
-  title: AutoScan Barcode Input System
+  title: Barcode Autoscanner
   subtitle: Auto-interception of Barcode data being sent to a Thermal Printer
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---

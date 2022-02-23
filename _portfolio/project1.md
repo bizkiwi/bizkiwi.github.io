@@ -5,7 +5,7 @@ image: assets/img/portfolio/01-full.jpg
 alt: Ecommerce Storefront Website
 
 caption:
-  title: Ecommerce Storefront Website
+  title: Ecommerce Storefront
   subtitle: Shopify Platform Ecosystem
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---

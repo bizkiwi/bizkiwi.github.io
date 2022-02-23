@@ -4,9 +4,9 @@ subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/03-full.jpg
 alt: Order Ready Notification Display System
 
-caption: Made Order Advisor Touchscreen App for Cafes and Quick Service Restaurants
-  title: Order Ready Notification Display System
-  subtitle: Barcode scanning Touchscreen App for serving area Ready Order announcement
+caption: 
+  title: Made Order Advisor (MOA)
+  subtitle: Order Ready Notifier Touchscreen App for Cafes and Quick Service Restaurants
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
