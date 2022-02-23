@@ -1,12 +1,12 @@
 ---
-title: Project Name
+title: Made Order Advisor (MOA)
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/03-full.jpg
-alt: 
+alt: Order Ready Notification Display System
 
-caption:
-  title: Finish
-  subtitle: Identity
+caption: Made Order Advisor Touchscreen App for Cafes and Quick Service Restaurants
+  title: Order Ready Notification Display System
+  subtitle: Barcode scanning Touchscreen App for serving area Ready Order announcement
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!

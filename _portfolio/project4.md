@@ -1,12 +1,12 @@
 ---
-title: Project Name
+title: AutoScan Serial Port Monitoring Device
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/04-full.jpg
-alt: 
+alt: Automated Barcode Scanning System
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: AutoScan Barcode Input System
+  subtitle: Auto-interception of Barcode data being sent to a Thermal Printer
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
