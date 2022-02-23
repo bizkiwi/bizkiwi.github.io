@@ -1,11 +1,11 @@
 ---
-title: Made Order Advisor (MOA)
+title: Made Order Advisor
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/03-full.jpg
 alt: Order Ready Notification Display System
 
 caption: 
-  title: Made Order Advisor (MOA)
+  title: Made Order Advisor
   subtitle: Order Ready Notification System
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
