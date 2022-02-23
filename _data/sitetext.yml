@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "<strong>BizKiwi.NZ offers ICT and Electrotechnology services that include hardware, firmware, software, server systems and integration solutions.</strong>"
+    text: "<strong>BizKiwi.NZ offers ICT and Electrotechnology services that include hardware, firmware, software, servers and integrated solutions.</strong>"
     section: services
     list:
       - title: "Ecommerce Solutions"
@@ -51,20 +51,20 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Project examples by BizKiwi.NZ"
+    text: "<strong>Project examples by BizKiwi.NZ</strong>"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "A short history of BizKiwi.NZ"
+    text: "<strong>A short history of BizKiwi.NZ</strong>"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "ICT Consultancy"
         year: "2010-2014"
-        desc: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions"
+        desc: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Touch Screen Apps"
@@ -127,7 +127,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Stephen Julian"
-        role: "<strong>BInfoTech, NCEE, NZDE (Electronics), BEngTech</strong><br>Hardware and Software Systems Engineer"
+        role: "<strong>BInfoTech, NCEE, NZDE (Electronics), BEngTech (Electrical)</strong><br>Hardware and Software Systems Engineer"
         image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
