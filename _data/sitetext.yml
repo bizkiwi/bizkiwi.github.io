@@ -65,7 +65,7 @@ en: &DEFAULT_EN
       - title: "ICT Consultancy"
         year: "2010-2014"
         desc: "BizKiwi.NZ started out building ecommerce websites and other Information and Communications Technology (ICT) solutions from Queenstown, New Zealand."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/9.jpg
         alt:
       - title: "Made Order Advisor"
         year: "2014-2015"
@@ -85,12 +85,12 @@ en: &DEFAULT_EN
       - title: "Ecommerce and Inventory Systems"
         year: "2018-2020"
         desc: "Responsive Shopify ecommerce stores with integrated stock feeds and Inventory Management Systems."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/10.jpg
         alt:
       - title: "Medical Device Prototyping"
         year: "2020-2022"
         desc: "Proof of concept rapid electronics prototype device development for the Medical Devices industry."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/11.jpg
         alt:
       - title: "Open Source Software (OSS)"
         year: "2022+"
