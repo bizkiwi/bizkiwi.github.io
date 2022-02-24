@@ -1,12 +1,12 @@
 ---
 title: AutoScan Serial Port Monitoring Device
-subtitle: Intercepting printing Barcodes
+subtitle: Intercepting Printing Barcodes
 image: assets/img/portfolio/04-full.jpg
 alt: Automated Barcode Scanning System
 
 caption:
   title: Barcode Autoscanner
-  subtitle: Intercepting printing Barcodes
+  subtitle: Intercepting Printing Barcodes
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
