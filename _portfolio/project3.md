@@ -1,16 +1,15 @@
-<!--
 ---
-title: Made Order Advisor
+title: #### Made Order Advisor
 subtitle: Order Ready Notification System
 image: assets/img/portfolio/11-full.jpg
 alt: Order Ready Notification Display System for Cafes and Quick Service Restaurants.
----
--->
+
 caption: 
   title: Made Order Advisor
   subtitle: Order Ready Notification System
   thumbnail: assets/img/portfolio/08-thumbnail.png
 ---
+
 <iframe width="280" height="157" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong><br/>
