@@ -1,6 +1,6 @@
 ---
 title: AutoScan Serial Port Monitoring Device
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Intercepting printing Barcodes
 image: assets/img/portfolio/04-full.jpg
 alt: Automated Barcode Scanning System
 
@@ -12,7 +12,7 @@ caption:
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: 2017
+- Client: McDonald's Queenstown
+- Category: Automation
 

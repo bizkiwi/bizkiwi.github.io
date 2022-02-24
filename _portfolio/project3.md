@@ -1,18 +1,18 @@
 ---
 title: Made Order Advisor
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Order Ready Notification Display System
 image: assets/img/portfolio/03-full.jpg
-alt: Order Ready Notification Display System
+alt: Order Ready Notification Display System for Cafes and Quick Service Restaurants.
 
 caption: 
   title: Made Order Advisor
-  subtitle: Order Ready Notification System
+  subtitle:Order Ready Notification Display System
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: 2015
+- Client: McDonald's Queenstown
+- Category: Touchscreen Apps
 
