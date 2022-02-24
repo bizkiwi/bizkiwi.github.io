@@ -64,27 +64,32 @@ en: &DEFAULT_EN
     events:
       - title: "ICT Consultancy"
         year: "2010-2014"
-        desc: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions."
+        desc: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions from Queenstown, New Zealand."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Touch Screen Apps"
-        year: "2014-2017"
-        desc: "Made Order Advisor and MkAPPy touchscreen apps for select Mcdonald's restaurants in New Zealand."
+      - title: "Made Order Advisor Touch Screen App"
+        year: "2014-2015"
+        desc: "Made Order Advisor touchscreen app, for notifying customers their order is ready to collect, introduced in select McDonald's restaurants in New Zealand."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "MkAPPy Kitchen Touch Screen App"
+        year: "2016-2017"
+        desc: "MkAPPy touchscreen apps for kitchens introduced in select McDonald's restaurants in New Zealand."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Serial Port Monitoring Device"
         year: "2017"
-        desc: "AutoScan is a serial port monitoring device used to automatically intercept and 'scan' barcodes being printed to a thermal printer."
+        desc: "AutoScan is a serial port monitoring device used to automatically intercept and 'scan' barcodes being printed to a thermal printer. Introduced as a hardware automation add-on for Made Order Advisor with resulting service times reduced by around 6-8 seconds."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Ecommerce and Inventory Systems"
-        year: "2017-2020"
-        desc: "Shopify ecommerce stores with integrated stock feeds and Inventory Management System."
+        year: "2018-2020"
+        desc: "Responsive Shopify ecommerce stores with integrated stock feeds and Inventory Management Systems."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Medical Device Prototyping"
         year: "2020-2022"
-        desc: "Proof of concept rapid electronics prototype device development."
+        desc: "Proof of concept rapid electronics prototype device development for the Medical industry."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Open Source Software (OSS)"
@@ -169,7 +174,6 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://github.com/bizkiwi
         icon: "fab fa-github"
-        
       #- url: https://instagram.com
       #  icon: "fab fa-instagram"
 en-US:
