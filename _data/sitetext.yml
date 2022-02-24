@@ -64,7 +64,7 @@ en: &DEFAULT_EN
     events:
       - title: "ICT Consultancy"
         year: "2010-2014"
-        desc: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions from Queenstown, New Zealand."
+        desc: "BizKiwi.NZ started out building ecommerce websites and other Information and Communications Technology (ICT) solutions from Queenstown, New Zealand."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Made Order Advisor"
@@ -75,7 +75,7 @@ en: &DEFAULT_EN
       - title: "MkAPPy for Kitchens"
         year: "2016-2017"
         desc: "MkAPPy touchscreen apps for kitchens introduced in select McDonald's restaurants in New Zealand."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/5.jpg
         alt: image alt text
       - title: "Serial Port Monitor"
         year: "2017"
