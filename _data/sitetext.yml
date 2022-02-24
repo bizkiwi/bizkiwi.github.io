@@ -67,17 +67,17 @@ en: &DEFAULT_EN
         desc: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions from Queenstown, New Zealand."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Made Order Advisor Touch Screen App"
+      - title: "Made Order Advisor"
         year: "2014-2015"
         desc: "Made Order Advisor touchscreen app, for notifying customers their order is ready to collect, introduced in select McDonald's restaurants in New Zealand."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "MkAPPy Kitchen Touch Screen App"
+      - title: "MkAPPy for Kitchens"
         year: "2016-2017"
         desc: "MkAPPy touchscreen apps for kitchens introduced in select McDonald's restaurants in New Zealand."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Serial Port Monitoring Device"
+      - title: "Serial Port Monitor"
         year: "2017"
         desc: "AutoScan is a serial port monitoring device used to automatically intercept and 'scan' barcodes being printed to a thermal printer. Introduced as a hardware automation add-on for Made Order Advisor with resulting service times reduced by around 6-8 seconds."
         image: assets/img/timeline/4.jpg
@@ -89,7 +89,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Medical Device Prototyping"
         year: "2020-2022"
-        desc: "Proof of concept rapid electronics prototype device development for the Medical industry."
+        desc: "Proof of concept rapid electronics prototype device development for the Medical Devices industry."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Open Source Software (OSS)"
@@ -98,7 +98,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
-        align: right
+        align: left
     end: "Be Part <br> of Our <br> Story!"
 
   about:
