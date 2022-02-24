@@ -9,15 +9,6 @@ caption:
   subtitle: Order Ready Notification System
   thumbnail: assets/img/portfolio/08-thumbnail.png
 
-title: Made Order Advisor
-subtitle: Order Ready Notification System
-image: assets/img/portfolio/12-full.jpg
-alt: Order Ready Notification Display System for Cafes and Quick Service Restaurants.
-
-title: Made Order Advisor
-subtitle: Order Ready Notification System
-image: assets/img/portfolio/13-full.jpg
-alt: Order Ready Notification Display System for Cafes and Quick Service Restaurants.
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
