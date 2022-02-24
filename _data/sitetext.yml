@@ -70,7 +70,7 @@ en: &DEFAULT_EN
       - title: "Made Order Advisor"
         year: "2014-2015"
         desc: "Made Order Advisor touchscreen app, for notifying customers their order is ready to collect, introduced in select McDonald's restaurants in New Zealand."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/6.jpg
         alt: image alt text
       - title: "MkAPPy for Kitchens"
         year: "2016-2017"
@@ -80,7 +80,7 @@ en: &DEFAULT_EN
       - title: "Serial Port Monitor"
         year: "2017"
         desc: "AutoScan is a serial port monitoring device used to automatically intercept and 'scan' barcodes being printed to a thermal printer. Introduced as a hardware automation add-on for Made Order Advisor with resulting service times reduced by around 6-8 seconds."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/7.jpg
         alt:
       - title: "Ecommerce and Inventory Systems"
         year: "2018-2020"
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
       - title: "Open Source Software (OSS)"
         year: "2022+"
         desc: "Published open source software repositories originating from BizKiwi.NZ internal development and academic studies projects."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/8.jpg
         alt:
         # you can enforce the alignment
         align: left
