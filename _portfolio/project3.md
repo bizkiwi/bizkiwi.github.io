@@ -16,7 +16,7 @@ Order Numbers for customer orders that are ready to collect are displayed on lar
 Input Methods available are Barcode Scan, Touchscreen Keypad and via a BizKiwi AutoScan device reading Order Number printed to a POS printer.
 Counters show employees the time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>Made Order Advisor displaying on customer screens Order Numbers ready to be collected.</strong><br/>
 Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
