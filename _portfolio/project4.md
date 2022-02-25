@@ -8,7 +8,7 @@ caption:
   subtitle: Intercepting Printing Barcodes
   thumbnail: assets/img/portfolio/09-thumbnail.jpg
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=10000" frameborder="0" width="1684" height="1220" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width:100vw;height:100vh;"></iframe><!--
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=10000" frameborder="0" width="1684" height="1220" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="float:left;left:0px;top:0px;width:100vw;height:100vh;"></iframe><!--
 ## Introduction
 The Serial Port Monitor, also known as AutoScan, is an Arduino-based device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. Successful parsing and reading triggers writing of data to an LCD module and the USB port which connects the device to a second PC as USB host.\
 ## Motivation
