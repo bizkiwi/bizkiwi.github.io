@@ -51,7 +51,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "<strong>Project examples by BizKiwi.NZ</strong><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=10000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:fixed;display:block;z-index:1100;overflow-x:hidden;overflow-y:auto;margin:0px;padding:0px;left:0px;top:0px;right:0px;bottom:0px;width:100vw;height:100%;"></iframe>
+    text: "<strong>Project examples by BizKiwi.NZ</strong>
 "
     section: portfolio
     closebutton: "Close Project"
