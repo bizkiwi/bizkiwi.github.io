@@ -1,6 +1,6 @@
 ---
-title: AutoScan Serial Port Monitoring Device
-subtitle: Intercepting Printing Barcodes
+title: ""
+subtitle: ""
 image: assets/img/portfolio/15.jpg
 alt: Automated Barcode Scanning System
 
