@@ -19,9 +19,9 @@ The Serial Port Monitor was originally designed as a hardware addon improvement 
 Automated monitoring of the content of data sent to printers has a wide range of potential applications in Quick Service Restaurants and many other customer service and other industries.
 Requirements
 The objective of this project was to build a Serial Port Monitor device capable of monitoring and non-invasively intercepting data sent between a PC and an RS-232 connected thermal printer. The device firmware is required to parse intercepted text data for keywords and trigger events by writing data to a USB port connecting the device to a PC as the USB host.
--->
 {:.list-inline}
 - Date: 2017
 - Client: McDonald's Queenstown
 - Category: Automation
+--><p>
 <button class="btn btn-primary" style="position:fixed;padding:auto;height:6vh;width:9vw;left:90vw;top:92vh;z-index:1900;display:inline;bottom:2vh;right:1vw;float:right;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button></div>
