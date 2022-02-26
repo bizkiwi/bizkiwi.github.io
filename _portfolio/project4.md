@@ -1,7 +1,8 @@
-<div style="position:fixed;display:block;float:left;z-index:1300;overflow-x:hidden;overflow-y:hidden;margin:0px;padding:0px;left:0px;top:0px;right:0px;bottom:0px;width:100%;height:100%;">
+<!--<div style="position:fixed;display:block;float:left;z-index:1300;overflow-x:hidden;overflow-y:hidden;margin:0px;padding:0px;left:0px;top:0px;right:0px;bottom:0px;width:100%;height:100%;">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=5000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:fixed;display:block;z-index:1300;overflow-x:hidden;overflow-y:hidden;margin:0px;padding:0px;left:0px;top:0px;right:0px;bottom:0px;width:100%;height:100%;"></iframe>
 <img src="assets/img/portfolio/close-box.png" width="600" height="600" style="position:absolute;display:block;z-index:1900;overflow-x:hidden;overflow-y:hidden;margin-right:0px;margin-top:0px;padding:0px;top:0px;right:0px;width:600px;height:600px;" />
 </div>
+-->
 ---
 title: ""
 subtitle: ""
@@ -18,6 +19,7 @@ caption:
 -->
 <!--
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=10000" frameborder="0" width="1684" height="1220" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;z-index:-1;float:left;display:block;left:0px;top:0px;width:100vw;height:100vh;"></iframe>
+-->
 ## Introduction
 The Serial Port Monitor, also known as AutoScan, is an Arduino-based device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. Successful parsing and reading triggers writing of data to an LCD module and the USB port which connects the device to a second PC as USB host.\
 ## Motivation
@@ -29,4 +31,3 @@ The objective of this project was to build a Serial Port Monitor device capable 
 - Date: 2017
 - Client: McDonald's Queenstown
 - Category: Automation
--->
