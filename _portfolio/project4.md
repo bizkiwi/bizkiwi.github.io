@@ -20,6 +20,8 @@ caption:
 <!--
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=10000" frameborder="0" width="1684" height="1220" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;z-index:-1;float:left;display:block;left:0px;top:0px;width:100vw;height:100vh;"></iframe>
 -->
+<iframe src="file:///C:/Users/steve/Desktop/qr%20ode%203.pdf" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;z-index:1100;float:left;display:block;left:0px;top:0px;right:0px;botttom:0px;width:100vw;height:100vh;"></iframe>
+<!--
 ## Introduction
 The Serial Port Monitor, also known as AutoScan, is an Arduino-based device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. Successful parsing and reading triggers writing of data to an LCD module and the USB port which connects the device to a second PC as USB host.\
 ## Motivation
@@ -31,3 +33,4 @@ The objective of this project was to build a Serial Port Monitor device capable 
 - Date: 2017
 - Client: McDonald's Queenstown
 - Category: Automation
+-->
