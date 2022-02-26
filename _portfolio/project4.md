@@ -24,4 +24,4 @@ The objective of this project was to build a Serial Port Monitor device capable 
 - Client: McDonald's Queenstown
 - Category: Automation
 --><p>
-<button class="btn btn-primary" style="position:fixed;padding:auto;height:6vh;width:9vw;left:90vw;top:92vh;z-index:1900;display:inline;bottom:2vh;right:1vw;float:right;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button></div>
+<button class="btn btn-primary" style="position:fixed;padding:auto;height:5vh;width:9vw;left:90vw;top:93vh;z-index:1900;display:inline;bottom:2vh;right:1vw;float:right;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button></p></div>
