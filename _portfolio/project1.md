@@ -8,7 +8,6 @@ caption:
   title: Ecommerce Storefronts
   subtitle: Shopify Digital Commerce
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
----
 
 {:.list-inline}
 - Date: January 2017
