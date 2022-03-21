@@ -8,7 +8,8 @@ caption:
   title: GitHub Repositories
   subtitle: Free Open Source Software (FOSS)
   thumbnail: assets/img/portfolio/10-thumbnail.jpg
-
+  
+---
 {:.list-inline}
 - Date: February 2022
 - Client: BizKiwi.NZ
