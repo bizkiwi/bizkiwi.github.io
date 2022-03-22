@@ -1,6 +1,6 @@
 ---
-title: "Barcode Autoscanner"
-subtitle: "AutoScan"
+title: Barcode Autoscanner
+subtitle: For Intercepting Printing Barcodes
 image: ""
 alt: ""
 
