@@ -7,7 +7,7 @@ alt: Order Ready Notification Display System for Cafes and Quick Service Restaur
 caption: 
   title: Made Order Advisor
   subtitle: Order Ready Notification System
-  thumbnail: assets/img/portfolio/03-thumbnail.png
+  thumbnail: assets/img/portfolio/03-thumbnail.jpg
 
 
 <iframe width="280" height="157" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -7,7 +7,7 @@ alt: Tablet App for Hospitality Industry
 caption:
   title: MkAPPy Kitchen
   subtitle: Touchscreen Tablet App for Kitchens
-  thumbnail: assets/img/portfolio/02-thumbnail.png
+  thumbnail: assets/img/portfolio/02-thumbnail.jpg
 
 ---
 {:.list-inline}
