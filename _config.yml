@@ -23,7 +23,7 @@ description: "Welcome to the website of BizKiwi.NZ."
 author     : Stephen Julian
 logo:
     path   : assets\img\bizkiwi-favicon-128x128px.png
-    height : 128
+    height : 64
 #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
