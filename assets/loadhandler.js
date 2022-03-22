@@ -1,6 +1,6 @@
 function LoadHandler() {
 	delay(20000);	
-	Console.log("LoadHandler DONE");
+	//console.log("LoadHandler DONE");
 }
 
 function ShowQRcode() {
@@ -29,5 +29,5 @@ function ShowQRcode() {
 		//var selector = document.getElementById("qrcode-image").style;
 		//selector.zIndex = "20000";
 	}
-	Console.log("ShowQRcode DONE");
+	//console.log("ShowQRcode DONE");
 }
