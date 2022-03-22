@@ -25,6 +25,7 @@ function ShowQRcode() {
 		selector.height = "100vh";
 		selector.backgroundColor = "#000000";
 		selector.padding = "auto";
+		selector.float = "left";
 		var selector = document.getElementById("qrcode-image").style;
 		selector.zIndex = "20000";
 	}
