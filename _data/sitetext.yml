@@ -159,7 +159,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "<div style='color:#ffffff;'>Submit the contact form or email hello@bizkiwi.nz<br /> or call/text 022-3601234</div><div id='qrcodemodal'>&nbsp;</div><script language='JavaScript' src='assets/loadhandler.js'></script>"
+    text: "<div style='color:#ffffff;'>Submit the contact form or email hello@bizkiwi.nz<br /> or call/text 022-3601234</div><div id='qrcodemodal' style='visibility:hidden;display:none;'>&nbsp;</div><script language='JavaScript' src='assets/loadhandler.js'></script>"
     image: assets/img/team/4.jpg
     section: contact
     name: "Name*"
