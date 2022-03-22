@@ -191,7 +191,7 @@ en: &DEFAULT_EN
         
         <li class="list-inline-item">
             <a href="https://bizkiwi.nz" target="_blank">
-              <i class="qrcode"><&nbsp;</i>
+              <div class="qrcode">Link</div>
             </a>
         </li>
 
