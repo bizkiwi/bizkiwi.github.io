@@ -7,7 +7,7 @@
   <div class="modal-dialog" style="width:100vw;height:100vh;left:0;bottom:0;margin:0;">
     <div class="modal-content" style="width:100vw;height:100vh;left:0;bottom:0;margin:0;">
       <div class="close-modal" data-dismiss="modal" style="width:100vw;left:0;bottom:0;margin:0;">
-		<a href="javascript:ShowQRcode();"><img id="close-icon" style="position:relative;display:block;float:right;margin-right:10px;width:10%;max-width:180px;max-height:180px;margin-left:auto;margin-right:0;"
+		<a href="javascript:ShowQRcode();"><img id="close-icon" style="position:relative;display:block;float:right;margin-right:4%;width:10%;max-width:180px;max-height:180px;margin-left:auto;margin-right:0;"
 			src="assets/img/close-icon.png"
 			alt="Close window icon" />
 		</a>
@@ -22,22 +22,24 @@
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
               <!-- Project Details Go Here -->
-              <h2 class="text-uppercase">Scan QR Code</h2>
-              <p class="item-intro text-muted">Scan Code to load site on your Smartphone</p>
-              <img id="qrcode-image" style="display:inline;width:90%;max-width:600px;max-height:600px;margin-left:auto;margin-right:auto;"
+              <h2 class="text-uppercase" style="text-align:center;">Scan QR Code</h2>
+              <p class="item-intro text-muted" style="text-align:center;">Scan Code to load site on your Smartphone</p>
+              <img id="qrcode-image" style="position:relative;display:block;width:90%;max-width:600px;max-height:600px;margin-left:auto;margin-right:auto;"
                 src="assets/img/bizkiwinz-qrcode.png"
                 alt="QR Code for BizKiwi.NZ website"
               />
               <p></p>
-              <button
-                class="btn btn-primary"
-                data-dismiss="modal"
-                type="button" style="margin-left:auto;margin-right:auto;float:none;"
-              >
-                <i class="fas fa-times"></i>
-                {{ site.data.sitetext[site.locale].portfolio.closebutton |
-                default: "Close Project" }}
-              </button>
+			  <div style="margin:0;width:100%;padding-left:auto;padding-right:auto;">
+				  <button
+					class="btn btn-primary"
+					data-dismiss="modal"
+					type="button" style="margin:0;float:none;"
+				  >
+					<i class="fas fa-times"></i>
+					{{ site.data.sitetext[site.locale].portfolio.closebutton |
+					default: "Close Project" }}
+				  </button>
+			  </div>
             </div>
           </div>
         </div>
