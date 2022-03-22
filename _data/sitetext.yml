@@ -95,9 +95,14 @@ en: &DEFAULT_EN
         desc: "Published open source software repositories originating from BizKiwi.NZ internal development and academic studies projects."
         image: assets/img/timeline/8.jpg
         alt:
+      - title: "Open Source Software (OSS)"
+        year: "2022+"
+        desc: "Published open source software repositories originating from BizKiwi.NZ internal development and academic studies projects."
+        image: assets/img/timeline/bizkiwi-logo-sign.png
+        alt:
         # you can enforce the alignment
         align: left
-    end: "<img src='assets/img/timeline/bizkiwi-logo-sign.png' style='max-width:200px;' />"
+    end: "<img src='assets/img/timeline/bizkiwi-logo-sign.png' style='max-width:130px;' />"
     #end: "Be Part <br> of Our <br> Story!"
 
   about:
