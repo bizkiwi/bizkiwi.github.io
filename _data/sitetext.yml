@@ -146,7 +146,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "<div>Lorem ipsum or call 123456789</div>"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
