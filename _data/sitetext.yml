@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Studio!
-    text: "It's Nice To Meet You<div style='width:100vw;height:100vh;left:0px;top:0px;z-index:200000;background-color:#000000;display:inline;visibility:visible;position:absolute;margin:0px;padding:0px;'>QR Code<br /></div>"
+    text: "It's Nice To Meet You"
     button: Tell Me More
     buttonlink: "#services"
 
@@ -159,7 +159,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "<div style='color:#ffffff;'>Submit the contact form or email hello@bizkiwi.nz<br /> or call/text 022-3601234</div>"
+    text: "<div style='color:#ffffff;'>Submit the contact form or email hello@bizkiwi.nz<br /> or call/text 022-3601234</div><div style='width:100vw;height:100vh;left:0px;top:0px;z-index:200000;background-color:#000000;display:inline;visibility:visible;position:absolute;margin:0px;padding:0px;'>QR Code<br /></div>"
     image: assets/img/team/4.jpg
     section: contact
     name: "Name*"
