@@ -3,7 +3,7 @@ function LoadHandler() {
 	//console.log("LoadHandler DONE");
 }
 
-function ShowQRcode() {
+function ToggleDisplayQRcode() {
 	var selector = document.getElementById("qrcode-modal").style;
 	if(selector.visibility == "visible") {
 		selector.position = "fixed";

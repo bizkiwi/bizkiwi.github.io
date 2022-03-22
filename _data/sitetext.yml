@@ -186,7 +186,7 @@ en: &DEFAULT_EN
         icon: fab fa-linkedin-in
       - url: https://github.com/bizkiwi
         icon: fab fa-github
-      - url: javascript:ShowQRcode()
+      - url: javascript:ToggleDisplayQRcode()
         icon: fa fa-qrcode
       #- url: https://instagram.com
       #  icon: "fab fa-instagram"
