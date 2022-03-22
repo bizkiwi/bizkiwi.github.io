@@ -181,13 +181,13 @@ en: &DEFAULT_EN
       #- url: https://facebook.com
       #  icon: "fab fa-facebook-f"
       - url: mailto:steve@bizkiwi.nz
-        icon: "far fa-envelope"
+        icon: far fa-envelope
       - url: https://linkedin.com/in/bizkiwi
-        icon: "fab fa-linkedin-in"
+        icon: fab fa-linkedin-in
       - url: https://github.com/bizkiwi
-        icon: "fab fa-github"
+        icon: fab fa-github
       - url: https://bizkiwi.nz/bizkiwi
-        icon: "fa-solid fa-qrcode"
+        icon: fa-solid fa-qrcode
       #- url: https://instagram.com
       #  icon: "fab fa-instagram"
 en-US:
@@ -349,11 +349,6 @@ es: &DEFAULT_ES
         icon: "fab fa-github"
       - url: https://bizkiwi.nz/bizkiwi
         icon: "fa-solid fa-qrcode"
-        
-----
-      <i class="fa-regular fa-qrcode"></i>
-      
-      
       - url: https://instagram.com
         icon: "fab fa-instagram"
 es-ES:
