@@ -10,7 +10,8 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 
 ---
-<iframe width="300" height="167" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="300" height="167"  -->
+<iframe width="90vw" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong><br/>
 Order Numbers for customer orders that are ready to collect are displayed on large displays in the Customer Service Area.
 Input Methods available are Barcode Scan, Touchscreen Keypad and via a BizKiwi AutoScan device reading Order Number printed to a POS printer.
