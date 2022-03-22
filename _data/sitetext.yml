@@ -159,7 +159,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "<div style='color:#ffffff;'>Submit the contact form or email hello@bizkiwi.nz<br /> or call/text 022-3601234</div><div id='qrcodemodal' style='visibility:hidden;display:none;z-index:-10000;position:absolute;width:100vw;height:100vh;left:0px;bottom:0px;background-color:#000000;padding:0px;'><img id='qrcode-image' src='assets/img/bizkiwinz-qrcode.png' style='width:50vw;max-width:300px;height:50vw;max-height:300px;margin-top:70vh;float:left;' /></div><script type='text/javascript' src='assets/loadhandler.js'></script>"
+    text: "<div style='color:#ffffff;'>Submit the contact form or email hello@bizkiwi.nz<br /> or call/text 022-3601234</div>"
     image: assets/img/team/4.jpg
     section: contact
     name: "Name*"
@@ -190,6 +190,9 @@ en: &DEFAULT_EN
         icon: fa fa-qrcode
       #- url: https://instagram.com
       #  icon: "fab fa-instagram"
+      
+      
+      
 en-US:
   <<: *DEFAULT_EN
 en-CA:

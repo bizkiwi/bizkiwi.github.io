@@ -1,0 +1,55 @@
+
+<!-- Footer -->
+<footer class="footer" id="footer" style="background-color: white">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-4">
+        <span class="copyright"
+          >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
+        >
+      </div>
+      <!-- Social Media -->
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          {% for link in site.data.sitetext[site.locale].footer.social %}
+          <li class="list-inline-item">
+            {% if link.url %}
+            <a href="{{ link.url }}">
+              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+            </a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <!-- Legal -->
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li class="list-inline-item">
+            <a href="legal"
+              >{{ site.data.sitetext[site.locale].footer.legal | default:
+              "Privacy Policy" }}</a
+            >
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div id='qrcodemodal' style='visibility:hidden;display:none;z-index:-10000;position:absolute;width:100vw;height:100vh;left:0px;bottom:0px;background-color:#000000;padding:0px;'><img id='qrcode-image' src='assets/img/bizkiwinz-qrcode.png' style='width:50vw;max-width:300px;height:50vw;max-height:300px;margin-top:70vh;float:left;' /></div>
+</footer>
+{% if page.layout == "page" %}
+<script>
+  fixPageShort();
+  function fixPageShort() {
+    if (window.innerHeight > document.body.offsetHeight) {
+      document.getElementById("footer").style.position = "fixed";
+      document.getElementById("footer").style.bottom = 0;
+      document.getElementById("footer").style.right = 0;
+      document.getElementById("footer").style.left = 0;
+      document.getElementById("footer").style.width = "100%";
+    }
+  }
+</script>
+{% endif %}
+<script type='text/javascript' src='assets/loadhandler.js'></script>
+<!-- End Footer -->
