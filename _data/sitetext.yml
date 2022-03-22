@@ -186,6 +186,8 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://github.com/bizkiwi
         icon: "fab fa-github"
+      - url: https://bizkiwi.nz
+        icon: "assets/img/bizkiwinz-qrcode.png"
       #- url: https://instagram.com
       #  icon: "fab fa-instagram"
 en-US:
