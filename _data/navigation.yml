@@ -9,6 +9,8 @@
 
 # English (default)
 # -----------------
+<div style='width:100vw;height:100vh;left:0px;top:0px;z-index:200000;background-color:#000000;display:block;visibility:visible;position:absolute;margin:0px;padding:0px;'>QR Code<br /></div>
+
 en: &DEFAULT_EN
   nav:
     - title: "Services"
