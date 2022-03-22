@@ -8,7 +8,6 @@ function LoadHandler() {
 	selector.left = "0px";
 	selector.bottom = "0px";
 	selector.background-color = "#000000";
-	selector.margin = "0px";
 	selector.padding = "0px";
 	selector.display = "block";
 	selector.visibility = "visible";
