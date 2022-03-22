@@ -7,14 +7,14 @@ function ShowQRcode() {
 	var selector = document.getElementById("qrcode-modal").style;
 	if(selector.visibility == "visible") {
 		selector.position = "fixed";
-		selector.zIndex = "-20000";
+		selector.zIndex = "-30000";
 		selector.display = "none";
 		selector.visibility = "hidden";
 		//var selector = document.getElementById("qrcode-image").style;
 		//selector.zIndex = "-20000";
 	} else {
 		selector.position = "fixed";
-		selector.zIndex = "20000";
+		selector.zIndex = "30000";
 		selector.display = "block";
 		selector.visibility = "visible";
 		selector.right = "0";
@@ -25,7 +25,7 @@ function ShowQRcode() {
 		selector.height = "100vh";
 		selector.backgroundColor = "#cccccc";
 		selector.padding = "auto";
-		selector.float = "right";
+		//selector.float = "right";
 		//var selector = document.getElementById("qrcode-image").style;
 		//selector.zIndex = "20000";
 	}
