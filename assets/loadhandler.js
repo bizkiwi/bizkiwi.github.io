@@ -17,5 +17,8 @@ function ShowQRcode() {
 	selector.padding = "auto";
 	selector.display = "block";
 	selector.visibility = "visible";
+	
+	var selector = document.getElementById("qrcode-image").style;
+	selector.zIndex = "20000";
 	Console.log("ShowQRcode DONE");
 }
