@@ -1,15 +1,14 @@
 ---
 title: ""
 subtitle: ""
-image: assets/img/portfolio/11-full.jpg
+image: assets/img/portfolio/03-extended.jpg
 alt: Order Ready Notification Display System for Cafes and Quick Service Restaurants.
 
 caption: 
   title: Made Order Advisor
   subtitle: Order Ready Notification System
-  thumbnail: assets/img/portfolio/08-thumbnail.png
+  thumbnail: assets/img/portfolio/03-thumbnail.png
 
----
 <iframe width="280" height="157" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong><br/>
@@ -21,6 +20,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 
 <strong>Made Order Advisor displaying on customer screens Order Numbers ready to be collected.</strong><br/>
 Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.<br/>
+
 ---
 {:.list-inline}
 - Date: 2015

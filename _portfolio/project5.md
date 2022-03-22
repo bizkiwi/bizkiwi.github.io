@@ -1,13 +1,13 @@
 ---
 title: GitHub Repositories
 subtitle: Free Open Source Software (FOSS)
-image: assets/img/portfolio/10-full.jpg
+image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
   title: GitHub Repositories
   subtitle: Free Open Source Software (FOSS)
-  thumbnail: assets/img/portfolio/10-thumbnail.jpg
+  thumbnail: assets/img/portfolio/05-thumbnail.jpg
   
 ---
 {:.list-inline}
