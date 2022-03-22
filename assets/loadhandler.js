@@ -6,7 +6,7 @@ function LoadHandler() {
 	selector.width = "100vw";
 	selector.height = "100vh";
 	selector.left = "0px";
-	selector.top = "0px";
+	selector.bottom = "0px";
 	selector.background-color = "#000000";
 	selector.margin = "0px";
 	selector.padding = "0px";
