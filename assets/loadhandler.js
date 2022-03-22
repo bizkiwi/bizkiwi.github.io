@@ -11,7 +11,7 @@ function ShowQRcode() {
 	selector.height = "100vh";
 	selector.left = "0px";
 	selector.bottom = "0px";
-	selector.background-color = "#000000";
+	selector.backgroundColor = "#000000";
 	selector.padding = "auto";
 	selector.display = "block";
 	selector.visibility = "visible";
