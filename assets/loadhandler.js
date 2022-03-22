@@ -4,7 +4,7 @@ function LoadHandler() {
 }
 
 function ShowQRcode() {
-	var selector = document.getElementById("#qrcodemodal").style;
+	var selector = document.getElementById("qrcodemodal").style;
 	selector.position = "absolute";
 	selector.zIndex = "20000";
 	selector.width = "100vw";
