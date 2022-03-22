@@ -1,8 +1,8 @@
 ---
 title: Barcode Autoscanner
 subtitle: For Intercepting Printing Barcodes
-image: ""
-alt: ""
+image: 
+alt: 
 
 caption:
   title: Barcode Autoscanner
