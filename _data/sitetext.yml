@@ -183,11 +183,11 @@ en: &DEFAULT_EN
       - url: mailto:steve@bizkiwi.nz
         icon: far fa-envelope
       - url: https://linkedin.com/in/bizkiwi
-        icon: "fab fa-linkedin-in"
+        icon: fab fa-linkedin-in
       - url: https://github.com/bizkiwi
-        icon: "fab fa-github"
+        icon: fab fa-github
       - url: https://bizkiwi.nz
-        icon: "qrcode"
+        icon: qrcode
       #- url: https://instagram.com
       #  icon: "fab fa-instagram"
 en-US:
