@@ -12,7 +12,7 @@ function ShowQRcode() {
 	selector.left = "0px";
 	selector.bottom = "0px";
 	selector.background-color = "#000000";
-	selector.padding = "0px";
+	selector.padding = "auto";
 	selector.display = "block";
 	selector.visibility = "visible";
 	Console.log("ShowQRcode DONE");

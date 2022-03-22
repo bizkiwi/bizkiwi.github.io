@@ -6,6 +6,4 @@
 #Image Customization
 header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
-.qrcodee:
-    background-color: "transparent"
-    background-image: url('../assets/img/bizkiwinz-qrcode.png')
+
