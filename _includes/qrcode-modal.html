@@ -1,11 +1,10 @@
 <!-- QR Code Modal -->
 <div
   class="portfolio-modal modal fade"
-  id="qrcode-div"
+  id="qrcode-modal"
   tabindex="-1"
   role="dialog"
-  aria-hidden="true"
->
+  aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="close-modal" data-dismiss="modal">
@@ -20,7 +19,7 @@
               <!-- Project Details Go Here -->
               <h2 class="text-uppercase">Scan QR Code</h2>
               <p class="item-intro text-muted">Scan Code to load site on your Smartphone</p>
-              <img
+              <img id="qrcode-image" style="width:50%;max-width:300px;height:50vw;max-height:300px;margin-top:20vh;margin-left:auto;margin-right:auto;"
                 class="img-fluid d-block mx-auto"
                 src="assets/img/bizkiwinz-qrcode.png"
                 alt=""
