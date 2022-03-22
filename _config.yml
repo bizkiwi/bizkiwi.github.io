@@ -19,9 +19,12 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : BizKiwi.NZ
 email      : steve@bizkiwi.nz #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "Welcome to the website of BizKiwi.NZ."
 author     : Stephen Julian
-# logo:     #optional, defaults to site title
+logo:      : 
+    path:  : assets\img\bizkiwi-favicon-128x128px.png
+    height: 128
+#optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
@@ -36,7 +39,7 @@ collections:
 markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
-# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
 
 plugins:
