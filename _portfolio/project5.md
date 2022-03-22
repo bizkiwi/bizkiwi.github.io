@@ -2,7 +2,7 @@
 title: GitHub Repositories
 subtitle: Free Open Source Software (FOSS)
 image: assets/img/portfolio/05-full.jpg
-alt: 
+alt: GitHub Free Open Source Software Repositories
 
 caption:
   title: GitHub Repositories
