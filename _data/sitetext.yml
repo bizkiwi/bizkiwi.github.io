@@ -97,7 +97,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: left
-    end: "<img src='assets/img/timeline/bizkiwi-logo-sign.png'/>"
+    end: "<img src='assets/img/timeline/bizkiwi-logo-sign.png' style='max-width:200px;' />"
     #end: "Be Part <br> of Our <br> Story!"
 
   about:
