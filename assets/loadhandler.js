@@ -23,7 +23,7 @@ function ToggleDisplayQRcode() {
 		selector.bottom = "0";
 		selector.width = "100%";
 		selector.height = "100vh";
-		selector.backgroundColor = "#cccccc";
+		selector.backgroundColor = "#ffffff";
 		selector.padding = "auto";
 		//selector.float = "right";
 		//var selector = document.getElementById("qrcode-image").style;
