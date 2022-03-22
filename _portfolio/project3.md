@@ -11,12 +11,12 @@ caption:
 
 ---
 <!-- <iframe width="300" height="167"  -->
-<iframe width="600" height="334" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="340" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong><br/>
 Order Numbers for customer orders that are ready to collect are displayed on large displays in the Customer Service Area.
 Input Methods available are Barcode Scan, Touchscreen Keypad and via a BizKiwi AutoScan device reading Order Number printed to a POS printer.
-Counters show employees the time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.<br/>
-<iframe width="300" height="167" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Counters show employees the time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.<br/><br />
+<iframe width="640" height="340" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <strong>Made Order Advisor displaying on customer screens Order Numbers ready to be collected.</strong><br/>
 Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.<br/>
 
