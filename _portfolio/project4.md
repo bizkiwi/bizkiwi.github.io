@@ -1,14 +1,15 @@
 ---
 title: Barcode Autoscanner
 subtitle: For Intercepting Printing Barcodes
-image: 
-alt: 
+image: assets/img/portfolio/04-thumbnail.jpg
+alt: Intercepting Printing Barcodes
 
 caption:
   title: Barcode Autoscanner
   subtitle: Intercepting Printing Barcodes
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 
+---
 <div style="width:100vw;height:100vh;margin:0px;padding:0px;display:inline;position:fixed;z-index:1900;">
 <iframe src="" frameborder="0" width="100vw" height="100vh" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:fixed;z-index:1900;display:inline;left:0px;top:0px;right:0px;bottom:0px;width:100vw;height:100vh;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;padding:0px;"></iframe>
 <!--
