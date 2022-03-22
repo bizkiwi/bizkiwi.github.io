@@ -188,14 +188,15 @@ en: &DEFAULT_EN
         icon: fab fa-github
       - url: https://bizkiwi.nz
         icon: qrcode
-        
+
+----
         <li class="list-inline-item">
             <a href="https://bizkiwi.nz" target="_blank">
-              <img style="background-image: url('../assets/img/bizkiwinz-qrcode.png');">Link</img>
+              <i style="background-image:url('../assets/img/bizkiwinz-qrcode.png');"></i>
             </a>
         </li>
 
-#
+----
       #- url: https://instagram.com
       #  icon: "fab fa-instagram"
 en-US:
