@@ -192,7 +192,7 @@ en: &DEFAULT_EN
 ----
         <li class="list-inline-item">
             <a href="https://bizkiwi.nz" target="_blank">
-              <i style="background-image:url('../assets/img/bizkiwinz-qrcode.png');"></i>
+              <i style="width:20px;background-image:url('../assets/img/bizkiwinz-qrcode.png');"></i>
             </a>
         </li>
 
