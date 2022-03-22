@@ -8,10 +8,11 @@ function ShowQRcode() {
 	selector.position = "absolute";
 	selector.zIndex = "20000";
 	selector.width = "200vw";
-	selector.height = "100vh";
+	selector.height = "200vh";
 	selector.left = "-50vw";
 	selector.right = "150vw";
-	selector.bottom = "0px";
+	selector.right = "-50vh";
+	selector.bottom = "-50vh";
 	selector.backgroundColor = "#000000";
 	selector.padding = "auto";
 	selector.display = "block";
