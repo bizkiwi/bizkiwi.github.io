@@ -10,12 +10,12 @@
       <div style="position:relative;display:block;width:100vw;height:100vh;left:0;bottom:0;margin:0;">
         <div style="width:100vw;height:100vh;">
           <div style="width:100vw;height:100vh;">
-            <div style="width:100vw;height:100vh;">
+            <div style="width:100vw;height:100vh;position:relative;display:inline;">
 			
-			  <div style="position:relative;display:block;float:right;width:100vw;height:10vh;left:0;bottom:0;margin:0;padding-left:auto;padding-right:0;z-index:35000;background-color:#cccccc;">
-				<div style="position:relative;display:block;float:right;width:100%;max-width:9vh;padding-right:1vh;">
-					<a href="javascript:ToggleDisplayQRcode();" style="position:relative;display:block;float:right;margin-top:0px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;padding-top:1vh;width:100%;">
-						<img id="close-icon" style="position:relative;display:block;float:left;margin-right:auto;width:100%;max-width:9vh;max-height:9vh;"
+			  <div style="position:relative;display:inline;float:left;width:100vw;height:10vh;left:0;bottom:0;margin:0;padding-left:auto;padding-right:0;z-index:35000;background-color:#cccccc;">
+				<div style="position:relative;display:inline;float:right;width:100%;max-width:9vh;padding-right:1vh;">
+					<a href="javascript:ToggleDisplayQRcode();" style="position:relative;display:inline;float:right;margin-top:0px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;padding-top:1vh;width:100%;">
+						<img id="close-icon" style="position:relative;display:inline;float:left;margin-right:auto;width:100%;max-width:9vh;max-height:9vh;"
 						src="assets/img/close-icon.png"
 						alt="Close window icon" />
 					</a>
@@ -23,13 +23,13 @@
 			  </div>
 	  
               <!-- Project Details Go Here -->
-              <div style="position:relative;z-index:34000;float:left;width:100vw;height:90vh;margin-top:10vh;padding-left:auto;padding-right:auto;">
+              <div style="position:relative;display:inline;z-index:36000;float:left;width:100vw;height:100vh;margin-top:10vh;padding-left:auto;padding-right:auto;">
 
 				<br/><br/><br/>
 				<h2 class="text-uppercase" style="text-align:center;">Scan QR Code</h2>
 				<p class="item-intro text-muted" style="text-align:center;">Scan Code to load this site on another device.</p><br />
 		
-				  <img id="qrcode-image" style="position:relative;display:block;width:70%;max-width:500px;max-height:500px;margin-left:auto;margin-right:auto;"
+				  <img id="qrcode-image" style="position:relative;display:inline;width:70%;max-width:500px;max-height:500px;margin-left:auto;margin-right:auto;"
 					src="assets/img/bizkiwinz-qrcode.png"
 					alt="QR Code for BizKiwi.NZ website"
 				  />
@@ -38,7 +38,7 @@
 				  <button
 					class="btn btn-primary"
 					data-dismiss="qrcode-modal"
-					type="button" style="position:relative;margin:auto;display:block;" onclick="ToggleDisplayQRcode();"
+					type="button" style="position:relative;margin:auto;display:inline;" onclick="ToggleDisplayQRcode();"
 				  >
 					<i class="fas fa-times"></i>
 					Go Back
