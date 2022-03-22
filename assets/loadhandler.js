@@ -9,12 +9,12 @@ function ShowQRcode() {
 	selector.zIndex = "20000";
 	selector.display = "block";
 	selector.visibility = "visible";
-	selector.left = "-50vw";
-	selector.right = "150vw";
-	selector.top = "-50vh";
-	selector.bottom = "-50vh";
-	selector.width = "200vw";
-	selector.height = "200vh";
+	selector.left = "0vw";
+	//selector.right = "150vw";
+	//selector.top = "-50vh";
+	selector.bottom = "0vh";
+	selector.width = "100vw";
+	selector.height = "100vh";
 	selector.backgroundColor = "#000000";
 	selector.padding = "auto";
 
