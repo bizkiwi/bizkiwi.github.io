@@ -155,7 +155,9 @@ en: &DEFAULT_EN
           - url: https://linkedin.com/in/bizkiwi
             icon: fab fa-linkedin-in
           - url: https://github.com/bizkiwi
-            icon: "fab fa-github"
+            icon: "fab fa-github"          
+            
+<i class="fa fa-qrcode" aria-hidden="true"></i>
 
   contact:
     title: "Contact Us"
@@ -186,8 +188,8 @@ en: &DEFAULT_EN
         icon: fab fa-linkedin-in
       - url: https://github.com/bizkiwi
         icon: fab fa-github
-      - url: https://bizkiwi.nz
-        icon: qrcode
+      - url: https://bizkiwi.nz/bizkiwinz-qrcode.png
+        icon: "fa fa-qrcode"
 
 ----
         <li class="list-inline-item">
