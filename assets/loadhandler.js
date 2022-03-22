@@ -4,15 +4,15 @@ function LoadHandler() {
 }
 
 function ShowQRcode() {
-	var selector = document.getElementById("qrcodemodal").style;
+	var selector = document.getElementById("qrcode-modal").style;
 	selector.position = "absolute";
 	selector.zIndex = "20000";
 	selector.display = "block";
 	selector.visibility = "visible";
 	selector.left = "-50vw";
 	selector.right = "150vw";
-	selector.right = "-50vh";
-	selector.bottom = "-150vh";
+	selector.top = "-50vh";
+	selector.bottom = "-50vh";
 	selector.width = "200vw";
 	selector.height = "200vh";
 	selector.backgroundColor = "#000000";
