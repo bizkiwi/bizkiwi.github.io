@@ -10,8 +10,8 @@ function ShowQRcode() {
 		selector.zIndex = "-20000";
 		selector.display = "none";
 		selector.visibility = "hidden";
-		var selector = document.getElementById("qrcode-image").style;
-		selector.zIndex = "-20000";
+		//var selector = document.getElementById("qrcode-image").style;
+		//selector.zIndex = "-20000";
 	} else {
 		selector.position = "fixed";
 		selector.zIndex = "20000";
@@ -23,11 +23,11 @@ function ShowQRcode() {
 		selector.bottom = "0";
 		selector.width = "100%";
 		selector.height = "100vh";
-		selector.backgroundColor = "#ffffff";
+		selector.backgroundColor = "#cccccc";
 		selector.padding = "auto";
 		selector.float = "right";
-		var selector = document.getElementById("qrcode-image").style;
-		selector.zIndex = "20000";
+		//var selector = document.getElementById("qrcode-image").style;
+		//selector.zIndex = "20000";
 	}
 	Console.log("ShowQRcode DONE");
 }
