@@ -7,9 +7,10 @@ function ShowQRcode() {
 	var selector = document.getElementById("qrcodemodal").style;
 	selector.position = "absolute";
 	selector.zIndex = "20000";
-	selector.width = "100vw";
+	selector.width = "200vw";
 	selector.height = "100vh";
-	selector.left = "0px";
+	selector.left = "-50vw";
+	selector.right = "150vw";
 	selector.bottom = "0px";
 	selector.backgroundColor = "#000000";
 	selector.padding = "auto";
