@@ -27,7 +27,10 @@ Counters show employees the time elapsed since orders were ready for customers t
 <br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-<iframe id="project3-video2" src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" width="100%" height="100%" allow="autoplay" style="width:100%;height:100%;overflow-y:visible;"></iframe>
+<video width="700" height="390" controls>
+  <source src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
