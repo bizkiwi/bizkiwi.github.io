@@ -11,11 +11,13 @@ caption:
 
 ---
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
+<div style="width:100%;overflow-y:visible;float:left;display:block;">
 <div style="width:640px;background-color:#eeeeee;margin:auto;padding:auto;display:block;z-index:38000;overflow-y:visible;">
 <iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0" width="640" height="2200" style="max-width:640px;height:2200px;margin:auto;display:block;z-index:38000;"></iframe>
 </div>
-<p style="position:relative;padding:auto;margin:auto;height:5vh;width:100%;display:block;bottom:2vh;right:1vw;float:right;">
-<button class="btn btn-primary" style="position:relative;padding:auto;margin:auto;height:5vh;width:9vw;top:93vh;display:block;bottom:2vh;right:1vw;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button>
+</div>
+<p style="position:relative;padding:auto;margin:auto;height:5vh;width:100%;display:block;bottom:2vh;right:1vw;float:left;">
+<button class="btn btn-primary" style="position:relative;padding:auto;margin:auto;height:5vh;width:9vw;display:block;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button>
 </p>
 </div>
 
