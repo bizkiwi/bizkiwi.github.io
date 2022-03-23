@@ -12,7 +12,7 @@ caption:
 ---
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
 <div style="width:100%;overflow-y:visible;float:left;display:block;">
-<div style="width:640px;background-color:#eeeeee;margin:auto;padding:auto;display:block;z-index:38000;overflow-y:visible;">
+<div style="width:680px;background-color:#eeeeee;margin:auto;padding:auto;display:block;z-index:38000;overflow-y:visible;">
 <iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0" width="640" height="2200" style="max-width:640px;height:2200px;margin:auto;display:block;z-index:38000;"></iframe>
 </div>
 </div>
