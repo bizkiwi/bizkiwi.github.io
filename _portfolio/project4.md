@@ -20,9 +20,11 @@ caption:
 <!-- https://www.codexworld.com/embed-pdf-document-file-in-html-web-page/ -->
 </div>
 </div>
+<!--
 <p style="position:relative;padding-left:auto;padding-right:1vw;padding-top:auto;margin:auto;height:5vh;width:100%;display:block;float:left;z-index:38000;">
 <button class="btn btn-primary" style="position:relative;padding:auto;margin:auto;height:5vh;width:9vw;display:block;z-index:38000;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button>
 </p>
+-->
 </div>
 
 ---
