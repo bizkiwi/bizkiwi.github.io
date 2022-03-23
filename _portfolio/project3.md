@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 
 ---
-<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;"><!-- <iframe width="300" height="167"  -->
+<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;">
 <iframe id="project3-video1" height="360" width="640" style="width:100%;height:360px;display:block;overflow:visible;" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="autoplay;" allowfullscreen></iframe>
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
@@ -24,13 +24,8 @@ Counters show employees the time elapsed since orders were ready for customers t
 <br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;">
-<!--
-<iframe src="https://drive.google.com/file/d/1AnEbX6UsIfA3J6ikb82c789IYRSXr-9l/view" width="640" height="360" allow="autoplay;" allowfullscreen style="width:100%;margin:0;"></iframe>-->
-<!--
-<iframe id="project3-video2" height="360" width="640" style="width:100%;height:360px;display:inline;overflow:visible;" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
 <video width="640" height="360" autoplay muted>
-  <source src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-4k30.mp4" type="video/mp4">
+<source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </div>
@@ -41,11 +36,10 @@ Your browser does not support the video tag.
 Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
 </div><br/>
 
-<iframe src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" width="640" height="360" allow="autoplay"></iframe>
 
 ---
 {:.list-inline}
 - Date: 2015
 - Client: McDonald's Queenstown
 - Category: Touchscreen Apps
-
