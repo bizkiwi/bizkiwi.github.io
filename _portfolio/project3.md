@@ -24,7 +24,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 <br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;">
-<video width="640" height="360" autoplay muted>
+<video width="680" height="380" autoplay muted>
 <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
