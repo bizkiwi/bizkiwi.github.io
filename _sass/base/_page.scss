@@ -2,10 +2,12 @@
 body {
   overflow-x: hidden;
   @include body-font;
+  color:#1C4587;
 }
 
 p {
   line-height: 1.75;
+  color:#1C4587;
 }
 
 a {
@@ -32,10 +34,12 @@ h6 {
 
 .page-section {
   padding: 100px 0;
+  color:#1C4587;
   h2.section-heading {
     font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px;
+	color:#1C4587;
   }
   h3.section-subheading {
     font-size: 16px;
@@ -44,11 +48,13 @@ h6 {
     margin-bottom: 75px;
     text-transform: none;
     @include serif-font;
+	color:#1C4587;
   }
 }
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
+	color:#1C4587;
   }
 }
 
