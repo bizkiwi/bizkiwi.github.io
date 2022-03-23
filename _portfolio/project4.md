@@ -12,12 +12,12 @@ caption:
 ---
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
 <div style="width:100%;overflow-y:visible;float:left;display:block;">
-<div style="width:680px;background-color:#eeeeee;margin:auto;padding:auto;display:block;z-index:38000;overflow-y:visible;">
-<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0" width="640" height="2200" style="max-width:640px;height:2200px;margin:auto;display:block;z-index:38000;"></iframe>
+<div style="width:640px;background-color:#cccccc;margin:20px;padding:auto;display:block;z-index:38000;overflow-y:visible;">
+<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0" width="600" height="1500" style="max-width:600px;height:1500px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
 </div>
 </div>
-<p style="position:relative;padding:auto;margin:auto;height:5vh;width:100%;display:block;bottom:2vh;right:1vw;float:left;">
-<button class="btn btn-primary" style="position:relative;padding:auto;margin:auto;height:5vh;width:9vw;display:block;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button>
+<p style="position:relative;padding:auto;margin:auto;height:5vh;width:100%;display:block;bottom:2vh;right:1vw;float:left;z-index:38000;">
+<button class="btn btn-primary" style="position:relative;padding:auto;margin:auto;height:5vh;width:9vw;display:block;z-index:38000;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button>
 </p>
 </div>
 
