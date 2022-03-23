@@ -18,8 +18,8 @@ function LoadHandler() {
 			selector.height = "167";
 		}
 		
-	, 1000)
-	//console.log("LoadHandler DONE");
+	, 1000);
+	console.log("LoadHandler DONE");
 }
 
 function ToggleDisplayQRcode() {
