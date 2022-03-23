@@ -10,11 +10,11 @@ caption:
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 
 ---
-<div style="width:100%;top:50vh;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000">
-<div style="width:100%;padding:auto;display:block;float:left;">
-<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0" width="640" height="1000" style="max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;"></iframe>
+<div style="width:100%;top:50vh;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
+<div style="width:100%;padding:auto;display:block;float:left;z-index:38000;overflow-y:visible;">
+<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0" width="640" height="2000" style="max-width:640px;height:2000px;margin:auto;display:block;z-index:38000;"></iframe>
 </div>
-<p style="position:relative;padding:auto;margin:auto;height:5vh;width:100%;top:500px;display:block;bottom:2vh;right:1vw;float:right;">
+<p style="position:relative;padding:auto;margin:auto;height:5vh;width:100%;display:block;bottom:2vh;right:1vw;float:right;">
 <button class="btn btn-primary" style="position:relative;padding:auto;margin:auto;height:5vh;width:9vw;top:93vh;display:block;bottom:2vh;right:1vw;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button>
 </p>
 </div>
