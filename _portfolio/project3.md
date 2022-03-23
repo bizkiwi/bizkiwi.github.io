@@ -41,7 +41,7 @@ Your browser does not support the video tag.
 Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
 </div><br/>
 
-<iframe src="made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" width="640" height="480" allow="autoplay"></iframe>
 
 ---
 {:.list-inline}
