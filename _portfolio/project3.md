@@ -23,8 +23,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 </div>
 <br/><br />
 <div style="background-color:#EFEFEF;padding:0px;overflow:visible;">
-<!--<iframe id="project3-video2"  height="360" width="640" style="width:100%;height:360px;display:inline;overflow:visible;" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-<iframe src="https://drive.google.com/file/d/1AnEbX6UsIfA3J6ikb82c789IYRSXr-9l/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1AnEbX6UsIfA3J6ikb82c789IYRSXr-9l/preview" width="640" height="360" allow="autoplay" style="width:100%;margin:0;"></iframe>
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
@@ -33,8 +32,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
 </div><br/>
 
-https://drive.google.com/file/d/1AnEbX6UsIfA3J6ikb82c789IYRSXr-9l/view?usp=sharing
-
+<!--<iframe id="project3-video2"  height="360" width="640" style="width:100%;height:360px;display:inline;overflow:visible;" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 ---
 {:.list-inline}
 - Date: 2015
