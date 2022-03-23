@@ -10,23 +10,10 @@ caption:
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 
 ---
-<div style="width:100vw;height:100vh;margin:0px;padding:auto;display:inline;float:left;position:relative;">
-<!--<iframe src="assets/img/portfolio/autoscan.pdf" frameborder="0" width="100vw" height="100vh" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:fixed;z-index:1900;display:inline;left:0px;top:0px;right:0px;bottom:0px;width:100vw;height:100vh;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;padding:0px;">
-</iframe>
--->
+<div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;">
 
-<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0" width="100%" height="500px"></iframe>
-	
-<!--
-Introduction
-The Serial Port Monitor, also known as AutoScan, is an Arduino-based device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. Successful parsing and reading triggers writing of data to an LCD module and the USB port which connects the device to a second PC as USB host.
-Motivation
-The Serial Port Monitor was originally designed as a hardware addon improvement to the Made Order Advisor for automating the previously manual process of Pick Slip barcode scanning when orders are completed. However, the device has other potential applications, such data collection as part of a customer loyalty programme.
-Automated monitoring of the content of data sent to printers has a wide range of potential applications in Quick Service Restaurants and many other customer service and other industries.
-Requirements
-The objective of this project was to build a Serial Port Monitor device capable of monitoring and non-invasively intercepting data sent between a PC and an RS-232 connected thermal printer. The device firmware is required to parse intercepted text data for keywords and trigger events by writing data to a USB port connecting the device to a PC as the USB host.
--->
-<p style="position:relative;padding:auto;margin:auto;height:5vh;width:100vw;top:93vh;display:inline;bottom:2vh;right:1vw;float:right;">
+<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0" width="100%" height="500px" style="max-width:640px;margin:auto;display:block;"></iframe>
+<p style="position:relative;padding:auto;margin:auto;height:5vh;width:100%;top:500px;display:block;bottom:2vh;right:1vw;float:right;">
 <button class="btn btn-primary" style="position:relative;padding:auto;margin:auto;height:5vh;width:9vw;top:93vh;display:block;bottom:2vh;right:1vw;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button>
 </p>
 </div>
@@ -37,3 +24,16 @@ The objective of this project was to build a Serial Port Monitor device capable 
 - Client: McDonald's Queenstown
 - Category: Automation
 
+
+<!--<iframe src="assets/img/portfolio/autoscan.pdf" frameborder="0" width="100vw" height="100vh" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:fixed;z-index:1900;display:inline;left:0px;top:0px;right:0px;bottom:0px;width:100vw;height:100vh;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;padding:0px;">
+</iframe>
+-->
+<!--
+Introduction
+The Serial Port Monitor, also known as AutoScan, is an Arduino-based device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. Successful parsing and reading triggers writing of data to an LCD module and the USB port which connects the device to a second PC as USB host.
+Motivation
+The Serial Port Monitor was originally designed as a hardware addon improvement to the Made Order Advisor for automating the previously manual process of Pick Slip barcode scanning when orders are completed. However, the device has other potential applications, such data collection as part of a customer loyalty programme.
+Automated monitoring of the content of data sent to printers has a wide range of potential applications in Quick Service Restaurants and many other customer service and other industries.
+Requirements
+The objective of this project was to build a Serial Port Monitor device capable of monitoring and non-invasively intercepting data sent between a PC and an RS-232 connected thermal printer. The device firmware is required to parse intercepted text data for keywords and trigger events by writing data to a USB port connecting the device to a PC as the USB host.
+-->
