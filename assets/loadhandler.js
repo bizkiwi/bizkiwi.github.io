@@ -3,19 +3,19 @@ function LoadHandler() {
 
 	if(top.width > top.height) {
 		var selector = document.getElementById("project3-video1").style;
-		selector.width = "100%"; //700
+		selector.width = "700"; //700
 		selector.height = "390"; //390
 		var selector = document.getElementById("project3-video2").style;
-		selector.width = "100%";
+		selector.width = "700";
 		selector.height = "390";
 	} else {
 		var selector = document.getElementById("project3-video1").style;
-		selector.width = "100%";
-		selector.height = "170";
+		selector.width = "280";
+		selector.height = "160";
 		var selector = document.getElementById("project3-video2").style;
 		//document.getElementById("myFrame").setAttribute("width‌​","2‌​00‌​");
-		selector.width = "100%";//300
-		selector.height = "170";//167
+		selector.width = "280";//300
+		selector.height = "160";//167
 	}
 	console.log(top.width);
 	console.log(top.height);
