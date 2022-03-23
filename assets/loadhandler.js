@@ -1,13 +1,22 @@
 function LoadHandler() {
-	delay(20000);	
-	var selector = document.getElementById("project3-video1").style;
-	if(document.getElementById("body").style.width > document.getElementById("body").style.height) {
-		selector.width = "640";
-		selector.height = "360";
-	} else {
-		selector.width = "300";
-		selector.height = "167";
-	}
+	setTimeout(
+		if(document.getElementById("body").style.width > document.getElementById("body").style.height) {
+			var selector = document.getElementById("project3-video1").style;
+			selector.width = "640";
+			selector.height = "360";
+			var selector = document.getElementById("project3-video2").style;
+			selector.width = "640";
+			selector.height = "360";
+		} else {
+			var selector = document.getElementById("project3-video1").style;
+			selector.width = "300";
+			selector.height = "167";
+			var selector = document.getElementById("project3-video2").style;
+			selector.width = "300";
+			selector.height = "167";
+		}
+		
+	, 1000)
 	//console.log("LoadHandler DONE");
 }
 
