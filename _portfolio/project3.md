@@ -22,7 +22,7 @@ Input Methods available are Barcode Scan, Touchscreen Keypad and via a BizKiwi A
 Counters show employees the time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.
 </div>
 <br/><br />
-<div style="background-color:#EFEFEF;padding:0;>
+<div style="background-color:#EFEFEF;padding:0;">
 <iframe src="https://drive.google.com/file/d/1AnEbX6UsIfA3J6ikb82c789IYRSXr-9l/preview" width="640" height="360" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%;margin:0;"></iframe>
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
