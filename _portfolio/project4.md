@@ -16,7 +16,7 @@ caption:
 <!--
 <iframe src="assets/img/portfolio/autoscan.pdf#toolbar=1" width="640" height="1000" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
 -->
-<embed src="assets/img/portfolio/autoscan.pdf#toolbar=1&navpanes=0&view=Fit" type="application/pdf" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" width="100%" height="1000px" />
+<embed src="assets/img/portfolio/autoscan.pdf#toolbar=0&navpanes=0&view=Fit" type="application/pdf" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" width="100%" height="1000px" />
 <!-- https://www.codexworld.com/embed-pdf-document-file-in-html-web-page/ -->
 </div>
 </div>
