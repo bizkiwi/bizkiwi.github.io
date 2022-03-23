@@ -24,7 +24,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 <iframe id="project3-video2" style="display:block;overflow-y:visible;" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div style="background-color:#cccccc;padding:10px;">
-<strong>Made Order Advisor displaying on customer screens Order Numbers ready to be collected.</strong><br/>
+<strong>Made Order Advisor displaying on screens Order Numbers ready to be collected.</strong><br/>
 Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
 </div><br/>
 
