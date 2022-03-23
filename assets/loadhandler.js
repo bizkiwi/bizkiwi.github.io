@@ -4,18 +4,18 @@ function LoadHandler() {
 	if(top.width > top.height) {
 		var selector = document.getElementById("project3-video1").style;
 		selector.width = "100%"; //700
-		selector.height = "100%"; //390
+		selector.height = "390"; //390
 		var selector = document.getElementById("project3-video2").style;
 		selector.width = "100%";
-		selector.height = "100%";
+		selector.height = "390";
 	} else {
 		var selector = document.getElementById("project3-video1").style;
 		selector.width = "100%";
-		selector.height = "100%";
+		selector.height = "170";
 		var selector = document.getElementById("project3-video2").style;
 		//document.getElementById("myFrame").setAttribute("width‌​","2‌​00‌​");
 		selector.width = "100%";//300
-		selector.height = "100%";//167
+		selector.height = "170";//167
 	}
 	console.log(top.width);
 	console.log(top.height);
