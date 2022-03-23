@@ -1,7 +1,7 @@
 function LoadHandler() {
 	document.getElementById("page-top").style.color = "#1C4587";
 
-	if(document.getElementById("page-top").style.width > document.getElementById("page-top").style.height) {
+	if(document.getElementById("page-top").width > document.getElementById("page-top").height) {
 		var selector = document.getElementById("project3-video1").style;
 		selector.width = "640";
 		selector.height = "360";
@@ -17,7 +17,8 @@ function LoadHandler() {
 		selector.width = "300";
 		selector.height = "167";
 	}
-		
+	console.log(document.getElementById("page-top").width);
+	console.log(document.getElementById("page-top").height);
 	console.log("LoadHandler DONE");
 }
 
