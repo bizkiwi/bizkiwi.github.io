@@ -9,7 +9,7 @@
 $primary: {{ site.data.style.highlight | default: "#fed136" }} !default;
 //$primary: {{ site.data.style.highlight | default: "#1C4587" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
-$black: {{ site.data.style.black | default: "#0000CC" }} !default;
+$black: {{ site.data.style.black | default: "#000" }} !default;
 //$black: {{ site.data.style.black | default: "#000" }} !default;
 
 // Custom Images
