@@ -1,5 +1,13 @@
 function LoadHandler() {
 	delay(20000);	
+	var selector = document.getElementById("project3-video1").style;
+	if(document.getElementById("body").style.width > document.getElementById("body").style.height) {
+		selector.width = "640px";
+		selector.height = "360px";
+	} else {
+		selector.width = "300px";
+		selector.height = "167px";
+	}
 	//console.log("LoadHandler DONE");
 }
 
