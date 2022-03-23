@@ -10,8 +10,8 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 
 ---
-<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;width:100%;">
-<iframe id="project3-video1" src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" width="700" height="390" allow="autoplay" style="100%;"></iframe>
+<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;width:100%;height:100%;">
+<iframe id="project3-video1" src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" width="100%" height="100%" allow="autoplay" style="width:100%;height:100%;overflow-y:visible;"></iframe>
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong>
@@ -23,8 +23,8 @@ Counters show employees the time elapsed since orders were ready for customers t
 </div>
 <br/><br />
 
-<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;">
-<iframe id="project3-video2" src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" width="700" height="390" allow="autoplay" style="100%;"></iframe>
+<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+<iframe id="project3-video2" src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" width="100%" height="100%" allow="autoplay" style="width:100%;height:100%;overflow-y:visible;"></iframe>
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>

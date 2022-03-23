@@ -3,22 +3,22 @@ function LoadHandler() {
 
 	if(top.width > top.height) {
 		var selector = document.getElementById("project3-video1").style;
-		selector.width = "640";
-		selector.height = "360";
+		selector.width = "100%"; //700
+		selector.height = "100%"; //390
 		var selector = document.getElementById("project3-video2").style;
-		selector.width = "640";
-		selector.height = "360";
+		selector.width = "100%";
+		selector.height = "100%";
 	} else {
 		var selector = document.getElementById("project3-video1").style;
-		selector.width = "300";
-		selector.height = "167";
+		selector.width = "100%";
+		selector.height = "100%";
 		var selector = document.getElementById("project3-video2").style;
 		//document.getElementById("myFrame").setAttribute("width‌​","2‌​00‌​");
-		selector.width = "300";
-		selector.height = "167";
+		selector.width = "100%";//300
+		selector.height = "100%";//167
 	}
-	console.log(document.getElementById("page-top").width);
-	console.log(document.getElementById("page-top").height);
+	console.log(top.width);
+	console.log(top.height);
 	console.log("LoadHandler DONE");
 }
 
