@@ -13,7 +13,10 @@ caption:
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
 <div style="width:100%;overflow-y:visible;float:left;display:block;">
 <div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
+<!--
 <iframe src="assets/img/portfolio/autoscan.pdf#toolbar=1" width="640" height="1000" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
+-->
+<embed src="assets/img/portfolio/autoscan.pdf#toolbar=1"" type="application/pdf" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" width="100%" height="1000px" />
 </div>
 </div>
 <p style="position:relative;padding-left:auto;padding-right:1vw;padding-top:auto;margin:auto;height:5vh;width:100%;display:block;float:left;z-index:38000;">
