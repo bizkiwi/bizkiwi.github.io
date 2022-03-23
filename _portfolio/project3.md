@@ -11,7 +11,7 @@ caption:
 
 ---
 <div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;width:100%;">
-<iframe src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" width="680" height="380" allow="autoplay" style="100%;"></iframe>
+<iframe src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" width="700" height="390" allow="autoplay" style="100%;"></iframe>
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong>
@@ -24,10 +24,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 <br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;">
-<video width="680" height="380" autoplay muted>
-<source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" width="700" height="390" allow="autoplay" style="100%;"></iframe>
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
