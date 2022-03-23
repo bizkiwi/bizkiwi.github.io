@@ -1,5 +1,5 @@
 function LoadHandler() {
-	document.getElementById("body").style.color = "#1C4587#;
+	document.getElementById("body").style.color = "#1C4587;
 	setTimeout(
 		if(document.getElementById("body").width > document.getElementById("body").height) {
 			var selector = document.getElementById("project3-video1");
