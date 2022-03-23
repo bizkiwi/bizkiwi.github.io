@@ -6,7 +6,7 @@ body {
 }
 
 p {
-  line-height: 1.25;/*1.75;*/
+  line-height: 1.6;/*1.75;*/
   color:#1C4587;
 }
 
@@ -25,7 +25,9 @@ a {
 	color:white;
 }
 
-
+#contactheading p {
+	color:white;
+}
 
 .btn .btn-primary .btn-xl .text-uppercase .js-scroll-trigger p {
 	color:white;
