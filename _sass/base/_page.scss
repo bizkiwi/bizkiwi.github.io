@@ -7,6 +7,7 @@ body {
 
 p {
   line-height: 1.75;
+  color:#1C4587;
 }
 
 a {
@@ -14,6 +15,18 @@ a {
   &:hover {
     color: darken($primary, 10%);
   }
+}
+
+.intro-lead-in p {
+	color:white;
+}
+
+.intro-heading .text-uppercase p {
+	color:white;
+}
+
+.btn .btn-primary .btn-xl .text-uppercase .js-scroll-trigger p {
+	color:white;
 }
 
 .text-primary {
