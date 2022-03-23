@@ -10,8 +10,8 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 
 ---
-<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;">
-<iframe id="project3-video1" height="360" width="640" style="width:100%;height:360px;display:block;overflow:visible;" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="autoplay;" allowfullscreen></iframe>
+<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;width:100%;">
+<iframe src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" width="680" height="380" allow="autoplay" style="100%;"></iframe>
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong>
@@ -23,7 +23,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 </div>
 <br/><br />
 
-<div style="background-color:#EFEFEF;padding:0;">
+<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;">
 <video width="680" height="380" autoplay muted>
 <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -35,8 +35,6 @@ Your browser does not support the video tag.
 <div style="background-color:#EFEFEF;padding:15px;text-align:left;">
 Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
 </div><br/>
-
-<iframe src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" width="640" height="360" allow="autoplay"></iframe>
 
 ---
 {:.list-inline}
