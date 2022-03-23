@@ -10,9 +10,9 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 
 ---
-<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;width:100%;height:100%;">
-<video width="700" height="390" controls>
-  <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4">
+<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;width:100%;height:100%;display:inline;">
+<video width="700" height="390" controls style="display:inline;">
+  <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:inline;">
   Your browser does not support the video tag.
 </video>
 </div>
