@@ -2,18 +2,18 @@ function LoadHandler() {
 	setTimeout(
 		if(document.getElementById("body").style.width > document.getElementById("body").style.height) {
 			var selector = document.getElementById("project3-video1").style;
-			selector.width = "640";
-			selector.height = "360";
+			selector.width = "640px";
+			selector.height = "360px";
 			var selector = document.getElementById("project3-video2").style;
-			selector.width = "640";
-			selector.height = "360";
+			selector.width = "640px";
+			selector.height = "360px";
 		} else {
 			var selector = document.getElementById("project3-video1").style;
-			selector.width = "300";
-			selector.height = "167";
+			selector.width = "300px";
+			selector.height = "167px";
 			var selector = document.getElementById("project3-video2").style;
-			selector.width = "300";
-			selector.height = "167";
+			selector.width = "300px";
+			selector.height = "167px";
 		}
 		
 	, 1000)

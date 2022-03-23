@@ -11,7 +11,7 @@ caption:
 
 ---
 <div style="background-color:#cccccc;padding:0px;"><!-- <iframe width="300" height="167"  -->
-<iframe id="project3-video1" style="width:100%;display:block;overflow-y:visible;" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="project3-video1" height="360" width="640" style="width:100%;height:360px;display:block;overflow-y:visible;" src="https://www.youtube-nocookie.com/embed/SiT5GxiCHtM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div style="background-color:#cccccc;padding:10px;">
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong>
@@ -23,7 +23,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 </div>
 <br/><br />
 <div style="background-color:#cccccc;padding:0px;">
-<iframe id="project3-video2" style="width:100%;display:inline;overflow-y:visible;" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="project3-video2"  height="360" width="640" style="width:100%;height:360px;display:inline;overflow-y:visible;" src="https://www.youtube-nocookie.com/embed/a--9VBdia_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div style="background-color:#cccccc;padding:10px;">
 <strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
