@@ -1,7 +1,7 @@
 function LoadHandler() {
 	document.getElementById("page-top").style.color = "#1C4587";
 
-	if(document.getElementById("page-top").width > document.getElementById("page-top").height) {
+	if(top.width > top.height) {
 		var selector = document.getElementById("project3-video1").style;
 		selector.width = "640";
 		selector.height = "360";
