@@ -51,5 +51,7 @@
 </script>
 {% endif %}
 <script type='text/javascript' src='assets/loadhandler.js'></script>
-<script type='text/javascript'>LoadHandler();</script>
+<script type='text/javascript'>
+document.getElementById('body').onload='LoadHandler();'
+</script>
 <!-- End Footer -->
