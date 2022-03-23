@@ -10,13 +10,12 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 
 ---
-<!--<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;width:100%;height:100%;">-->
-<iframe id="project3-video1" src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" width="900" height="390" allow="autoplay" style="width:900px;height:390px;overflow-y:visible;"></iframe>
+<div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;width:100%;height:100%;">
 <video width="700" height="390" controls>
   <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<!--</div>-->
+</div>
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong>
 </div>
