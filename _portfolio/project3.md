@@ -11,7 +11,7 @@ caption:
 
 ---
 <div style="background-color:#EFEFEF;padding:0px;overflow-y:visible;width:100%;height:100%;display:inline;">
-<video id="project3-video1-v1" width="300" height="170" controls style="display:inline;">
+<video id="project3-video1-v1" width="290" height="165" controls style="display:inline;">
   <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:inline;">
   Your browser does not support the video tag.
 </video>
@@ -31,7 +31,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 <br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-<video id="project3-video2-v1" width="300" height="170" controls style="display:inline;">
+<video id="project3-video2-v1" width="290" height="165" controls style="display:inline;">
   <source src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" type="video/mp4" style="display:inline;">
   Your browser does not support the video tag.
 </video>
