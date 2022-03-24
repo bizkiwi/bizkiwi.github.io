@@ -11,6 +11,21 @@ caption:
 
 ---
 
+
+
+
+
+<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+<img src="assets/img/portfolio/made-order-advisor-customer-screen.png" width="100%" />
+</div>
+<div style="background-color:#EFEFEF;padding:10px;">
+<strong>Content displayed on a screen in the customer waiting area.</strong>
+</div>
+<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+Order Numbers display as tiles that resize to fit layout patterns assigned to the number of Order Numbers on display.
+</div>
+
+
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 <img src="assets/img/portfolio/04-full.jpg" width="100%" />
 </div>
