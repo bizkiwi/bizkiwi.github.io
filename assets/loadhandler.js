@@ -1,3 +1,4 @@
+/*
 function LoadHandler() {
 	document.getElementById("page-top").style.color = "#1C4587";
 
@@ -49,3 +50,4 @@ function ToggleDisplayQRcode() {
 	}
 	//console.log("ShowQRcode DONE");
 }
+*/
