@@ -15,7 +15,7 @@ caption:
   <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:inline;">
   Your browser does not support the video tag.
 </video>
-<video id="project3-video1-v2" width="700" height="390" controls style="display:inline;visibility:hidden;display:none;">
+<video id="project3-video1-v2" width="640" height="360" controls style="display:inline;visibility:hidden;display:none;">
   <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:inline;">
   Your browser does not support the video tag.
 </video>
@@ -31,8 +31,12 @@ Counters show employees the time elapsed since orders were ready for customers t
 <br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-<video width="700" height="390" controls>
-  <source src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" type="video/mp4">
+<video id="project3-video2-v1" width="280" height="160" controls style="display:inline;">
+  <source src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" type="video/mp4" style="display:inline;">
+  Your browser does not support the video tag.
+</video>
+<video id="project3-video2-v2" width="640" height="360" controls style="display:inline;visibility:hidden;display:none;">
+  <source src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" type="video/mp4" style="display:inline;">
   Your browser does not support the video tag.
 </video>
 </div>
