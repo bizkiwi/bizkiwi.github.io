@@ -12,7 +12,46 @@ caption:
 ---
 
 
+<br/><br />
 
+<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+<img src="assets/img/portfolio/made-order-advisor-crew-screen-scanning-barcodes.jpg" width="100%" />
+</div>
+<div style="background-color:#EFEFEF;padding:10px;">
+<strong>The Made Order Advisor Touchscreen App in use at a Quick Service Restaurant (QSR).
+</strong>
+</div>
+<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+3 Input Methods<br />
+1. Barcode scan<br />
+2. Manual key in<br />
+3. AutoScan device reads Order Number printing from POS printer</div>
+
+<br/><br />
+
+<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+<img src="assets/img/portfolio/made-order-advisor-crew-screen.png" width="100%" />
+</div>
+<div style="background-color:#EFEFEF;padding:10px;">
+<strong>Touchscreen App: Counters show time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.
+</strong>
+</div>
+<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+Touchscreen App:
+Counters show time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.</div>
+
+<br/><br />
+
+<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+<img src="assets/img/portfolio/made-order-advisor-customer-screen.png" width="100%" />
+</div>
+<div style="background-color:#EFEFEF;padding:10px;">
+<strong>Application: Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area.
+</strong>
+</div>
+<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+Application: Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area.
+</div>
 
 <br/><br />
 
@@ -50,9 +89,6 @@ The AutoScan is a datastream parser device used to digitally extract Order Numbe
   Your browser does not support the video tag.
 </video>
 </div>
-
-<br/><br />
-
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong>
 </div>
@@ -74,9 +110,6 @@ Counters show employees the time elapsed since orders were ready for customers t
   Your browser does not support the video tag.
 </video>
 </div>
-
-<br/><br />
-
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
 </div>
