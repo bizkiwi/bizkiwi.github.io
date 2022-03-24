@@ -12,7 +12,7 @@ caption:
 ---
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-<img src="assets/img/04-full.jpg" width="100%" />
+<img src="assets/img/portfolio/04-full.jpg" width="100%" />
 </div>
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>The AutoScan device for use with the Made Order Advisor system.</strong>
