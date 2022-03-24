@@ -20,10 +20,8 @@ caption:
 			<strong>The AutoScan device for use with the Made Order Advisor system.</strong>
 		</div>
 		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
-			The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.<br /><br />
-			
 				<strong>Introduction</strong><br />
-				AutoScan, or Serial Port Monitor, is an Arduino-based device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. Successful parsing and reading triggers writing of data to an LCD module and the USB port which connects the device to a second PC as USB host.<br /><br />
+				The AutoScan, or Serial Port Monitor, is an Arduino-based device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. Successful parsing and reading triggers writing of data to an LCD module and the USB port which connects the device to a second PC as USB host.<br /><br />
 
 				<strong>Motivation</strong><br />
 				The Serial Port Monitor was originally designed as a hardware addon improvement to the Made Order Advisor for automating the previously manual process of Pick Slip barcode scanning when orders are completed. However, the device has other potential applications, such data collection as part of a customer loyalty programme. Automated monitoring of the content of data sent to printers has a wide range of potential applications in Quick Service Restaurants and many other customer service and other industries.<br /><br />
