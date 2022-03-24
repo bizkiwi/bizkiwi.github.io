@@ -12,20 +12,18 @@ caption:
 ---
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
 	<div style="width:100%;overflow-y:visible;float:left;display:block;">
+	
+		<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+			<img src="assets/img/portfolio/15-full.jpg" style="width:100%;" />
+		</div>
+		<div style="background-color:#EFEFEF;padding:10px;">
+		<strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
+		</div>
+		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+		Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
+		</div>
+
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
-		
-		
-<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-	<img src="assets/img/portfolio/15-full.jpg" style="width:100%;" />
-</div>
-<div style="background-color:#EFEFEF;padding:10px;">
-<strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
-</div>
-<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
-Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
-</div>
-
-
 
 <!--
 <iframe src="assets/img/portfolio/autoscan.pdf#toolbar=1" width="640" height="1000" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
