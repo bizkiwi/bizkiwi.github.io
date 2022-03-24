@@ -12,6 +12,19 @@ caption:
 ---
 
 
+<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+<img src="assets/img/portfolio/made-order-advisor-crew-screen-scanning-barcodes.jpg" width="100%" />
+</div>
+<div style="background-color:#EFEFEF;padding:5px;">
+<strong>The Made Order Advisor Touchscreen App in use at a Quick Service Restaurant (QSR).
+</strong>
+</div>
+<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+3 Input Methods<br />
+1. Barcode scan<br />
+2. Manual key in<br />
+3. AutoScan device reads Order Number printing from POS printer</div>
+
 <br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
