@@ -16,12 +16,6 @@ caption:
 		<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 			<img src="assets/img/portfolio/15-full.jpg" style="width:100%;" />
 		</div>
-		<div style="background-color:#EFEFEF;padding:10px;">
-		<strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
-		</div>
-		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
-		Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
-		</div>
 
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
 
@@ -33,6 +27,12 @@ caption:
 -->
 <!-- https://www.codexworld.com/embed-pdf-document-file-in-html-web-page/ -->
 <iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0&navpanes=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:940px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
+		</div>
+		<div style="background-color:#EFEFEF;padding:10px;">
+		<strong>Project Final Report (Adobe PDF document)</strong>
+		</div>
+		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+		Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
 		</div>
 	</div>
 <!--
