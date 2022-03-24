@@ -1,8 +1,8 @@
 ---
 title: Barcode Autoscanner
 subtitle: For Intercepting Printing Barcodes
-image: assets/img/portfolio/04-thumbnail.jpg
-alt: Intercepting Printing Barcodes
+image: ""
+alt: ""
 
 caption:
   title: Barcode Autoscanner
@@ -13,14 +13,6 @@ caption:
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
 	<div style="width:100%;overflow-y:visible;float:left;display:block;">
 		
-		<!--
-		<div style="padding:0;overflow-y:visible;width:100%;height:100%;">
-			<img src="assets/img/portfolio/15-full-v2.jpg" style="width:100%;" />
-		</div>
-		
-		<br/><br />
--->
-
 		<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 			<img src="assets/img/portfolio/04-full.jpg" width="100%" />
 		</div>
@@ -28,7 +20,16 @@ caption:
 			<strong>The AutoScan device for use with the Made Order Advisor system.</strong>
 		</div>
 		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
-			The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.
+			The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.<br /><br />
+			
+				<strong>Introduction</strong><br />
+				AutoScan, or Serial Port Monitor, is an Arduino-based device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. Successful parsing and reading triggers writing of data to an LCD module and the USB port which connects the device to a second PC as USB host.<br /><br />
+
+				<strong>Motivation</strong><br />
+				The Serial Port Monitor was originally designed as a hardware addon improvement to the Made Order Advisor for automating the previously manual process of Pick Slip barcode scanning when orders are completed. However, the device has other potential applications, such data collection as part of a customer loyalty programme. Automated monitoring of the content of data sent to printers has a wide range of potential applications in Quick Service Restaurants and many other customer service and other industries.<br /><br />
+
+				<strong>Requirements</strong><br />
+				The objective of this project was to build a Serial Port Monitor device capable of monitoring and non-invasively intercepting data sent between a PC and an RS-232 connected thermal printer. The device firmware is required to parse intercepted text data for keywords and trigger events by writing data to a USB port connecting the device to a PC as the USB host.
 		</div>
 
 		<br/><br />
