@@ -10,7 +10,6 @@ caption:
   thumbnail: assets/img/portfolio/mkappy-timers.jpg
 
 ---
-<br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 	<img src="assets/img/portfolio/mkappy-timers-screen.jpg" width="100%" />
