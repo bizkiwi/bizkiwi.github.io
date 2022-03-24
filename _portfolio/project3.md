@@ -131,7 +131,7 @@ Order Numbers for customer orders currently ready to collect are displayed on la
 
 <!--{:.list-inline}-->
 <div style="width:100%;text-align:center;">
-Date: 2015
-Client: McDonald's Queenstown
-Category: Touchscreen Apps
+<strong>Date:</strong> 2015<br />
+<strong>Client:</strong> McDonald's Queenstown<br />
+<strong>Category:</strong> Touchscreen Apps<br />
 </div>
