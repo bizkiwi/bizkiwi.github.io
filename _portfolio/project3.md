@@ -20,7 +20,7 @@ caption:
 </strong>
 </div>
 <div style="background-color:#EFEFEF;padding:15px;text-align:left;">
-3 Input Methods<br />
+Three Input Methods<br />
 1. Barcode scan<br />
 2. Manual key in<br />
 3. AutoScan device reads Order Number printing from POS printer</div>
