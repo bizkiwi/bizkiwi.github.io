@@ -14,6 +14,7 @@ caption:
 
 
 
+<br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 <img src="assets/img/portfolio/made-order-advisor-customer-screen.png" width="100%" />
@@ -25,6 +26,7 @@ caption:
 Order Numbers display as tiles that resize to fit layout patterns assigned to the number of Order Numbers on display.
 </div>
 
+<br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 <img src="assets/img/portfolio/04-full.jpg" width="100%" />
@@ -36,6 +38,7 @@ Order Numbers display as tiles that resize to fit layout patterns assigned to th
 The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.
 </div>
 
+<br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 <video id="project3-video1-v1" width="300" height="170" controls style="display:block;width:100%;">
@@ -47,6 +50,9 @@ The AutoScan is a datastream parser device used to digitally extract Order Numbe
   Your browser does not support the video tag.
 </video>
 </div>
+
+<br/><br />
+
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor scanning barcodes at restaurant counter.</strong>
 </div>
@@ -55,6 +61,7 @@ Order Numbers for customer orders that are ready to collect are displayed on lar
 Input Methods available are Barcode Scan, Touchscreen Keypad and via a BizKiwi AutoScan device reading Order Number printed to a POS printer.
 Counters show employees the time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.
 </div>
+
 <br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
@@ -67,6 +74,9 @@ Counters show employees the time elapsed since orders were ready for customers t
   Your browser does not support the video tag.
 </video>
 </div>
+
+<br/><br />
+
 <div style="background-color:#EFEFEF;padding:10px;">
 <strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
 </div>
