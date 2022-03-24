@@ -69,7 +69,7 @@ Application: Order Numbers for customer orders currently ready to collect are di
 <br/><br />
 
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-<img src="assets/img/portfolio/made-order-advisor-customer-screen.png" width="100%" />
+<img src="assets/img/portfolio/made-order-advisor-customer-screen-photo.jpg" width="100%" />
 </div>
 <div style="background-color:#EFEFEF;padding:5px;">
 <strong>Content displayed on a screen in the customer waiting area.</strong>
