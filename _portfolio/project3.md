@@ -10,6 +10,18 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 
 ---
+
+<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+<img src="assets/img/04-full.jpg" width="100%" />
+</div>
+<div style="background-color:#EFEFEF;padding:10px;">
+<strong>The AutoScan device for use with the Made Order Advisor system.</strong>
+</div>
+<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.
+</div>
+
+
 <div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 <video id="project3-video1-v1" width="300" height="170" controls style="display:block;width:100%;">
   <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:block;width:100%;">
