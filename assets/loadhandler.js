@@ -1,7 +1,7 @@
 function LoadHandler() {
 	document.getElementById("page-top").style.color = "#1C4587";
 
-	if(top.width > top.height) {
+	if(window.outerWidth > window.outerHeight) {
 		var selector = document.getElementById("project3-video1-v1").style;
 		selector.visibility = "hidden";
 		selector.display = "none";
@@ -16,8 +16,8 @@ function LoadHandler() {
 		selector.visibility = "hidden";//300
 		selector.display = "none";//167
 	}
-	console.log(top.width);
-	console.log(top.height);
+	console.log(window.outerWidth);
+	console.log(window.outerHeight);
 	console.log("LoadHandler DONE");
 }
 
