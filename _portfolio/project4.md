@@ -12,29 +12,16 @@ caption:
 ---
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
 	<div style="width:100%;overflow-y:visible;float:left;display:block;">
-	
-		<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+		<div style="padding:0;overflow-y:visible;width:100%;height:100%;">
 			<img src="assets/img/portfolio/15-full.jpg" style="width:100%;" />
 		</div>
-
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
-
-<!--
-<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=1" width="640" height="1000" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
--->
-<!--
-<embed src="assets/img/portfolio/autoscan.pdf#toolbar=0&navpanes=1&view=Fit" type="application/pdf" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" width="100%" height="1000px" /><br/><br/>
--->
-<!-- https://www.codexworld.com/embed-pdf-document-file-in-html-web-page/ -->
-<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0&navpanes=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:940px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
-		</div>
-		<div style="background-color:#EFEFEF;padding:10px;">
-		<strong>Project Final Report (Adobe PDF document)</strong>
-		</div>
-		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
-		Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
-		</div>
+	<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0&navpanes=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:940px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
 	</div>
+	<div style="background-color:#EFEFEF;padding:10px;">
+		<strong>Project Final Report (Adobe PDF document)</strong>
+	</div>
+</div>
 <!--
 <p style="position:relative;padding-left:auto;padding-right:1vw;padding-top:auto;margin:auto;height:5vh;width:100%;display:block;float:left;z-index:38000;">
 <button class="btn btn-primary" style="position:relative;padding:auto;margin:auto;height:5vh;width:9vw;display:block;z-index:38000;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button>
