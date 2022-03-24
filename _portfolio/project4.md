@@ -15,13 +15,28 @@ caption:
 		<div style="padding:0;overflow-y:visible;width:100%;height:100%;">
 			<img src="assets/img/portfolio/15-full-v2.jpg" style="width:100%;" />
 		</div>
+		
+		<br/><br />
+
+		<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
+			<img src="assets/img/portfolio/04-full.jpg" width="100%" />
+		</div>
+		<div style="background-color:#EFEFEF;padding:5px;">
+			<strong>The AutoScan device for use with the Made Order Advisor system.</strong>
+		</div>
+		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+			The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.
+		</div>
+
+		<br/><br />
+
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
-	<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0&navpanes=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:940px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
+			<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0&navpanes=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:940px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
+		</div>
+		<div style="background-color:#EFEFEF;padding:10px;">
+			<strong>Project Final Report (Adobe PDF document)</strong>
+		</div>
 	</div>
-	<div style="background-color:#EFEFEF;padding:10px;">
-		<strong>Project Final Report (Adobe PDF document)</strong>
-	</div>
-</div>
 <!--
 <p style="position:relative;padding-left:auto;padding-right:1vw;padding-top:auto;margin:auto;height:5vh;width:100%;display:block;float:left;z-index:38000;">
 <button class="btn btn-primary" style="position:relative;padding:auto;margin:auto;height:5vh;width:9vw;display:block;z-index:38000;" data-dismiss="modal" type="button"><i class="fas fa-times"></i>Close Project</button>
