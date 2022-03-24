@@ -1,7 +1,7 @@
 ---
 title: Made Order Advisor
 subtitle: Order Ready Notification Display System for Cafes and Quick Service Restaurants
-image: assets/img/portfolio/03-extended.jpg
+image: assets/img/portfolio/03-extended-v2.jpg
 alt: Order Ready Notification Display System for Customers of Cafes and Quick Service Restaurants.
 
 caption: 

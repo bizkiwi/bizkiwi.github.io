@@ -13,7 +13,7 @@ caption:
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
 	<div style="width:100%;overflow-y:visible;float:left;display:block;">
 		<div style="padding:0;overflow-y:visible;width:100%;height:100%;">
-			<img src="assets/img/portfolio/15-full.jpg" style="width:100%;" />
+			<img src="assets/img/portfolio/15-full-v2.jpg" style="width:100%;" />
 		</div>
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
 	<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0&navpanes=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:940px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
