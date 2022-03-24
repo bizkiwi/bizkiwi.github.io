@@ -9,9 +9,10 @@ caption:
   subtitle: Touchscreen Tablet App for Kitchens
   thumbnail: assets/img/portfolio/mkappy-timers.jpg
 
----
-{:.list-inline}
-- Date: 2017
-- Client: McDonald's Frankton Queenstown
-- Category: Tablet Apps
 
+<!--{:.list-inline}-->
+<div style="width:100%;text-align:center;">
+<strong>Date:</strong> 2017<br />
+<strong>Client:</strong> McDonald's Frankton Queenstown<br />
+<strong>Category:</strong> Tablet Apps<br />
+</div>

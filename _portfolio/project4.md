@@ -12,11 +12,14 @@ caption:
 ---
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
 	<div style="width:100%;overflow-y:visible;float:left;display:block;">
+		
+		<!--
 		<div style="padding:0;overflow-y:visible;width:100%;height:100%;">
 			<img src="assets/img/portfolio/15-full-v2.jpg" style="width:100%;" />
 		</div>
 		
 		<br/><br />
+-->
 
 		<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 			<img src="assets/img/portfolio/04-full.jpg" width="100%" />
@@ -31,10 +34,31 @@ caption:
 		<br/><br />
 
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
+			<iframe src="assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf#toolbar=0&navpanes=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:940px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
+		</div>
+		<div style="background-color:#EFEFEF;padding:5px;">
+			<strong>AutoScan vs No AutoScan for the Made Order Advisor.</strong>
+		</div>
+		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
+			The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.
+		</div>
+
+		<br/><br />
+
+		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
+			<iframe src="assets/img/portfolio/building-a-series-of-prototypes-for-autoscan.pdf#toolbar=0&navpanes=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:940px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
+		</div>
+		<div style="background-color:#EFEFEF;padding:10px;">
+			<strong>Engineering AutoScan (Adobe PDF)</strong>
+		</div>
+
+		<br/><br />
+
+		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
 			<iframe src="assets/img/portfolio/autoscan.pdf#toolbar=0&navpanes=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:940px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
 		</div>
 		<div style="background-color:#EFEFEF;padding:10px;">
-			<strong>Project Final Report (Adobe PDF document)</strong>
+			<strong>Project Final Report (Adobe PDF)</strong>
 		</div>
 	</div>
 <!--
@@ -44,11 +68,13 @@ caption:
 -->
 </div>
 
----
-{:.list-inline}
-- Date: 2017
-- Client: McDonald's Queenstown
-- Category: Automation
+
+<!--{:.list-inline}-->
+<div style="width:100%;text-align:center;">
+<strong>Date:</strong> 2017<br />
+<strong>Client:</strong> McDonald's Queenstown<br />
+<strong>Category:</strong> Automation<br />
+</div>
 
 
 <!--<iframe src="assets/img/portfolio/autoscan.pdf" frameborder="0" width="100vw" height="100vh" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:fixed;z-index:1900;display:inline;left:0px;top:0px;right:0px;bottom:0px;width:100vw;height:100vh;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;padding:0px;">
