@@ -58,7 +58,7 @@ caption:
 	<strong>Build Guides Product Selection</strong>
 </div>
 <div style="background-color:#EFEFEF;padding:5px;text-align:left;">
-	The Build Guides are visual chart instructions for assembling product orders. This content is accessible via responsive Touchscreen tablet app. Visual collections of products are available to choose from.
+	The Build Guides are visual chart instructions for assembling and packaging orders of products. This content is accessible via responsive Touchscreen tablet app. Visual collections of products are available to choose from.
 </div>
 		
 <br/><br />
@@ -70,7 +70,7 @@ caption:
 	<strong>Build Guide Instructional Visual Content</strong>
 </div>
 <div style="background-color:#EFEFEF;padding:5px;text-align:left;">
-	The Build Guides are visual chart instructions for assembling and packaging product orders. 
+	The Build Guides are visual chart instructions for assembling and packaging products. 
 </div>
 
 <br/><br />
