@@ -10,12 +10,6 @@ caption:
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
   
 ---
-{:.list-inline}
-- Date: February 2022
-- Client: BizKiwi.NZ
-- Category: FOSS Projects
-
----
 <br/><br />
 
 <!--{:.list-inline}-->

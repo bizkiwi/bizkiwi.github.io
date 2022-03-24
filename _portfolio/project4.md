@@ -16,10 +16,10 @@ caption:
 		<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 			<img src="assets/img/portfolio/04-full.jpg" width="100%" />
 		</div>
-		<div style="background-color:#EFEFEF;padding:5px;">
+		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;">
 			<strong>The AutoScan device for use with the Made Order Advisor system.</strong>
 		</div>
-		<div style="background-color:#EFEFEF;padding:5px;text-align:left;">
+		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;">
 			The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area. The Made Order Advisor is a system for cafes and Quick Service Restaurants (QSR) that enables notification of customers when their orders have become ready to be collected.
 		</div>
 
@@ -28,10 +28,10 @@ caption:
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
 			<iframe src="assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf#toolbar=1&navpanes=1&scrollbar=1&statusbar=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 		</div>
-		<div style="background-color:#EFEFEF;padding:5px;">
+		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;">
 			<strong>AutoScan vs No AutoScan for the Made Order Advisor. (Adobe PDF)</strong>
 		</div>
-		<div style="background-color:#EFEFEF;padding:5px;text-align:left;">
+		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;">
 			<strong>Introduction</strong><br />
 			The AutoScan, or Serial Port Monitor, is an Arduino-based device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. Successful parsing and reading triggers writing of data to an LCD module and the USB port which connects the device to a second PC as USB host.<br /><br />
 
@@ -47,7 +47,7 @@ caption:
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
 			<iframe src="assets/img/portfolio/building-a-series-of-prototypes-for-autoscan.pdf#toolbar=0&navpanes=0&scrollbar=1&statusbar=0&view=Fit" width="100%" height="2000px" style="width:100%;max-width:640px;height:2000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 		</div>
-		<div style="background-color:#EFEFEF;padding:5px;">
+		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;">
 			<strong>Engineering AutoScan (Adobe PDF)</strong>
 		</div>
 
@@ -56,7 +56,7 @@ caption:
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
 			<iframe src="assets/img/portfolio/autoscan-serial-port-monitor-final-report.pdf#toolbar=1&navpanes=1&scrollbar=1&statusbar=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 		</div>
-		<div style="background-color:#EFEFEF;padding:5px;">
+		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;">
 			<strong>Project Final Report (Adobe PDF)</strong>
 		</div>
 	</div>
