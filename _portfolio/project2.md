@@ -25,15 +25,6 @@ caption:
 
 	The Builds module facilitates delivery of product build guides as visual tutorials with photos and graphical diagrams.<br /><br />
 </div>
-		
-<br/><br />
-		
-<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-	<img src="assets/img/portfolio/mkappy-timers-screen.jpg" width="100%" />
-</div>
-<div style="background-color:#EFEFEF;padding:5px;">
-	<strong>The Touchscreen App MkAPPy Kitchen</strong>
-</div>
 <div style="background-color:#EFEFEF;padding:5px;text-align:left;">
 	<strong>Design Features</strong><br/>
 	<ul>

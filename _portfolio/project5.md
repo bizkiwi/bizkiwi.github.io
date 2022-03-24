@@ -15,3 +15,12 @@ caption:
 - Client: BizKiwi.NZ
 - Category: FOSS Projects
 
+---
+<br/><br />
+
+<!--{:.list-inline}-->
+<div style="width:100%;text-align:center;">
+<strong>Date:</strong> February 2022 to Present<br />
+<strong>Client:</strong> BizKiwi.NZ<br />
+<strong>Category:</strong> Free Open Source Software (FOSS) Projects<br />
+</div>

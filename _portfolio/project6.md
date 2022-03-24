@@ -10,8 +10,11 @@ caption:
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 
 ---
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+<br/><br />
 
+<!--{:.list-inline}-->
+<div style="width:100%;text-align:center;">
+<strong>Date:</strong> 2009 to 2018<br />
+<strong>Client:</strong> TBA<br />
+<strong>Category:</strong> SilverStripe Content Management System (CMS)<br />
+</div>
