@@ -9,7 +9,7 @@ caption:
   subtitle: Touchscreen Tablet App for Kitchens
   thumbnail: assets/img/portfolio/mkappy-timers.jpg
 
-
+---
 <!--{:.list-inline}-->
 <div style="width:100%;text-align:center;">
 <strong>Date:</strong> 2017<br />
