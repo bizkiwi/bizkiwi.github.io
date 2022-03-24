@@ -2,20 +2,19 @@ function LoadHandler() {
 	document.getElementById("page-top").style.color = "#1C4587";
 
 	if(top.width > top.height) {
-		var selector = document.getElementById("project3-video1").style;
-		selector.width = "700px"; //700
-		selector.height = "390px"; //390
-		var selector = document.getElementById("project3-video2").style;
-		selector.width = "700px";
-		selector.height = "390px";
+		var selector = document.getElementById("project3-video1-v1").style;
+		selector.visibility = "hidden";
+		selector.display = "none";
+		var selector = document.getElementById("project3-video1-v2").style;
+		selector.visibility = "visible";//300
+		selector.display = "inline";//167
 	} else {
-		var selector = document.getElementById("project3-video1").style;
-		selector.width = "280px";
-		selector.height = "160px";
-		var selector = document.getElementById("project3-video2").style;
-		//document.getElementById("myFrame").setAttribute("width‌​","2‌​00‌​");
-		selector.width = "280px";//300
-		selector.height = "160px";//167
+		var selector = document.getElementById("project3-video1-v1").style;
+		selector.visibility = "visible";
+		selector.display = "inline";
+		var selector = document.getElementById("project3-video1-v2").style;
+		selector.visibility = "hidden";//300
+		selector.display = "none";//167
 	}
 	console.log(top.width);
 	console.log(top.height);
