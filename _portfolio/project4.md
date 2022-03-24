@@ -36,7 +36,7 @@ caption:
 			<iframe src="assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf#toolbar=1&navpanes=1&scrollbar=1&statusbar=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;"></iframe>
 		</div>
 		<div style="background-color:#EFEFEF;padding:5px;">
-			<strong>AutoScan vs No AutoScan for the Made Order Advisor.</strong>
+			<strong>AutoScan vs No AutoScan for the Made Order Advisor. (Adobe PDF)</strong>
 		</div>
 		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
 			The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.
@@ -67,7 +67,7 @@ caption:
 -->
 </div>
 
-
+<br /><br />
 <!--{:.list-inline}-->
 <div style="width:100%;text-align:center;">
 <strong>Date:</strong> 2017<br />
