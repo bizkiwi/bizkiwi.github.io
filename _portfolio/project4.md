@@ -20,7 +20,7 @@ caption:
 			<strong>The AutoScan device for use with the Made Order Advisor system.</strong>
 		</div>
 		<div style="background-color:#EFEFEF;padding:15px;text-align:left;">
-			The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.
+			The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area. The Made Order Advisor is a system for cafes and Quick Service Restaurants (QSR) that enables notification of customers when their orders have become ready to be collected.
 		</div>
 
 		<br/><br />
@@ -68,15 +68,10 @@ caption:
 -->
 </div>
 
-<br /><br />
+<br /><br /><br />
 <!--{:.list-inline}-->
 <div style="width:100%;text-align:center;">
 <strong>Date:</strong> 2017<br />
 <strong>Client:</strong> McDonald's Queenstown<br />
 <strong>Category:</strong> Automation<br />
 </div>
-
-
-<!--<iframe src="assets/img/portfolio/autoscan.pdf" width="100vw" height="100vh" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:fixed;z-index:1900;display:inline;left:0px;top:0px;right:0px;bottom:0px;width:100vw;height:100vh;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;padding:0px;">
-</iframe>
--->
