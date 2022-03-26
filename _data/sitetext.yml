@@ -150,7 +150,7 @@ en: &DEFAULT_EN
           #  icon: fab fa-twitter
           #- url: https://facebook.com/bizkiwifbpage
           #  icon: fab fa-facebook-f
-          - url: javascript:ToggleTeamMember("Stephen Julian");
+          - url: javascript:ToggleTeamMember(1);
             icon: fa fa-plus
           - url: mailto:steve@bizkiwi.nz
             icon: far fa-envelope
