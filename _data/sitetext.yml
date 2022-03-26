@@ -158,6 +158,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/bizkiwi
             icon: fab fa-github
+        mytest: TestValue
 
   contact:
     title: "Contact"
