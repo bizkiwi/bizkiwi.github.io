@@ -148,6 +148,35 @@ function ToggleContactForm() {
 	//console.log("ShowQRcode DONE");
 }
 
+function ToggleTeamMember(teamMember) {
+	var selector = document.getElementById("team-member-1").style;
+	if(selector.visibility == "visible") {
+		selector.position = "fixed";
+		selector.zIndex = "-30000";
+		selector.display = "none";
+		selector.visibility = "hidden";
+		//var selector = document.getElementById("qrcode-image").style;
+		//selector.zIndex = "-20000";
+	} else {
+		selector.position = "fixed";
+		selector.zIndex = "30000";
+		selector.display = "block";
+		selector.visibility = "visible";
+		selector.right = "0";
+		selector.left = "0";
+		//selector.top = "-50vh";
+		selector.bottom = "0";
+		selector.width = "100%";
+		selector.height = "100vh";
+		selector.backgroundColor = "#ffffff";
+		selector.padding = "auto";
+		//selector.float = "right";
+		//var selector = document.getElementById("qrcode-image").style;
+		//selector.zIndex = "20000";
+	}
+	//console.log("ShowQRcode DONE");
+}
+
 </script>
 
 

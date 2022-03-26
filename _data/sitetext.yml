@@ -150,12 +150,14 @@ en: &DEFAULT_EN
           #  icon: fab fa-twitter
           #- url: https://facebook.com/bizkiwifbpage
           #  icon: fab fa-facebook-f
+          - url: javascript:ToggleTeamMember(1);
+            icon: fa fa-plus
           - url: mailto:steve@bizkiwi.nz
             icon: far fa-envelope
           - url: https://linkedin.com/in/bizkiwi
             icon: fab fa-linkedin-in
           - url: https://github.com/bizkiwi
-            icon: "fab fa-github"
+            icon: fab fa-github
 
   contact:
     title: "Contact"
