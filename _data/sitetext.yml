@@ -139,7 +139,7 @@ en: &DEFAULT_EN
   team:
     title: "Team"
     text: "<strong>BizKiwi.NZ is a consultancy services brand represented by Stephen Julian.</strong> <br> <br> Opportunities for new team members and partnerships may arise in the future."
-    subtext: Steve is a Full Stack software developer now diversifying into the emerging field of Internet of Things (IoT). His qualifications include a Bachelor of Information Technology and a Bachelor of Engineering Technology (Electrical).
+    subtext: "BizKiwi specialises in development of software as well as hardware prototypes."
     section: team
     people:
       - name: "Stephen Julian"
