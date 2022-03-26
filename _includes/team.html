@@ -78,7 +78,6 @@
 			  <br /><br />
 			  <button
 				class="btn btn-primary"
-				data-dismiss="contact-modal"
 				type="button" style="position:relative;margin:auto;display:block;z-index:35000;" onclick="ToggleTeamMember({{person.number}});">
 				<i class="fas fa-times"></i>
 				Go Back
@@ -95,7 +94,13 @@
 				src="assets/img/close-icon.png"
 				alt="Close window icon" />
 				-->
-				<i class="fa fa-times-circle" id="close-icon" style="position:relative;display:block;margin-left:auto;margin-right:0;width:100%;max-width:5vh;max-height:5vh;overflow-x:hidden;z-index:39000;background-color:transparent;"></i>
+				<ul class="list-inline social-buttons">
+				  <li class="list-inline-item">
+					<a href="ToggleTeamMember({{person.number}});">
+					  <i class="fa fa-times-circle" id="close-icon" style="position:relative;display:block;margin-left:auto;margin-right:0;width:100%;max-width:5vh;max-height:5vh;overflow-x:hidden;z-index:39000;background-color:transparent;"></i>
+					</a>
+				  </li>
+				</ul>
 			</a>
 		</div>		
 	  </div>	  
