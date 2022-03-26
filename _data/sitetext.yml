@@ -137,7 +137,7 @@ en: &DEFAULT_EN
 #        logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Team"
+    title: "Team BizKiwi"
     text: "<strong>BizKiwi.NZ is a consultancy services brand represented by Stephen Julian.</strong>"
     subtext: "BizKiwi specialises in development of software as well as hardware prototypes.<br /><br />Opportunities for new team members and partnerships may arise in the future."
     section: team
