@@ -8,6 +8,7 @@
 	  <div style="color:#1C4587;">{{ site.data.sitetext[site.locale].team.subtext | markdownify }}</div>
 	</div>
   </div>
+  
   <div class="row">
   <br /><br />
   {% for person in site.data.sitetext[site.locale].team.people %}
@@ -42,13 +43,11 @@
 <!-- Team Member Modal -->
 {% for person in site.data.sitetext[site.locale].team.people %}
 <!--   id="p{{ forloop.index }}" -->
-<div
-  id="team-member-{{person.number}}"
-  class="modal fade"
+<!--   class="modal fade"
   tabindex="-1"
   role="dialog"
-  aria-hidden="true"
-  style="visibility:hidden;display:none;position:fixed;width:100vw;height:100vh;left:0;top:0;background-color:#eeeeee;overflow-x:hidden;margin:0;overflow-y:hidden;">
+  aria-hidden="true" -->
+<div id="team-member-{{person.number}}" style="visibility:hidden;display:none;position:fixed;width:100vw;height:100vh;left:0;top:0;background-color:#eeeeee;overflow-x:hidden;margin:0;overflow-y:hidden;">
 	<div style="width:100vw;height:100vh;position:relative;display:block;overflow-y:hidden;overflow-x:hidden;z-index:35000;padding:0;background-color:transparent;">
 
 	  <!-- Person Details Go Here -->
@@ -86,9 +85,9 @@
 			  </button>
 		  </div>
 	  </div>
-	  
+	  <!-- class="close-modal" data-dismiss="modal"  -->
 	  <div style="position:fixed;display:block;width:100vw;height:10vh;overflow-x:hidden;left:0;top:0;margin:0;padding-top:0;padding-left:auto;padding-right:0;z-index:39000;background-color:transparent;">
-		<div class="close-modal" data-dismiss="modal" style="position:relative;display:block;float:right;width:100%;max-width:10vh;max-height:10vh;overflow-x:hidden;padding-top:20px;padding-right:20px;z-index:39000;background-color:transparent;">
+		<div style="position:relative;display:block;float:right;width:100%;max-width:10vh;max-height:10vh;overflow-x:hidden;padding-top:20px;padding-right:20px;z-index:39000;background-color:transparent;">
 			<a href="javascript:ToggleTeamMember({{person.number}});" style="position:relative;display:block;float:right;margin-top:0;margin-left:auto;margin-right:0;padding-left:auto;padding-right:0;padding-top:0;width:100%;overflow-x:hidden;z-index:39000;background-color:transparent;">
 				<img id="close-icon" style="position:relative;display:block;margin-left:auto;margin-right:0;width:100%;max-width:5vh;max-height:5vh;overflow-x:hidden;z-index:39000;background-color:transparent;"
 				src="assets/img/close-icon.png"

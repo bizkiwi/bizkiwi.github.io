@@ -148,9 +148,9 @@ function ToggleContactForm() {
 	//console.log("ShowQRcode DONE");
 }
 
-function ToggleTeamMember(teamMember) {
+function ToggleTeamMember(personNumber) {
 	
-	var selectorID = "team-member-"+teamMember;
+	var selectorID = "team-member-"+personNumber;
 	var selector = document.getElementById(selectorID).style;
 	if(selector.visibility == "visible") {
 		selector.position = "fixed";
