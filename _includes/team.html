@@ -65,6 +65,7 @@
 					<img id="team-member-image" class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
 					<h4 id="team-member-name">{{ person.name }}</h4>
 					<p id="team-member-role" class="text-muted" style="color:#1C4587;">{{ person.role }}</p>
+					<div id="team-member-bio" style="color:#1C4587;">{{ person.bio }}</div>
 					<ul class="list-inline social-buttons">
 					{% for network in person.social %}
 					  <li class="list-inline-item">
@@ -74,7 +75,6 @@
 					  </li>
 					{% endfor %}
 					</ul>
-					Test: {{ person.mytest }}
 				  </div>
 				</div>
 				{% endfor %}
