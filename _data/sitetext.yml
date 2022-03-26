@@ -138,7 +138,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Team BizKiwi"
-    text: "<strong>BizKiwi specialises in development of software as well as hardware prototypes.<br />BizKiwi.NZ is a consultancy services brand represented by Stephen Julian.</strong>"
+    text: "<strong>BizKiwi specialises in development of software as well as hardware prototypes.</strong><br />BizKiwi.NZ is a consultancy services brand represented by Stephen Julian."
     subtext: "Opportunities for new team members and partnerships may arise in the future."
     section: team
     people:
