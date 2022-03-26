@@ -41,10 +41,10 @@
 
 <!-- Team Member Modal -->
 {% for person in site.data.sitetext[site.locale].team.people %}
+<!--   id="p{{ forloop.index }}" -->
 <div
   id="team-member-{{person.number}}"
   class="modal fade"
-  id="p{{ forloop.index }}"
   tabindex="-1"
   role="dialog"
   aria-hidden="true"
