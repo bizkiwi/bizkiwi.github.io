@@ -181,7 +181,7 @@ en: &DEFAULT_EN
       #- url: https://facebook.com
       #  icon: "fab fa-facebook-f"
       - url: javascript:ToggleContactForm()
-        icon: fa fa-envelope
+        icon: fa-solid fa-paper-plane
       - url: mailto:steve@bizkiwi.nz
         icon: far fa-envelope
       - url: https://linkedin.com/in/bizkiwi
