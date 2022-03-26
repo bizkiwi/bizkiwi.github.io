@@ -37,8 +37,9 @@
 
 
 <!-- Team Member Modal -->
+{% for person in site.data.sitetext[site.locale].team.people %}
 <div
-  id="team-member"
+  id="team-member-{{person.number}}"
   tabindex="-1"
   role="dialog"
   style="visibility:hidden;display:none;position:fixed;width:100vw;height:100vh;left:0;top:0;background-color:#ffffff;overflow-x:visible;margin:0;overflow-y:hidden;">
@@ -59,9 +60,9 @@
 					alt="QR Code for BizKiwi.NZ website"
 				  />-->
 				  
-				{% for person in site.data.sitetext[site.locale].team.people %}
+				
 				<div class="col-sm-4">
-				  <div class="team-member">
+				  <div class="team-member" style="width:100%;max-width:640px;margin:auto;">
 					<img id="team-member-image" class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
 					<h4 id="team-member-name">{{ person.name }}</h4>
 					<div id="team-member-credentials" style="font-weight:700;color:#1C4587;">{{ person.credentials }}</div>
@@ -78,7 +79,7 @@
 					</ul>
 				  </div>
 				</div>
-				{% endfor %}
+				
 				  
 				  <div style="text-align:center;width:100%;height:100vh;margin-left:auto;margin-right:auto;margin-top:0;position:relative;display:block;overflow-y:hidden;padding:0;background-color:transparent;z-index:35000;">
 				
@@ -117,6 +118,7 @@
     </div>
   </div>
 </div>
+{% endfor %}
 <!-- Team Member Modal -->
 
 

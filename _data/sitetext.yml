@@ -145,6 +145,7 @@ en: &DEFAULT_EN
       - name: "Stephen Julian"
         credentials: "<strong>BInfoTech, NCEE, NZDE (Electronics), BEngTech (Electrical)</strong>"
         role: "Hardware and Software Systems Engineer"
+        number: 1
         image: assets/img/team/4.jpg
         bio: "Steve is a Full Stack software developer now diversifying into the emerging field of Internet of Things (IoT). His qualifications include a Bachelor of Information Technology and a Bachelor of Engineering Technology (Electrical)."
         social:
@@ -152,8 +153,6 @@ en: &DEFAULT_EN
           #  icon: fab fa-twitter
           #- url: https://facebook.com/bizkiwifbpage
           #  icon: fab fa-facebook-f
-          - url: javascript:ToggleTeamMember(1);
-            icon: fa fa-plus
           - url: mailto:steve@bizkiwi.nz
             icon: far fa-envelope
           - url: https://linkedin.com/in/bizkiwi

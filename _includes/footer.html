@@ -150,7 +150,8 @@ function ToggleContactForm() {
 
 function ToggleTeamMember(teamMember) {
 	
-	var selector = document.getElementById("team-member").style;
+	var selectorID = "team-member-"+teamMember;
+	var selector = document.getElementById(selectorID).style;
 	if(selector.visibility == "visible") {
 		selector.position = "fixed";
 		selector.zIndex = "-30000";
@@ -159,14 +160,6 @@ function ToggleTeamMember(teamMember) {
 		//var selector = document.getElementById("qrcode-image").style;
 		//selector.zIndex = "-20000";
 	} else {
-	
-		if(teamMember != 'none') {
-			if(teamMember == 'Stephen Julian') {
-			
-			
-			}
-		}
-	
 		selector.position = "fixed";
 		selector.zIndex = "30000";
 		selector.display = "block";
