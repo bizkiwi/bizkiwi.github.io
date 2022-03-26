@@ -147,7 +147,8 @@ en: &DEFAULT_EN
         role: "Hardware and Software Systems Engineer"
         number: 1
         image: assets/img/team/4.jpg
-        bio: "Steve is a Full Stack software developer now diversifying into the emerging field of Internet of Things (IoT). His qualifications include a Bachelor of Information Technology and a Bachelor of Engineering Technology (Electrical)."
+        intro: "Steve is a Full Stack software developer now diversifying into the emerging field of Internet of Things (IoT)."
+        bio:  "His qualifications include a Bachelor of Information Technology and a Bachelor of Engineering Technology (Electrical)."
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter

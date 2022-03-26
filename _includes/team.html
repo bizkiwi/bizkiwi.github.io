@@ -16,7 +16,7 @@
 		<h4>{{ person.name }}</h4>
 		<div style="color:#1C4587;font-weight:700;">{{ person.credentials }}</div>
 		<div style="color:#1C4587;">{{ person.role }}</div>
-		<div id="team-member-bio" style="color:#1C4587;padding-top:10px;padding-bottom:10px;">{{ person.bio }}</div>
+		<div id="team-member-bio" style="color:#1C4587;padding-top:10px;padding-bottom:10px;">{{ person.intro }}</div>
 		<ul class="list-inline social-buttons">
 		<li class="list-inline-item">
 			<a href="javascript:ToggleTeamMember({{person.number}});">
@@ -69,6 +69,7 @@
 					<h4 id="team-member-name">{{ person.name }}</h4>
 					<div id="team-member-credentials" style="font-weight:700;color:#1C4587;">{{ person.credentials }}</div>
 					<div id="team-member-role" style="color:#1C4587;">{{ person.role }}</div>
+					<div id="team-member-intro" style="color:#1C4587;padding-top:10px;padding-bottom:10px;">{{ person.intro }}</div>
 					<div id="team-member-bio" style="color:#1C4587;padding-top:10px;padding-bottom:10px;">{{ person.bio }}</div>
 					<ul class="list-inline social-buttons">
 					{% for network in person.social %}
