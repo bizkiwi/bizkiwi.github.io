@@ -127,7 +127,7 @@ Counters show employees the time elapsed since orders were ready for customers t
 <div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;">
 Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
 </div>
-<br/>
+<br/><br/>
 
 <!--{:.list-inline}-->
 <div style="width:100%;text-align:center;">
