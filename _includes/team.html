@@ -16,6 +16,11 @@
 		<div style="color:#1C4587;font-weight:700;">{{ person.credentials }}</div>
 		<div style="color:#1C4587;">{{ person.role }}</div>
 		<ul class="list-inline social-buttons">
+		<li class="list-inline-item">
+			<a href="javascript:ToggleTeamMember({{person.number}});">
+			  <i class="fa fa-plus"></i>
+			</a>
+		</li>
 		{% for network in person.social %}
 		  <li class="list-inline-item">
 			<a href="{{ network.url }}">
