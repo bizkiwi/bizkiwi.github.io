@@ -24,7 +24,7 @@ en: &DEFAULT_EN
   
   services:
     title: "Services"
-    text: "<strong>BizKiwi.NZ offers ICT and Electrotechnology services that use Hardware, Firmware, Software and Cloud Servers to provide integrated Digital Solutions.</strong>"
+    text: "<strong>BizKiwi.NZ offers ICT &amp; IoT services combining Hardware, Firmware, Software and Cloud technologies to provide integrated Digital Solutions.</strong>"
     section: services
     list:
       - title: "Ecommerce Solutions"
