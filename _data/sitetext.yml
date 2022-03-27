@@ -120,7 +120,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About"
-    text: "our story"
+    text: "Our story and where we have been..."
     body: "<strong>BizKiwi.NZ started out building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer.</strong>"
     section: about
 
