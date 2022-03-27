@@ -56,7 +56,7 @@ en: &DEFAULT_EN
         icon: fas fa-cloud
   portfolio:
     title: "Portfolio"
-    text: "<strong>Project examples by BizKiwi.NZ</strong>"
+    text: "<strong>A deeper dive into examples of projects by BizKiwi.NZ</strong>"
     section: portfolio
     closebutton: "Close Project"
   timeline:
