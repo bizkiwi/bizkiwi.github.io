@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
+  presentation:
+    title: "Presentation"
+    text: "sample text"
+    section: services
+    url: "https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=3000"
+  
   services:
     title: "Services"
     text: "<strong>BizKiwi.NZ offers ICT and Electrotechnology services that use Hardware, Firmware, Software and Cloud Servers to provide integrated Digital Solutions.</strong>"
