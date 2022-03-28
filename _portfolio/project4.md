@@ -26,7 +26,7 @@ caption:
 		<br/><br />
 
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
-			<iframe src="assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf#toolbar=1&navpanes=1&scrollbar=1&statusbar=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+			<iframe src="https://bizkiwi.nz/pdfjs/web/viewer.html?file=assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf" width="100%" height="1000px" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><!-- assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf#toolbar=1&navpanes=1&scrollbar=1&statusbar=1&view=Fit -->
 		</div>
 		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;">
 			<strong>AutoScan vs No AutoScan for the Made Order Advisor. (Adobe PDF)</strong>
@@ -45,8 +45,8 @@ caption:
 		<br/><br />
 
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
-			<iframe src="assets/img/portfolio/building-a-series-of-prototypes-for-autoscan.pdf#toolbar=0&navpanes=0&scrollbar=1&statusbar=0&view=Fit" width="100%" height="2000px" style="width:100%;max-width:640px;height:2000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-		</div>
+			<iframe src="https://bizkiwi.nz/pdfjs/web/viewer.html?file=assets/img/portfolio/building-a-series-of-prototypes-for-autoscan.pdf" width="100%" height="2000px" style="width:100%;max-width:640px;height:2000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		</div><!-- assets/img/portfolio/building-a-series-of-prototypes-for-autoscan.pdf#toolbar=0&navpanes=0&scrollbar=1&statusbar=0&view=Fit -->
 		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;">
 			<strong>Engineering AutoScan (Adobe PDF)</strong>
 		</div>
@@ -54,17 +54,13 @@ caption:
 		<br/><br />
 
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
-			<iframe src="assets/img/portfolio/autoscan-serial-port-monitor-final-report.pdf#toolbar=1&navpanes=1&scrollbar=1&statusbar=1&view=Fit" width="100%" height="1000px" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-		</div>
+			<iframe src="https://bizkiwi.nz/pdfjs/web/viewer.html?file=assets/img/portfolio/autoscan-serial-port-monitor-final-report.pdf" width="100%" height="1000px" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		</div><!-- assets/img/portfolio/autoscan-serial-port-monitor-final-report.pdf#toolbar=1&navpanes=1&scrollbar=1&statusbar=1&view=Fit -->
 		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;">
 			<strong>Project Final Report (Adobe PDF)</strong>
 		</div>
 		
 		<br/><br />
-		
-		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
-			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width:100%;height:100%;max-width:640px;overflow:visible;"></iframe>		
-		</div>
 		
 	</div>
 <!--
