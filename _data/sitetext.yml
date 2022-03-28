@@ -18,13 +18,13 @@ en: &DEFAULT_EN
 
   presentation:
     title: "BizKiwi.NZ"
-    text: "<strong>A quick intro to some of our work</strong>"
+    text: "A quick intro to some of our work"
     section: presentation
     url: "https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=3000"
   
   services:
     title: "Services"
-    text: "<strong>BizKiwi.NZ offers ICT &amp; IoT services combining Hardware, Firmware, Software and Cloud technologies to provide integrated Digital Solutions.</strong>"
+    text: "BizKiwi.NZ offers ICT &amp; IoT services combining Hardware, Firmware, Software and Cloud technologies to provide integrated Digital Solutions."
     section: services
     list:
       - title: "Ecommerce Solutions"
@@ -56,12 +56,12 @@ en: &DEFAULT_EN
         icon: fas fa-cloud
   portfolio:
     title: "Portfolio"
-    text: "<strong>A deeper dive into examples of projects by BizKiwi.NZ</strong>"
+    text: "A deeper dive into examples of projects by BizKiwi.NZ"
     section: portfolio
     closebutton: "Close Project"
   timeline:
     title: "Timeline"
-    text: "<strong>A short history of BizKiwi.NZ</strong>"
+    text: "A short history of BizKiwi.NZ"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     text: "Our story and where we have been..."
-    body: "<strong>BizKiwi.NZ started out building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer.</strong>"
+    body: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
     section: about
 
 #  clients:
