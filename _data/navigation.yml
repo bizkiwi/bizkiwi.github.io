@@ -12,7 +12,7 @@
 
 en: &DEFAULT_EN
   nav:
-    - title: "Intro"
+    - title: "Introducing"
       section: presentation
     - title: "Services"
       section: services
