@@ -156,7 +156,7 @@ en: &DEFAULT_EN
         image: assets/img/team/4.jpg
         intro: "Steve is a Full Stack software developer now diversifying into the emerging field of Internet of Things (IoT)."
         bio:  "His qualifications include a Bachelor of Information Technology and a Bachelor of Engineering Technology (Electrical)."
-        resume: "stephen-julian-curriculum-vitae-april-2022.pdf"
+        resume: stephen-julian-curriculum-vitae-april-2022.pdf
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
