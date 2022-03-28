@@ -10,7 +10,7 @@
     <div class="row" style="background-color:#f8f9fa;">
 	{% for project in site.portfolio %}
       <div class="col-md-4 col-sm-6 portfolio-item" style="background-color:#f8f9fa;">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="background-color:#cccccc;border-width:2px;border-color:#cccccc;border-style:solid;">
+        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="background-color:#cccccc;border-width:2px;border-color:#eeeeee;border-style:solid;">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: 'fas fa-plus fa-3x' }}"></i>
@@ -18,7 +18,7 @@
           </div>
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
-        <div class="portfolio-caption" style="background-color:#ffffff;border-width:2px;border-color:#cccccc;border-style:solid;border-color:#cccccc;border-width: 0px 2px 2px 2px;"><!-- TRBL -->
+        <div class="portfolio-caption" style="background-color:#ffffff;border-style:solid;border-color:#eeeeee;border-width: 0px 2px 2px 2px;"><!-- TRBL -->
           <h4>{{ project.caption.title }}</h4>
           <p style="color:#A90910;">{{ project.caption.subtitle }}</p>
         </div>
