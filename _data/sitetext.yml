@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome to our Studio!
     text: "It's Nice To Meet You"
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#presentation"
 
   presentation:
     title: "BizKiwi.NZ"
