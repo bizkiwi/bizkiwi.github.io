@@ -22,11 +22,13 @@
 				{%- else -%}
 					<a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
 				{%- endif -%}
-            {%- else if link.section -%}
-              <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
             {%- else -%}
-              <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
-            {%- endif -%}
+				{%- if link.section -%}
+				  <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
+				{%- else -%}
+				  <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
+				{%- endif -%}
+			{%- endif -%}
           </li>
         {% endfor %}
         </ul>
