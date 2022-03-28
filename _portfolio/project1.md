@@ -1,11 +1,11 @@
 ---
-title: Ecommerce Storefronts
-subtitle: Shopify Digital Commerce
+title: houseofscotland.nz
+subtitle: Shopify Ecommerce Storefront
 image: assets/img/portfolio/01-full.jpg
-alt: Ecommerce Storefront Websites
+alt: Shopify Digital Commerce
 
 caption:
-  title: Ecommerce Storefronts
+  title: houseofscotland.nz
   subtitle: Shopify Digital Commerce
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 
