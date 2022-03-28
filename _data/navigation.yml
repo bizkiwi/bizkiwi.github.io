@@ -28,6 +28,7 @@ en: &DEFAULT_EN
       section: contact
     - title: "GitHub"
       url: https://github.com/bizkiwi
+      target: "_blank"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

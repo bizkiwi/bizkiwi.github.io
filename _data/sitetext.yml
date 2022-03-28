@@ -110,7 +110,7 @@ en: &DEFAULT_EN
         align: left
       - title: "Future Projects"
         year: "2022+"
-        desc: "Contact us for a chat about your project."
+        desc: "Contact us for a chat about what we can do with your next project."
         image: assets/img/timeline/bizkiwi-logo-sign.png
         alt: How can we help you?
         align: right
@@ -143,7 +143,7 @@ en: &DEFAULT_EN
 #        logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Team BizKiwi"
+    title: "Team"
     text: "<strong>BizKiwi specialises in development of software as well as hardware prototypes.</strong><br />BizKiwi.NZ is a consultancy services brand represented by Stephen Julian."
     subtext: "Opportunities for new team members and partnerships may arise in the future."
     section: team
