@@ -9,8 +9,8 @@
     </div>
     <div class="row">
 	{% for project in site.portfolio %}
-      <div class="col-md-4 col-sm-6 portfolio-item" style="background-color:#cccccc;">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
+      <div class="col-md-4 col-sm-6 portfolio-item">
+        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="background-color:#cccccc;">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
