@@ -19,7 +19,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : BizKiwi.NZ
 email      : steve@bizkiwi.nz #this is also the email contact forms will go to
-description: "Welcome to the website of BizKiwi.NZ."
+description: "Welcome to the website of BizKiwi.NZ"
 author     : Stephen Julian
 logo:
     path   : assets\img\bizkiwi-favicon-128x128px.png
