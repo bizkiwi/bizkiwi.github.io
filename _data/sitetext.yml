@@ -24,7 +24,7 @@ en: &DEFAULT_EN
   
   services:
     title: "Services"
-    text: "BizKiwi.NZ an Information and Communications Technology (ICT) and Internet of Things (IoT) consultancy services provider."
+    text: "<strong>BizKiwi.NZ an Information and Communications Technology (ICT) and Internet of Things (IoT) consultancy services provider.</strong>"
     subtext: "We integrate Hardware, Firmware, Software and Cloud technologies to provide effective business solutions."
     section: services
     list:
