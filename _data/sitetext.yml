@@ -66,6 +66,11 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
     button: About BizKiwi.NZ
     buttonlink: "#about"
+  about:
+    title: "About"
+    text: "The story of BizKiwi.NZ"
+    body: "BizKiwi.NZ started out in 2010 building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
+    section: about
   timeline:
     title: "Timeline"
     text: "A short history of BizKiwi.NZ"
@@ -124,12 +129,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         # align: left
     end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About"
-    text: "Our story and where we have been..."
-    body: "BizKiwi.NZ started out building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
-    section: about
 
 #  clients:
 #   section: clients
