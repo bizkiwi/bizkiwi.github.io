@@ -11,6 +11,8 @@ caption:
 
 ---
 <br/><br />
+<div><img src="hos-website-main-page-desktop-version.png" style="margin:auto;"/></div>
+<br/><br />
 
 <!--{:.list-inline}-->
 <div style="width:100%;text-align:center;">
