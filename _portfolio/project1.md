@@ -19,12 +19,12 @@ caption:
 
 <br/><br />
 
-<h2>Mobile Website</h2>
+<h3>Mobile Website</h3>
 <div><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="width:100%;max-width:320px;margin:auto;"/></div>
 
 <br/><br />
 
-<h2>Desktop Website</h2>
+<h3>Desktop Website</h3>
 <div><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="width:100%;max-width:700px;margin:auto;"/></div>
 
 <br/><br />
