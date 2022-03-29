@@ -1,9 +1,4 @@
 ---
-title: houseofscotland.nz
-subtitle: Shopify Ecommerce Storefront
-image: ""
-alt: Shopify Digital Commerce
-
 caption:
   title: houseofscotland.nz
   subtitle: Shopify Ecommerce Store
@@ -11,19 +6,19 @@ caption:
 
 ---
 
-<div><img src="assets/img/portfolio/hos-website.jpg" style="width:700px;margin:auto;"/></div>
+<div><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:700px;margin:auto;"/></div>
 
 <br/><br />
 
-<div><img src="assets/img/portfolio/hos-marketing.jpg" style="width:700px;margin:auto;"/></div>
+<div><img src="assets/img/portfolio/hos-marketing.jpg" style="width:100%;max-width:700px;margin:auto;"/></div>
 
 <br/><br />
 
-<div><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="width:700px;margin:auto;"/></div>
+<div><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="width:100%;max-width:700px;margin:auto;"/></div>
 
 <br/><br />
 
-<div><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="width:320px;margin:auto;"/></div>
+<div><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="width:100%;max-width:320px;margin:auto;"/></div>
 
 <br/><br />
 
