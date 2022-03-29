@@ -29,6 +29,8 @@ en: &DEFAULT_EN
     text: "<strong>BizKiwi.NZ an Information and Communications Technology (ICT) and Internet of Things (IoT) consultancy services provider.</strong>"
     subtext: "Integration of Hardware, Firmware, Software and Cloud technologies for effective business solutions."
     section: services
+    button: Show Me More
+    buttonlink: "#portfolio"
     list:
       - title: "Ecommerce Solutions"
         desc: "Digital commerce solutions specialising in use of the Shopify platform and third-parties ecosystem.<br><br>"
