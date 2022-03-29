@@ -64,7 +64,7 @@ en: &DEFAULT_EN
     text: "A deeper dive into examples of projects by BizKiwi.NZ"
     section: portfolio
     closebutton: "Close Project"
-    button: Share Story
+    button: Story
     buttonlink: "#timeline"
   about:
     title: "About"
@@ -74,7 +74,7 @@ en: &DEFAULT_EN
   timeline:
     title: "Story"
     text: "BizKiwi.NZ started out in 2010 building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
-    button: Meet Team
+    button: Team
     buttonlink: "#team"
     section: timeline
     
@@ -155,7 +155,7 @@ en: &DEFAULT_EN
     title: "Team"
     text: "<strong>BizKiwi specialises in development of software as well as hardware prototypes.</strong><br />BizKiwi.NZ is a consultancy services brand represented by Stephen Julian."
     subtext: "Opportunities for new team members and partnerships may arise in the future."
-    button: Contact BizKiwi.NZ
+    button: Contact
     buttonlink: "#contact"
     section: team
     people:
