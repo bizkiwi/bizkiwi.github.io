@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: "Welcome to our Studio!"
     text: "It's Nice To Meet You"
-    button: Introduce Me
+    button: Introduction
     buttonlink: "#presentation"
 
   presentation:
@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "A quick intro to some of our work"
     section: presentation
     url: https://docs.google.com/presentation/d/e/2PACX-1vTTQI7fkJAW3VbbkALO75j3koHQ60GwOR6sTVUbucxBjWIs5JOKWhgGnGZjsBNd9L-0DU8cPlvZahi2/embed?start=true&loop=true&delayms=10000&rm=minimal
-    button: Tell Me More
+    button: Tell More
     buttonlink: "#services"
     
   services:
@@ -29,7 +29,7 @@ en: &DEFAULT_EN
     text: "<strong>BizKiwi.NZ an Information and Communications Technology (ICT) and Internet of Things (IoT) consultancy services provider.</strong>"
     subtext: "Integration of Hardware, Firmware, Software and Cloud technologies for effective business solutions."
     section: services
-    button: Show Me More
+    button: Show More
     buttonlink: "#portfolio"
     list:
       - title: "Ecommerce Solutions"
@@ -64,7 +64,7 @@ en: &DEFAULT_EN
     text: "A deeper dive into examples of projects by BizKiwi.NZ"
     section: portfolio
     closebutton: "Close Project"
-    button: Story
+    button: Tell Story
     buttonlink: "#timeline"
   about:
     title: "About"
