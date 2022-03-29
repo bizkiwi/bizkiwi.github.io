@@ -1,4 +1,9 @@
 ---
+title: houseofscotland.nz
+subtitle: Shopify Ecommerce Store
+image: ""
+alt: ""
+
 caption:
   title: houseofscotland.nz
   subtitle: Shopify Ecommerce Store
