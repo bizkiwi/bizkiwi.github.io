@@ -26,7 +26,7 @@ caption:
 		<br/><br />
 
 		<div style="width:100%;max-width:700px;background-color:#dddddd;padding:30px;margin:auto;display:block;z-index:38000;overflow-y:visible;">
-			<iframe src="https://bizkiwi.nz/pdfjs/web/viewer.html?file=assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf" width="100%" height="1000px" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><!-- assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf#toolbar=1&navpanes=1&scrollbar=1&statusbar=1&view=Fit -->
+			<iframe src="https://bizkiwi.nz/pdfjs/web/viewer.html?file=https://bizkiwi.nz/assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf" width="100%" height="1000px" style="width:100%;max-width:640px;height:1000px;margin:auto;display:block;z-index:38000;position:relative;" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><!-- assets/img/portfolio/comparison-of-autoscan-to-no-autoscan.pdf#toolbar=1&navpanes=1&scrollbar=1&statusbar=1&view=Fit -->
 		</div>
 		<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;">
 			<strong>AutoScan vs No AutoScan for the Made Order Advisor. (Adobe PDF)</strong>
