@@ -73,7 +73,7 @@ en: &DEFAULT_EN
     section: about
   timeline:
     title: "Timeline"
-    text: "A short history of BizKiwi.NZ"
+    text: "BizKiwi.NZ started out in 2010 building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
     section: timeline
     # left is the default
     #start_align: "left"
