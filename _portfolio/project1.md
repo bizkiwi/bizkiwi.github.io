@@ -11,7 +11,27 @@ caption:
 
 ---
 <br/><br />
-<div><img src="hos-website-main-page-desktop-version.png" style="margin:auto;"/></div>
+
+<div><img src="assets/img/portfolio/hos-website.jpg" style="margin:auto;"/></div>
+
+<br/><br />
+
+<div><img src="assets/img/portfolio/hos-marketing.jpg" style="margin:auto;"/></div>
+
+<br/><br />
+
+<div><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="margin:auto;"/></div>
+
+<br/><br />
+
+<div><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="margin:auto;"/></div>
+
+
+
+
+
+
+
 <br/><br />
 
 <!--{:.list-inline}-->
