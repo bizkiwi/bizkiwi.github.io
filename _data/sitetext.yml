@@ -65,7 +65,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
     button: About BizKiwi.NZ
-    buttonlink: "#about"
+    buttonlink: "#timeline"
   about:
     title: "About"
     text: "The story of BizKiwi.NZ"
