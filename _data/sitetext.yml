@@ -64,6 +64,8 @@ en: &DEFAULT_EN
     text: "A deeper dive into examples of projects by BizKiwi.NZ"
     section: portfolio
     closebutton: "Close Project"
+    button: About BizKiwi.NZ
+    buttonlink: "#about"
   timeline:
     title: "Timeline"
     text: "A short history of BizKiwi.NZ"
