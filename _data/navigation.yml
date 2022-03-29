@@ -18,7 +18,7 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "Timeline"
+    - title: "Story"
       section: timeline
     - title: "Team"
       section: team
