@@ -178,6 +178,44 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/bizkiwi
             icon: fab fa-github
+      - name: "Stephen Julian"
+        credentials: "BInfoTech, NCEE, NZDE (Electronics), BEngTech (Electrical)"
+        role: "Hardware and Software Systems Engineer"
+        number: 1
+        image: assets/img/team/4.jpg
+        intro: "Steve is a Full Stack software developer now diversifying into the emerging field of Internet of Things (IoT)."
+        bio:  "His qualifications include a Bachelor of Information Technology and a Bachelor of Engineering Technology (Electrical)."
+        resume: stephen-julian-curriculum-vitae-april-2022.pdf
+        social:
+          #- url: https://twitter.com
+          #  icon: fab fa-twitter
+          #- url: https://facebook.com/bizkiwifbpage
+          #  icon: fab fa-facebook-f
+          - url: mailto:steve@bizkiwi.nz
+            icon: far fa-envelope
+          - url: https://linkedin.com/in/bizkiwi
+            icon: fab fa-linkedin-in
+          - url: https://github.com/bizkiwi
+            icon: fab fa-github
+      - name: "Stephen Julian"
+        credentials: "BInfoTech, NCEE, NZDE (Electronics), BEngTech (Electrical)"
+        role: "Hardware and Software Systems Engineer"
+        number: 1
+        image: assets/img/team/4.jpg
+        intro: "Steve is a Full Stack software developer now diversifying into the emerging field of Internet of Things (IoT)."
+        bio:  "His qualifications include a Bachelor of Information Technology and a Bachelor of Engineering Technology (Electrical)."
+        resume: stephen-julian-curriculum-vitae-april-2022.pdf
+        social:
+          #- url: https://twitter.com
+          #  icon: fab fa-twitter
+          #- url: https://facebook.com/bizkiwifbpage
+          #  icon: fab fa-facebook-f
+          - url: mailto:steve@bizkiwi.nz
+            icon: far fa-envelope
+          - url: https://linkedin.com/in/bizkiwi
+            icon: fab fa-linkedin-in
+          - url: https://github.com/bizkiwi
+            icon: fab fa-github
 
   contact:
     title: "Contact"
