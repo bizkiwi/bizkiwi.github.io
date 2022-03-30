@@ -17,9 +17,9 @@
 	  {% for service in site.data.sitetext[site.locale].services.list %}
         <div class="col-md-4">
 			<div style="float:left;height:200px;width:100%;background-color:#cccccc;border-color:#eeeeee;border-style:solid;border-width: 2px 2px 0px 2px;"><!-- TRBL -->
-          <span class="fa-stack fa-4x">
+          <span class="fa-stack fa-4x" style="margin:auto;">
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+            <i class="{{ service.icon | default: 'fas fa-shopping-cart' }} fa-stack-1x fa-inverse"></i>
           </span>
 		  </div>
 		  <div style="float:left;height:100px;width:100%;background-color:#ffffff;bottom.border-width:2px;bottom.border-color:#eeeeee;bottom.border-style:solid;">
