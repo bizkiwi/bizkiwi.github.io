@@ -30,7 +30,7 @@
     <div class="row">
       <div class="col-lg-12">
         <form id="contactForm"
-          action="https://formspree.io/{% if site.formspree_form_path %}{{ site.formspree_form_path }}{% else %}{{ site.email }}{% endif %}"
+          action="{% if site.formspree_form_path %}{{ site.formspree_form_path }}{% else %}{{ site.email }}{% endif %}"
           novalidate="novalidate" method="POST">
           <!--name="sentMessage"-->
           <div class="row">
@@ -58,8 +58,7 @@
               <div class="form-group">
                 <textarea name="message" class="form-control" id="message"
                   placeholder="{{ site.data.sitetext[site.locale].contact.message | default: "Message*" }}"
-                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.message-validation | default: "Please enter a message." }}">
-                </textarea>
+                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.message-validation | default: "Please enter a message." }}"></textarea>
                 <p class="help-block text-danger"></p>
               </div>
             </div>
