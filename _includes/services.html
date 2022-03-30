@@ -15,8 +15,8 @@
 	  <br /><br />
       <div class="row text-center">
 	  {% for service in site.data.sitetext[site.locale].services.list %}
-        <div class="col-md-4" style="background-color:#cccccc;border-width:2px;border-color:#eeeeee;border-style:solid;">
-			<div style="float:left;height:200px;width:100%;background-color:transparent;">
+        <div class="col-md-4">
+			<div style="float:left;height:200px;width:100%;background-color:#cccccc;border-width:2px;border-color:#eeeeee;border-style:solid;">
           <span class="fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
             <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
@@ -26,7 +26,6 @@
           <h4 class="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
 		  </div>
-        </div>
 	  {% endfor %}
 	  <!--
 	  <div style="margin:auto;padding-top:10px;padding-left:auto;padding-right:auto;width:100%;">
