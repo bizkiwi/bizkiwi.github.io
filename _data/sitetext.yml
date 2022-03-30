@@ -33,16 +33,16 @@ en: &DEFAULT_EN
     buttonlink: "#portfolio"
     list:
       - title: "Ecommerce Solutions"
-        desc: "Digital commerce solutions specialising in use of the Shopify platform and third-parties ecosystem.<br><br>"
+        desc: "Digital commerce solutions with the Shopify platform and third-parties ecosystem.<br><br>"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Mobile first and single page responsive web applications development.<br><br>"
         icon: fas fa-mobile-alt
       - title: "Internet of Things (IoT)"
-        desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators, IoT and Electrotechnology<br><br>"
+        desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators and IoT<br><br>"
         icon: fas fa-bolt
       - title: "Prototype Development"
-        desc: "Development of proof-of-concept hardware, firmware and software prototype devices and systems.<br><br>"
+        desc: "Development of proof-of-concept hardware, firmware and software prototype systems.<br><br>"
         icon: fas fa-magic
       - title: "Software Development"
         desc: "Desktop and Server Software Application Development.<br><br>"
@@ -51,13 +51,13 @@ en: &DEFAULT_EN
         desc: "Laravel, WordPress and SilverStripe development platforms.<br><br>"
         icon: fas fa-sitemap
       - title: "Databases and CMS"
-        desc: "Hosted and Cloud-based No-SQL, relational databases and Content Management Systems (CMS).<br><br>"
+        desc: "Hosted and Cloud-based databases and Content Management Systems (CMS).<br><br>"
         icon: fas fa-database
       - title: "Technical Documentation"
-        desc: "Authoring of report, user, wiki and technical documentation including use of Github and Markdown.<br><br>"
+        desc: "Authoring of report, user, wiki and technical documentation including Github Markdown.<br><br>"
         icon: fas fa-book
       - title: "Cloud Server Systems"
-        desc: "Use of Cloud-based data Application Programmable Interfaces (API) including Amazon Web Services (AWS), Google Cloud and Arduino Cloud.<br><br>"
+        desc: "Cloud data Application Programmable Interfaces (API) including Amazon AWS, Google Cloud and Arduino Cloud.<br><br>"
         icon: fas fa-cloud
   portfolio:
     title: "Portfolio"
