@@ -33,7 +33,7 @@ en: &DEFAULT_EN
     buttonlink: "#portfolio"
     list:
       - title: "Ecommerce Solutions"
-        desc: "Digital commerce solutions with the Shopify platform and third-parties ecosystem.<br><br>"
+        desc: "Digital commerce with the Shopify platform and third-parties ecosystem.<br><br>"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Mobile first and single page responsive web applications development.<br><br>"
@@ -42,7 +42,7 @@ en: &DEFAULT_EN
         desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators and IoT<br><br>"
         icon: fas fa-bolt
       - title: "Prototype Development"
-        desc: "Development of proof-of-concept hardware, firmware and software prototype systems.<br><br>"
+        desc: "Development of proof-of-concept hardware, firmware, software prototype systems.<br><br>"
         icon: fas fa-magic
       - title: "Software Development"
         desc: "Desktop and Server Software Application Development.<br><br>"
