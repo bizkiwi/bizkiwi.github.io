@@ -17,7 +17,7 @@
 	<div class="row text-center">
 	<br /><br /><br />
 	{% for person in site.data.sitetext[site.locale].team.people %}
-		<div class="col-sm-4" style="margin:0px;padding-bottom:30px;">
+		<div class="col-sm-4" style="margin:0px;">
 			<div style="float:left;height:200px;width:100%;padding:12px 12px 0px 12px;margin:auto;background-color:#eeeeee;"><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; -->
 				<div style="height:100%;margin:auto;padding: 12px auto auto auto;width:100%;background-color:#ffffff;">
 					<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="BizKiwi Team Member {{ person.name }}" style="max-width:50%;" />
@@ -28,20 +28,22 @@
 			  {% if person.credentials %}<div style="color:#1C4587;font-weight:700;font-size:12px;width:100%;height:25px;float:left;vertical-align:top;font-style:italic;background-color:#eeeeee;">{{ person.credentials }}</div>{% endif %}
 			  {% if person.role %}<div style="color:#A90910;font-style:italic;font-size:14px;width:100%;height:25px;float:left;vertical-align:top;font-style:italic;background-color:#eeeeee;">{{ person.role }}</div>{% endif %}
 			</div>
-			<ul class="list-inline social-buttons" style="padding-top:15px;">
-				<li class="list-inline-item">
-					<a href="javascript:ToggleTeamMember({{person.number}});">
-					  <i class="fa fa-plus"></i>
-					</a>
-				</li>
-				{% for network in person.social %}
-				  <li class="list-inline-item">
-					<a href="{{ network.url }}">
-					  <i class="{{ network.icon }}"></i>
-					</a>
-				  </li>
-				{% endfor %}
-			</ul>
+			<div style="float:left;width:100%;padding-top:20px;padding-bottom:30px;">
+				<ul class="list-inline social-buttons" style="padding-top:15px;">
+					<li class="list-inline-item">
+						<a href="javascript:ToggleTeamMember({{person.number}});">
+						  <i class="fa fa-plus"></i>
+						</a>
+					</li>
+					{% for network in person.social %}
+					  <li class="list-inline-item">
+						<a href="{{ network.url }}">
+						  <i class="{{ network.icon }}"></i>
+						</a>
+					  </li>
+					{% endfor %}
+				</ul>
+			</div>
 		</div>
 	{% endfor %}
 			
