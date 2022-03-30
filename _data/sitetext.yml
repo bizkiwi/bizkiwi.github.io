@@ -72,7 +72,7 @@ en: &DEFAULT_EN
     body: "BizKiwi.NZ started out in 2010 building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
     section: about
   timeline:
-    title: "Story"
+    title: "Timeline"
     text: "BizKiwi.NZ started out in 2010 building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
     button: Team
     buttonlink: "#team"
