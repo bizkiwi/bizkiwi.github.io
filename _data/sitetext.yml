@@ -57,7 +57,7 @@ en: &DEFAULT_EN
         desc: "Authoring of report, user, wiki and technical documentation including Github Markdown.<br><br>"
         icon: fas fa-book
       - title: "Cloud Server Systems"
-        desc: "Cloud data Application Programmable Interfaces (API) including Amazon AWS, Google Cloud and Arduino Cloud.<br><br>"
+        desc: "Cloud data services API including Amazon AWS, Google Cloud and Arduino Cloud.<br><br>"
         icon: fas fa-cloud
   portfolio:
     title: "Portfolio"
