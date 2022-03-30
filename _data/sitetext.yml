@@ -193,7 +193,7 @@ en: &DEFAULT_EN
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Message Us"
+    submit: "Send a Message"
 
   footer:
     legal: "Privacy Policy"
