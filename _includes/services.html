@@ -23,7 +23,7 @@
           </span>
 		  </div>
 		  <div style="float:left;height:100px;width:100%;background-color:#ffffff;top.border-width:2px;top.border-color:#eeeeee;top.border-style:solid;">
-          <h4 class="service-heading">{{ service.title | markdownify }}</h4>
+          <div class="service-heading">{{ service.title | markdownify }}</div>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
 		  </div>
 	  {% endfor %}
