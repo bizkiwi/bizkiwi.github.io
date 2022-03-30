@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: "Welcome to our Studio!"
     text: "It's Nice To Meet You"
-    button: Intro Me
+    button: Introduction
     buttonlink: "#presentation"
 
   presentation:
