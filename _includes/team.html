@@ -17,7 +17,7 @@
 	<br /><br /><br />
 	{% for person in site.data.sitetext[site.locale].team.people %}
 		<div class="col-sm-4">
-			<div class="team-member" onclick="ToggleTeamMember({{person.number}});">
+			<div class="team-member">
 				<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="BizKiwi Team Member {{ person.name }}">
 				<h4>{{ person.name }}</h4>
 				<div style="color:#1C4587;font-weight:700;">{{ person.credentials }}</div>
