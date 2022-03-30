@@ -172,7 +172,7 @@ en: &DEFAULT_EN
           #  icon: fab fa-twitter
           #- url: https://facebook.com/bizkiwifbpage
           #  icon: fab fa-facebook-f
-          - url: mailto:steve@bizkiwi.nz
+          - url: "#contact"
             icon: far fa-envelope
           - url: https://linkedin.com/in/bizkiwi
             icon: fab fa-linkedin-in
@@ -191,7 +191,7 @@ en: &DEFAULT_EN
           #  icon: fab fa-twitter
           #- url: https://facebook.com/bizkiwifbpage
           #  icon: fab fa-facebook-f
-          - url: mailto:steve@bizkiwi.nz
+          - url: "#contact"
             icon: far fa-envelope
           - url: https://linkedin.com/in/bizkiwi
             icon: fab fa-linkedin-in
@@ -210,7 +210,7 @@ en: &DEFAULT_EN
           #  icon: fab fa-twitter
           #- url: https://facebook.com/bizkiwifbpage
           #  icon: fab fa-facebook-f
-          - url: mailto:steve@bizkiwi.nz
+          - url: "#contact"
             icon: far fa-envelope
           - url: https://linkedin.com/in/bizkiwi
             icon: fab fa-linkedin-in
