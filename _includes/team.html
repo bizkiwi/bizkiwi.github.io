@@ -17,9 +17,11 @@
 	{% for person in site.data.sitetext[site.locale].team.people %}
 		<div class="col-sm-4">
 			<div class="team-member">
+				<!--
 				<a href="javascript:ToggleTeamMember({{person.number}});">
 					<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="BizKiwi Team Member {{ person.name }}">
 				</a>
+				-->
 				<h4>{{ person.name }}</h4>
 				<div style="color:#1C4587;font-weight:700;">{{ person.credentials }}</div>
 				<div style="color:#A90910;font-style:italic;">{{ person.role }}</div>
@@ -65,7 +67,7 @@
 			<div class="team-member" style="position:relative;display:block;width:100%;min-height:100vh;overflow-x:hidden;overflow-y:visible;max-width:700px;top:0;bottom:0;margin-left:auto;margin-right:auto;background-color:#ffffff;padding:20px;">
 				<h3 class="text-uppercase" style="text-align:center;">Team Member</h3>
 				<br /><br />
-				<!--<img id="team-member-image" class="mx-auto rounded-circle" src="{{ person.image }}" alt="BizKiwi Team Member {{ person.name }}">-->
+				<img id="team-member-image" class="mx-auto rounded-circle" src="{{ person.image }}" alt="BizKiwi Team Member {{ person.name }}">
 				<h4 id="team-member-name">{{ person.name }}</h4>
 				<div id="team-member-credentials" style="font-weight:700;color:#1C4587;">{{ person.credentials }}</div>
 				<div id="team-member-role" style="color:#A90910;font-style:italic;">{{ person.role }}</div>
