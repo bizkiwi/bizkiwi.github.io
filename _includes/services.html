@@ -16,15 +16,15 @@
       <div class="row text-center">
 	  {% for service in site.data.sitetext[site.locale].services.list %}
         <div class="col-md-4" style="margin:0px;">
-		  <div style="float:left;height:200px;margin-left:5%;margin-right:5%;padding-top:35px;background-color:#eeeeee;border-width:2px;border-color:#cccccc;border-style:solid;padding:0;"><!-- TRBL -->
+		  <div style="float:left;height:200px;padding-top:35px;background-color:#eeeeee;"><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; -->
 			  <span class="fa-stack fa-4x" style="margin:auto;padding:auto;height:100%;">
 				<i class="fas fa-circle fa-stack-2x text-primary"></i>
 				<i class="{{ service.icon | default: 'fas fa-shopping-cart' }} fa-stack-1x fa-inverse"></i>
 			  </span>
 		  </div>
-		  <div style="float:left;height:90px;margin-left:5%;margin-right:5%;background-color:#ffffff;vertical-align:bottom;background-color:#eeeeee;border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid;padding:0;">
-			  <div class="body-font" style="font-size:28px;width:100%;height:40px;float:left;padding-bottom:0;background-color:#ffffff;">{{ service.title | markdownify }}</div><!-- class="service-heading"  -->
-			  {% if service.desc %}<div class="text-muted" style="font-size:15px;width:100%;height:50px;float:left;vertical-align:top;font-style:italic;background-color:#ffffff;">{{ service.desc | markdownify }}</div>{% endif %}
+		  <div style="float:left;height:90px;margin-left:5%;margin-right:5%;background-color:#dddddd;vertical-align:bottom;padding:0;">
+			  <div class="body-font" style="font-size:28px;width:100%;height:40px;float:left;padding-bottom:0;background-color:#dddddd;">{{ service.title | markdownify }}</div><!-- class="service-heading"  -->
+			  {% if service.desc %}<div class="text-muted" style="font-size:15px;width:100%;height:50px;float:left;vertical-align:top;font-style:italic;background-color:#dddddd;">{{ service.desc | markdownify }}</div>{% endif %}
 		  </div>
 	    </div>
 	  {% endfor %}
