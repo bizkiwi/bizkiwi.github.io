@@ -194,7 +194,6 @@ en: &DEFAULT_EN
         intro: ""
         resume: 
         social:
-
   contact:
     title: "Contact"
     text: "<div style='color:#ffffff;'>Submit the contact form or email hello@bizkiwi.nz<br /> or call/text 022-3601234</div>"
