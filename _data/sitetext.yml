@@ -191,7 +191,7 @@ en: &DEFAULT_EN
         role: ""
         number: 
         image: 
-        intro: ""
+        intro:
         resume: 
         social:
         
