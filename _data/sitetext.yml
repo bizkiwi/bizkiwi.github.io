@@ -178,22 +178,6 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/bizkiwi
             icon: fab fa-github
-      - name: ""
-        credentials: ""
-        role: ""
-        number: 
-        image: 
-        intro: ""
-        resume: 
-        social:
-      - name: ""
-        credentials: ""
-        role: ""
-        number: 
-        image: 
-        intro: ""
-        resume: 
-        social:
         
   contact:
     title: "Contact"
