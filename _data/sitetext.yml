@@ -188,7 +188,7 @@ en: &DEFAULT_EN
         social:
       - name: ""
         credentials: ""
-        role: ""
+        role: 
         number: 
         image: 
         intro: ""
