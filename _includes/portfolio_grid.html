@@ -9,8 +9,12 @@
     </div>
     <div class="row text-center" style="background-color:#f8f9fa;">
 	{% for project in site.portfolio %}
+		<div class="col-md-4" style="background-color:#f8f9fa;margin:0px;padding-bottom:30px;">
+        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="background-color:#cccccc;border-width:2px;border-color:#eeeeee;border-style:solid;">
+		<!--
       <div class="col-md-4 col-sm-6 portfolio-item" style="background-color:#f8f9fa;">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="background-color:#cccccc;border-width:2px;border-color:#eeeeee;border-style:solid;">
+		-->
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: 'fas fa-plus fa-3x' }}"></i>
