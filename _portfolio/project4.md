@@ -7,7 +7,7 @@ alt: ""
 caption:
   title: Barcode Autoscanner
   subtitle: Intercepting Printing Barcodes
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/autoscan-thumbnail.png
 
 ---
 <div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
