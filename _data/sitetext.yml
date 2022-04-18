@@ -160,7 +160,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Stephen Julian"
-        credentials: "BInfoTech, NCEE, NZDE (Electronics), BEngTech (Electrical)"
+        credentials: "BInfoTech, NCEE, NZDE (Electrical), BEngTech (Electrical)"
         role: "Hardware and Software Systems Engineer"
         number: 1
         image: assets/img/team/4.jpg
