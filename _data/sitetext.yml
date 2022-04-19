@@ -27,7 +27,7 @@ en: &DEFAULT_EN
   services:
     title: "Services"
     text: "<strong>BizKiwi.NZ is an Information and Communications Technology (ICT) and Internet of Things (IoT) consultancy services provider.</strong>"
-    subtext: "We provide integration of Hardware, Firmware, Software and Cloud technologies to deliver effective business solutions."
+    subtext: "<strong>BizKiwi specialises in development of software as well as hardware prototypes. <br/>We provide integration of Hardware, Firmware, Software and Cloud technologies to deliver effective business solutions.</strong><br />BizKiwi.NZ is a consultancy services brand represented by Stephen Julian."
     section: services
     button: Show More
     buttonlink: "#portfolio"
