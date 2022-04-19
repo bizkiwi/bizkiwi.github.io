@@ -182,7 +182,7 @@ en: &DEFAULT_EN
         
   contact:
     title: "Contact"
-    text: "<div style='color:#ffffff;'><span style="white-space: nowrap;">Submit the contact form</span>&nbsp;<span style="white-space: nowrap;">or email hello@bizkiwi.nz</span>&nbsp;<span style="white-space: nowrap;">or call/text 022-3601234</span></div>"
+    text: "<div style='color:#ffffff;'><span style='white-space: nowrap;'>Submit the contact form</span>&nbsp;<span style='white-space: nowrap;'>or email hello@bizkiwi.nz</span>&nbsp;<span style='white-space: nowrap;'>or call/text 022-3601234</span></div>"
     image: assets/img/team/4.jpg
     section: contact
     name: "Name*"
