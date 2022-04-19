@@ -27,7 +27,7 @@ en: &DEFAULT_EN
   services:
     title: "Services"
     text: "<strong>BizKiwi.NZ is an Information and Communications Technology (ICT) and Internet of Things (IoT) consultancy services provider.</strong>"
-    subtext: "<strong>BizKiwi.NZ specialises in development of software as well as hardware prototypes. <br/>We provide integration of Hardware, Firmware, Software and Cloud technologies to deliver effective business solutions.</strong><br />BizKiwi.NZ is a consultancy services brand represented by Stephen Julian."
+    subtext: "<strong>BizKiwi.NZ specialises in development of software as well as hardware prototypes. <br/>We provide integration of Hardware, Firmware, Software and Cloud technologies to deliver effective business solutions.</strong><br />BizKiwi.NZ is a consultancy services brand representing by Stephen Julian."
     section: services
     button: Show More
     buttonlink: "#portfolio"
@@ -73,7 +73,8 @@ en: &DEFAULT_EN
     section: about
   timeline:
     title: "Timeline"
-    text: "BizKiwi.NZ started out in 2010 building ecommerce websites and other ICT solutions before diversifying through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."
+    text: "<strong>BizKiwi.NZ started out in 2010 building ecommerce websites and other ICT solutions.</strong>"
+    subtext: "<strong>Later BizKiwi.NZ diversified through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."</strong><br />BizKiwi.NZ is a consultancy services brand representing Stephen Julian."
     button: Team
     buttonlink: "#team"
     section: timeline
@@ -153,8 +154,8 @@ en: &DEFAULT_EN
 
   team:
     title: "Team"
-    text: "<strong>BizKiwi specialises in development of software as well as hardware prototypes.</strong><br />BizKiwi.NZ is a consultancy services brand represented by Stephen Julian."
-    subtext: "Opportunities for new team members and partnerships may arise in the future."
+    text: "<strong>BizKiwi specialises in development of software as well as hardware prototypes.</strong>"
+    subtext: "BizKiwi.NZ is a consultancy services brand representing Stephen Julian.<br/>Opportunities for new team members and partnerships may arise in the future."
     button: Contact
     buttonlink: "#contact"
     section: team
