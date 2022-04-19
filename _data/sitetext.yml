@@ -61,8 +61,8 @@ en: &DEFAULT_EN
         icon: fas fa-cloud
   portfolio:
     title: "Portfolio"
-    text: "Press on a tile below to dive deeper into an example project by BizKiwi.NZ"
-    subtext: ""
+    text: "Find out about example projects involving BizKiwi.NZ"
+    subtext: "Press on a tile below to dive deeper into an example project by BizKiwi.NZ"
     section: portfolio
     closebutton: "Close Project"
     button: Story
