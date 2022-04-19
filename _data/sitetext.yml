@@ -181,7 +181,7 @@ en: &DEFAULT_EN
         
   contact:
     title: "Contact"
-    text: "<div style='color:#ffffff;'>Submit the contact form or email hello@bizkiwi.nz<br /> or call/text 022-3601234</div>"
+    text: "<div style='color:#ffffff;'>Submit the contact form<br /> or email hello@bizkiwi.nz<br /> or call/text 022-3601234</div>"
     image: assets/img/team/4.jpg
     section: contact
     name: "Name*"
