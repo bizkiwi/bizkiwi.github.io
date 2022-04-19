@@ -75,7 +75,7 @@ en: &DEFAULT_EN
   timeline:
     title: "Timeline"
     text: "<strong>BizKiwi.NZ started out in 2010 building ecommerce websites and other ICT solutions.</strong>"
-    subtext: "<strong>Later BizKiwi.NZ diversified through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer."</strong><br />BizKiwi.NZ is a consultancy services brand representing Stephen Julian."
+    subtext: "<strong>Later BizKiwi.NZ diversified through development of touchscreen web applications with Cloud server systems. More recently project scopes have expanded to include electronics prototype development for a medical device manufacturer.</strong><br />BizKiwi.NZ is a consultancy services brand representing Stephen Julian."
     button: Team
     buttonlink: "#team"
     section: timeline
