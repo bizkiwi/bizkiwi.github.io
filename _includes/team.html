@@ -36,9 +36,11 @@
 				</div>
 			</div>
 			<div style="float:left;height:100px;width:100%;padding: 5px 10px 5px 10px;background-color:#eeeeee;vertical-align:bottom;border-style:solid;border-color:#eeeeee;border-width:1px;border-radius:0px 0px 10px 10px;">
-			  <div class="body-font" style="color:#1C4587;font-weight:700;font-size:28px;width:100%;height:45px;float:left;vertical-align:bottom;padding-bottom:0;background-color:#eeeeee;">{{ person.name }}</div>
-			  {% if person.credentials %}<div style="color:#1C4587;font-weight:700;font-size:11px;width:100%;height:20px;float:left;vertical-align:middle;font-style:italic;background-color:#eeeeee;padding:auto;">{{ person.credentials }}</div>{% endif %}
-			  {% if person.role %}<div style="color:#A90910;font-style:italic;font-size:15px;width:100%;height:25px;float:left;vertical-align:top;font-style:italic;background-color:#eeeeee;padding-top:0;">{{ person.role }}</div>{% endif %}
+				<a href="javascript:ToggleTeamMember({{person.number}});">
+				  <div class="body-font" style="color:#1C4587;font-weight:700;font-size:28px;width:100%;height:45px;float:left;vertical-align:bottom;padding-bottom:0;background-color:#eeeeee;text-decoration:underline;">{{ person.name }}</div>
+				  {% if person.credentials %}<div style="color:#1C4587;font-weight:700;font-size:11px;width:100%;height:20px;float:left;vertical-align:middle;font-style:italic;background-color:#eeeeee;padding:auto;">{{ person.credentials }}</div>{% endif %}
+				  {% if person.role %}<div style="color:#A90910;font-style:italic;font-size:15px;width:100%;height:25px;float:left;vertical-align:top;font-style:italic;background-color:#eeeeee;padding-top:0;">{{ person.role }}</div>{% endif %}
+				</a>
 			</div>
 			<div style="float:left;width:100%;padding-top:10px;padding-bottom:50px;">
 				<ul class="list-inline social-buttons">
