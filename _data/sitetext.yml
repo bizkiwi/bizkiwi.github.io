@@ -27,7 +27,7 @@ en: &DEFAULT_EN
   services:
     title: "Services"
     text: "<strong>BizKiwi.NZ is an Information and Communications Technology (ICT) and Internet of Things (IoT) consultancy services provider.</strong>"
-    subtext: "Integration of Hardware, Firmware, Software and Cloud technologies for effective business solutions."
+    subtext: "We provide integration of Hardware, Firmware, Software and Cloud technologies to deliver effective business solutions."
     section: services
     button: Show More
     buttonlink: "#portfolio"
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         icon: fas fa-cloud
   portfolio:
     title: "Portfolio"
-    text: "Press a tile below to dive deeper into an example project by BizKiwi.NZ"
+    text: "Press on a tile below to dive deeper into an example project by BizKiwi.NZ"
     section: portfolio
     closebutton: "Close Project"
     button: Story
