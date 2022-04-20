@@ -70,7 +70,7 @@ en: &DEFAULT_EN
         img: "cloud-server-systems.jpg"
   portfolio:
     title: "Portfolio"
-    text: "Find out about example projects involving BizKiwi.NZ"
+    text: "Example projects involving BizKiwi.NZ"
     subtext: "Press on a tile below to dive deeper into an example project by BizKiwi.NZ"
     section: portfolio
     closebutton: "Close Project"
