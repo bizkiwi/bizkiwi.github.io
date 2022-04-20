@@ -43,11 +43,11 @@ en: &DEFAULT_EN
       - title: "Internet of Things (IoT)"
         desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators and IoT<br><br>"
         icon: fas fa-bolt
-        img: ""
+        img: "internet-of-things.jpg"
       - title: "Prototype Development"
         desc: "Development of proof-of-concept hardware, firmware, software prototype systems.<br><br>"
         icon: fas fa-magic
-        img: ""
+        img: "prototype-development.jpg"
       - title: "Software Development"
         desc: "Desktop and Server Software Application Development.<br><br>"
         icon: fas fa-laptop
