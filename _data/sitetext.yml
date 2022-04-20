@@ -51,7 +51,7 @@ en: &DEFAULT_EN
       - title: "Software Development"
         desc: "Desktop and Server Software Application Development.<br><br>"
         icon: fas fa-laptop
-        img: ""
+        img: "software-development.jpg"
       - title: "Website Development"
         desc: "Laravel, WordPress and SilverStripe development platforms.<br><br>"
         icon: fas fa-sitemap
