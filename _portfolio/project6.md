@@ -7,7 +7,7 @@ alt: Volunteer Work for Non Profits
 caption:
   title: Pro Bono
   subtitle: Volunteer Work for Non Profits
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  thumbnail: assets/img/portfolio/pro-bono.jpg
 
 ---
 <br/><br />
