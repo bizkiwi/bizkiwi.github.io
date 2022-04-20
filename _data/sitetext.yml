@@ -63,7 +63,7 @@ en: &DEFAULT_EN
       - title: "Technical Documentation"
         desc: "Authoring of report, user, wiki and technical documentation including Github Markdown.<br><br>"
         icon: fas fa-book
-        img: ""
+        img: "technical-writing.jpg"
       - title: "Cloud Server Systems"
         desc: "Cloud data services API including Amazon AWS, Google Cloud and Arduino Cloud.<br><br>"
         icon: fas fa-cloud
