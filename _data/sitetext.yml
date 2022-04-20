@@ -55,7 +55,7 @@ en: &DEFAULT_EN
       - title: "Website Development"
         desc: "Laravel, WordPress and SilverStripe development platforms.<br><br>"
         icon: fas fa-sitemap
-        img: ""
+        img: "website-development.jpg"
       - title: "Databases and CMS"
         desc: "Hosted and Cloud-based databases and Content Management Systems (CMS).<br><br>"
         icon: fas fa-database
