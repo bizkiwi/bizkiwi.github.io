@@ -59,7 +59,7 @@ en: &DEFAULT_EN
       - title: "Databases and CMS"
         desc: "Hosted and Cloud-based databases and Content Management Systems (CMS).<br><br>"
         icon: fas fa-database
-        img: ""
+        img: "databases-and-cms.jpg"
       - title: "Technical Documentation"
         desc: "Authoring of report, user, wiki and technical documentation including Github Markdown.<br><br>"
         icon: fas fa-book
