@@ -39,7 +39,7 @@ en: &DEFAULT_EN
       - title: "Responsive Design"
         desc: "Mobile first and single page responsive web applications development.<br><br>"
         icon: fas fa-mobile-alt
-        img: ""
+        img: "responsive-design.jpg"
       - title: "Internet of Things (IoT)"
         desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators and IoT<br><br>"
         icon: fas fa-bolt
