@@ -35,30 +35,39 @@ en: &DEFAULT_EN
       - title: "Ecommerce Solutions"
         desc: "Digital commerce with the Shopify platform and third-parties ecosystem.<br><br>"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        img: "mobile-commerce.jpg"
       - title: "Responsive Design"
         desc: "Mobile first and single page responsive web applications development.<br><br>"
         icon: fas fa-mobile-alt
+        img: ""
       - title: "Internet of Things (IoT)"
         desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators and IoT<br><br>"
         icon: fas fa-bolt
+        img: ""
       - title: "Prototype Development"
         desc: "Development of proof-of-concept hardware, firmware, software prototype systems.<br><br>"
         icon: fas fa-magic
+        img: ""
       - title: "Software Development"
         desc: "Desktop and Server Software Application Development.<br><br>"
         icon: fas fa-laptop
+        img: ""
       - title: "Website Development"
         desc: "Laravel, WordPress and SilverStripe development platforms.<br><br>"
         icon: fas fa-sitemap
+        img: ""
       - title: "Databases and CMS"
         desc: "Hosted and Cloud-based databases and Content Management Systems (CMS).<br><br>"
         icon: fas fa-database
+        img: ""
       - title: "Technical Documentation"
         desc: "Authoring of report, user, wiki and technical documentation including Github Markdown.<br><br>"
         icon: fas fa-book
+        img: ""
       - title: "Cloud Server Systems"
         desc: "Cloud data services API including Amazon AWS, Google Cloud and Arduino Cloud.<br><br>"
         icon: fas fa-cloud
+        img: ""
   portfolio:
     title: "Portfolio"
     text: "Find out about example projects involving BizKiwi.NZ"
