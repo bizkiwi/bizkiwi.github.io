@@ -67,7 +67,7 @@ en: &DEFAULT_EN
       - title: "Cloud Server Systems"
         desc: "Cloud data services API including Amazon AWS, Google Cloud and Arduino Cloud.<br><br>"
         icon: fas fa-cloud
-        img: ""
+        img: "cloud-server-systems.jpg"
   portfolio:
     title: "Portfolio"
     text: "Find out about example projects involving BizKiwi.NZ"
