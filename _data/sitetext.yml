@@ -95,43 +95,43 @@ en: &DEFAULT_EN
       - title: "ICT Consultancy"
         year: "2010-2014"
         desc: "BizKiwi.NZ started out building ecommerce websites and other Information and Communications Technology (ICT) solutions from Queenstown, New Zealand."
-        image: assets/img/timeline/9.jpg
+        image: assets/img/timeline/ict-consultancy.jpg
         alt: ICT Consultancy from BizKiwi.NZ
         align: left
       - title: "Made Order Advisor"
         year: "2014-2015"
         desc: "Made Order Advisor touchscreen app, for notifying customers their order is ready to collect, introduced in select McDonald's restaurants in New Zealand."
-        image: assets/img/timeline/6.jpg
+        image: assets/img/timeline/made-order-advisor.jpg
         alt: Made Order Advisor touchscreen app for the hospitality industry.
         align: right
       - title: "MkAPPy for Kitchens"
         year: "2016-2017"
         desc: "MkAPPy touchscreen apps for kitchens introduced in select McDonald's restaurants in New Zealand."
-        image: assets/img/timeline/5.jpg
+        image: assets/img/timeline/mkappy-for-kitchens.jpg
         alt: MkAPPy touchscreen app for kitchens and hospitality.
         align: left
       - title: "Serial Port Monitor"
         year: "2017"
         desc: "AutoScan is a serial port monitoring device used to automatically intercept and 'scan' barcodes being printed to a thermal printer. Introduced as a hardware automation add-on for Made Order Advisor with resulting service times reduced by around 6-8 seconds."
-        image: assets/img/timeline/7.jpg
+        image: assets/img/timeline/serial-port-monitor.jpg
         alt: AutoScan serial port monitor for Made Order Advisor.
         align: right
       - title: "Ecommerce and Inventory Systems"
         year: "2018-2020"
         desc: "Responsive Shopify ecommerce stores with integrated stock feeds and Inventory Management Systems."
-        image: assets/img/timeline/10.jpg
+        image: assets/img/timeline/ecommerce-and-inventory-systems.jpg
         alt: Shopify Ecommerce and Inventory Systems for retailers.
         align: left
       - title: "Medical Device Prototyping"
         year: "2020-2022"
         desc: "Proof of concept rapid electronics prototype device development for the Medical Devices industry."
-        image: assets/img/timeline/11.jpg
+        image: assets/img/timeline/medical-device-prototyping.jpg
         alt: Medical Device prototyping.
         align: right
       - title: "Open Source Software (OSS)"
         year: "2022+"
         desc: "Published open source software repositories originating from BizKiwi.NZ internal development and academic studies projects."
-        image: assets/img/timeline/8.jpg
+        image: assets/img/timeline/open-source-software-oss.jpg
         alt: Free Open Source Software (FOSS) from BizKiwi.
         align: left
       - title: "Future Projects"
