@@ -21,14 +21,16 @@
                 alt="{{ project.alt }}"
               />
               <p style="min-width:320px;width:100%;padding:auto;">{{ project.content }}</p>
-              <button
-                class="btn btn-primary"
-                data-dismiss="modal"
-                type="button" style="min-width:320px;width:100%;padding:auto;">
-                <i class="fas fa-times"></i>
-                {{ site.data.sitetext[site.locale].portfolio.closebutton |
-                default: "Close Project" }}
-              </button>
+              <p style="min-width:320px;width:100%;padding:auto;">
+				  <button
+					class="btn btn-primary"
+					data-dismiss="modal"
+					type="button" style="margin:auto;">
+					<i class="fas fa-times"></i>
+					{{ site.data.sitetext[site.locale].portfolio.closebutton |
+					default: "Close Project" }}
+				  </button>
+			  </p>
             </div>
           </div>
         </div>
