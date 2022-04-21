@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/hos-website-thumb.jpg
 
 ---
-<div style="width:100%;max-width:1400px;padding:auto;margin:auto;padding:auto;">
+<div style="width:100%;min-width:360px;padding:auto;margin:auto;padding:auto;">
 	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:1800px;margin:auto;"/></div>
 
 	<br/><br />
@@ -20,7 +20,7 @@ caption:
 	<br/><br />
 
 	<h3>Mobile Website</h3>
-	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="width:100%;max-width:320px;margin:auto;"/></div>
+	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="width:100%;max-width:360px;margin:auto;"/></div>
 
 	<br/><br />
 
