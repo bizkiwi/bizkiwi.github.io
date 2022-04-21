@@ -11,21 +11,21 @@ caption:
 
 ---
 <div style="width:100%;max-width:1200px;padding:auto;">
-	<div><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:1200px;margin:auto;"/></div>
+	<div style="width:100%;max-width:1200px;"><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:1200px;margin:auto;"/></div>
 
 	<br/><br />
 
-	<div><img src="assets/img/portfolio/hos-marketing.jpg" style="width:100%;max-width:1200px;margin:auto;"/></div>
+	<div style="width:100%;max-width:1200px;"><img src="assets/img/portfolio/hos-marketing.jpg" style="width:100%;max-width:1200px;margin:auto;"/></div>
 
 	<br/><br />
 
 	<h3>Mobile Website</h3>
-	<div><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="width:100%;max-width:320px;margin:auto;"/></div>
+	<div style="width:100%;max-width:1200px;"><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="width:100%;max-width:320px;margin:auto;"/></div>
 
 	<br/><br />
 
 	<h3>Desktop Website</h3>
-	<div><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="width:100%;max-width:1200px;margin:auto;"/></div>
+	<div style="width:100%;max-width:1200px;"><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="width:100%;max-width:1200px;margin:auto;"/></div>
 
 	<br/><br />
 
