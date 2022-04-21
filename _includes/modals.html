@@ -18,19 +18,21 @@
 	  </div>
       <div class="container" style="position:relative;float:left;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;display:block;margin:0;padding:0;background-color:#f8f9fa;opacity:1.0;"><!-- TRBL -->
 		<div class="row" style="position:relative;float:right;display:block;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;margin:0;padding:0;background-color:#f8f9fa;opacity:1.0;">
-          <div class="col-lg-8 mx-auto" style="position:relative;display:block;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;margin:0;padding:0;background-color:#f8f9fa;">
-            <div class="modal-body" style="position:relative;display:block;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;margin:0;padding:auto;">
-			  <div style="position:relative;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;display:block;margin:auto;padding:auto;background-color:#f8f9fa;opacity:1.0;">
+          <div class="col-lg-8 mx-auto" style="position:relative;float:left;display:block;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;margin:0;padding:0;background-color:#f8f9fa;">
+            <div class="modal-body" style="position:relative;float:left;display:inline;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;margin:0;padding:auto;">
+			  <div style="position:relative;min-width:320px;width:100%;max-width:1480px;overflow-y:visible;display:block;margin:auto;padding:auto;background-color:#f8f9fa;opacity:1.0;">
               <!-- Project Details Go Here -->
-              <h2 class="text-uppercase" style="font-size:1.6em;width:100vw;">{{ project.title }}</h2>
-              <p class="item-intro text-muted">{{ project.subtitle }}</p>
-              <img
-                class="img-fluid d-block mx-auto"
-                src="{{ project.image }}"
-                alt="{{ project.alt }}"
-              />
-              <p style="min-width:320px;width:100%;margin:0;padding:auto;display:block;">{{ project.content }}</p>
-              <p style="min-width:320px;width:100%;margin:0;padding:auto;">
+              <h2 class="text-uppercase" style="font-size:1.6em;width:100%;padding:auto;">{{ project.title }}</h2>
+              <p class="item-intro text-muted" style="font-size:1.6em;width:100%;padding:auto;">{{ project.subtitle }}</p>
+			  <p style="font-size:1.6em;width:100%;padding:auto;">
+				  <img
+					class="img-fluid d-block mx-auto"
+					src="{{ project.image }}"
+					alt="{{ project.alt }}"
+				  />
+			  </p>
+              <p style="min-width:320px;width:100%;padding:auto;display:block;">{{ project.content }}</p>
+              <p style="min-width:320px;width:100%;padding:auto;display:block;">
 				  <button
 					class="btn btn-primary"
 					data-dismiss="modal"
