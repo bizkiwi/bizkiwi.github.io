@@ -5,18 +5,18 @@
   id="p{{ forloop.index }}"
   tabindex="-1"
   role="dialog"
-  aria-hidden="true" style="display:block;background-color:#212529;width:100%;margin:0;padding:0;opacity:1;">
-  <div class="modal-dialog" style="display:block;width:100%;margin:0;padding:0;background-color:#212529;opacity:1;">
-    <div class="modal-content" style="display:block;margin:0;padding:0px auto 0px auto;min-width:320px;width:100%;background-color:#212529;opacity:1;">
-      <div class="container" style="display:block;padding:0;margin:0px auto 0px auto;min-width:320px;width:100%;background-color:#f8f9fa;opacity:1.0;"><!-- TRBL -->
-		<div class="close-modal" data-dismiss="modal" style="min-width:320px;width:100%;position:relative;display:block;float:left;margin:0;padding:0px 0px 0px auto;background-color:#f8f9fa;opacity:1.0;">
+  aria-hidden="true" style="display:inline;background-color:#212529;width:100%;margin:0;padding:0;opacity:1;">
+  <div class="modal-dialog" style="display:inline;width:100%;margin:0;padding:0;background-color:#212529;opacity:1;">
+    <div class="modal-content" style="display:inline;margin:0;padding:0px auto 0px auto;min-width:320px;width:100%;background-color:#212529;opacity:1;">
+      <div class="container" style="display:inline;padding:0;margin:0px auto 0px auto;min-width:320px;width:100%;background-color:#f8f9fa;opacity:1.0;"><!-- TRBL -->
+		<div class="close-modal" data-dismiss="modal" style="min-width:320px;width:100%;display:inline;margin:0;padding:0px 0px 0px auto;background-color:#f8f9fa;opacity:1.0;">
 			<img id="close-icon" style="position:relative;display:block;float:right;margin:0px 0px 0px auto;width:40px;height:40px;background-color:transparent;"
 			src="assets/img/close-icon.png"
 			alt="Close window icon" />	
 		</div>
-		<div class="row" style="min-width:320px;width:100%;height:100%;position:relative;display:block;float:left;margin:0;padding:0;background-color:#f8f9fa;opacity:1.0;">
+		<div class="row" style="min-width:320px;width:100%;height:100%;display:inline;margin:0;padding:0;background-color:#f8f9fa;opacity:1.0;">
           <div class="col-lg-8 mx-auto" style="min-width:320px;width:100%;margin:0;padding:0;">
-            <div class="modal-body" style="max-width:100%;min-width:320px;width:100%;margin:0;padding:0;">
+            <div class="modal-body" style="min-width:320px;width:100%;margin:0;padding:0;">
               <!-- Project Details Go Here -->
               <h2 class="text-uppercase" style="font-size:1.6em;">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
@@ -43,7 +43,6 @@
     </div>
   </div>
 </div>
-
 {% endfor %}
 <!--
 		<div class="close-modal" data-dismiss="modal" style="z-index:40000;position:absolute;display:block;width:100vw;top:0;right:0;height:9vh;overflow-y:visible;">
