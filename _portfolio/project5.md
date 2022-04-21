@@ -7,7 +7,7 @@ alt: GitHub Free Open Source Software Repositories
 caption:
   title: GitHub Repositories
   subtitle: Free Open Source Software (FOSS)
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/bizkiwi-github-repositories-thumbnail.jpg
   
 ---
 <br/><br />

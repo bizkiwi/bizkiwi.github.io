@@ -7,7 +7,7 @@ alt: ""
 caption:
   title: MkAPPy Kitchen
   subtitle: Touchscreen Tablet App for Kitchens
-  thumbnail: assets/img/portfolio/mkappy-timers-1200x700px.jpg
+  thumbnail: assets/img/portfolio/mkappy-timers-thumb.jpg
 
 ---
 

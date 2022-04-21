@@ -7,7 +7,7 @@ alt: ""
 caption: 
   title: Made Order Advisor
   subtitle: Order Ready Notification System
-  thumbnail: assets/img/portfolio/made-order-advisor-crew-screen-1200x800px.jpg
+  thumbnail: assets/img/portfolio/made-order-advisor-crew-screen-thumb.jpg
 
 ---
 

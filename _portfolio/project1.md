@@ -7,7 +7,7 @@ alt: ""
 caption:
   title: houseofscotland.nz
   subtitle: Shopify Ecommerce Store
-  thumbnail: assets/img/portfolio/hos-website.png
+  thumbnail: assets/img/portfolio/hos-website-thumb.jpg
 
 ---
 
