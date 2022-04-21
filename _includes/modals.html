@@ -11,15 +11,15 @@
       <div class="container" style="position:relative;display:inline;overflow-x:hidden;padding:0;margin:0px auto 0px auto;min-width:320px;width:100%;max-width:1400px;background-color:#f8f9fa;opacity:1.0;"><!-- TRBL -->
 		<div class="row" style="position:relative;float:left;min-width:320px;width:100%;overflow-x:hidden;overflow-y:visible;display:inline;margin:0;padding:0;background-color:#f8f9fa;opacity:1.0;">
           <div class="col-lg-8 mx-auto" style="min-width:320px;width:100%;margin:0;padding:0;background-color:#f8f9fa;">
-		  	<div style="position:relative;float:left;min-width:320px;width:100%;overflow-x:hidden;overflow-y:visible;display:inline;margin:0;padding:0px 0px 0px auto;background-color:#f8f9fa;opacity:1.0;">
+            <div class="modal-body" style="position:relative;float:left;display:inline;min-width:320px;width:100%;margin:0;padding:0;">
+			  <div style="position:relative;float:left;min-width:320px;width:100%;overflow-x:hidden;overflow-y:visible;display:inline;margin:0;padding:0px 0px 0px auto;background-color:#f8f9fa;opacity:1.0;">
 				<button
 					class="btn btn-primary"
 					data-dismiss="modal"
 					type="button" style="position:relative;display:inline;margin:0px 0px 0px auto;padding:auto;float:right;height:50px;width:50px;">
 					<i class="fas fa-window-close"></i>
 				</button>
-			</div>
-            <div class="modal-body" style="position:relative;float:left;display:inline;min-width:320px;width:100%;margin:0;padding:0;">
+			  </div>
 			  <div style="position:relative;float:left;min-width:320px;width:100%;overflow-x:hidden;overflow-y:visible;display:inline;margin:0;padding:0px 0px 0px auto;background-color:#f8f9fa;opacity:1.0;">
               <!-- Project Details Go Here -->
               <h2 class="text-uppercase" style="font-size:1.6em;">{{ project.title }}</h2>
@@ -39,8 +39,8 @@
 					{{ site.data.sitetext[site.locale].portfolio.closebutton |
 					default: "Close Project" }}
 				  </button>
+				  <br/><br/>
 			  </p>
-			  <br/><br/>
 			  </div>
             </div>
           </div>
