@@ -7,11 +7,11 @@
   role="dialog"
   aria-hidden="true" style="background-color:#f8f9fa;width:100%;">
   <div class="modal-dialog" style="background-color:#f8f9fa;width:100%;">
-    <div class="modal-content" style="background-color:#212529;margin-top:0;margin-bottom:0;padding-top:0;padding-left:auto;padding-right:auto;width:100%;">
-      <div class="container" style="background-color:#f8f9fa;padding-top:9vh;margin-top:0;margin-bottom:0;max-width:94vw;min-width:360px;width:100%;">
-        <div class="row" style="max-width:94vw;min-width:360px;width:100%;">
-          <div class="col-lg-8 mx-auto" style="max-width:94vw;min-width:360px;width:100%;">
-            <div class="modal-body" style="max-width:94vw;min-width:360px;width:100%;">
+    <div class="modal-content" style="background-color:#212529;margin-top:0;margin-bottom:0;padding-top:0;padding-left:auto;padding-right:auto;min-width:320px;width:100%;">
+      <div class="container" style="background-color:#f8f9fa;padding-top:9vh;margin-top:0;margin-bottom:0;min-width:320px;width:100%;">
+        <div class="row" style="min-width:320px;width:100%;">
+          <div class="col-lg-8 mx-auto" style="min-width:320px;width:100%;">
+            <div class="modal-body" style="max-width:94vw;min-width:320px;width:100%;">
               <!-- Project Details Go Here -->
               <h2 class="text-uppercase" style="font-size:1.6em;">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
@@ -20,7 +20,7 @@
                 src="{{ project.image }}"
                 alt="{{ project.alt }}"
               />
-              <p style="max-width:94vw;min-width:360px;width:100%;padding:auto;">{{ project.content }}</p>
+              <p style="min-width:320px;width:100%;padding:auto;">{{ project.content }}</p>
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
