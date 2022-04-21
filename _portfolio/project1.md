@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/hos-website-thumb.jpg
 
 ---
-<div style="width:100%;background-color:#212529;padding:auto;">
+<div style="width:100%;padding:auto;">
 	<div><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:700px;margin:auto;"/></div>
 
 	<br/><br />
