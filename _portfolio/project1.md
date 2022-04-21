@@ -10,30 +10,31 @@ caption:
   thumbnail: assets/img/portfolio/hos-website-thumb.jpg
 
 ---
+<div style="width:100%;background-color:#212529;padding:auto;">
+	<div><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:700px;margin:auto;"/></div>
 
-<div><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:700px;margin:auto;"/></div>
+	<br/><br />
 
-<br/><br />
+	<div><img src="assets/img/portfolio/hos-marketing.jpg" style="width:100%;max-width:700px;margin:auto;"/></div>
 
-<div><img src="assets/img/portfolio/hos-marketing.jpg" style="width:100%;max-width:700px;margin:auto;"/></div>
+	<br/><br />
 
-<br/><br />
+	<h3>Mobile Website</h3>
+	<div><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="width:100%;max-width:320px;margin:auto;"/></div>
 
-<h3>Mobile Website</h3>
-<div><img src="assets/img/portfolio/hos-website-main-page-mobile-version.png" style="width:100%;max-width:320px;margin:auto;"/></div>
+	<br/><br />
 
-<br/><br />
+	<h3>Desktop Website</h3>
+	<div><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="width:100%;max-width:700px;margin:auto;"/></div>
 
-<h3>Desktop Website</h3>
-<div><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="width:100%;max-width:700px;margin:auto;"/></div>
-
-<br/><br />
+	<br/><br />
 
 
 
-<!--{:.list-inline}-->
-<div style="width:100%;text-align:center;">
-<strong>Date:</strong> January 2017<br />
-<strong>Client:</strong> houseofscotland.nz<br />
-<strong>Category:</strong> Ecommerce Storefronts<br />
+	<!--{:.list-inline}-->
+	<div style="width:100%;text-align:center;">
+	<strong>Date:</strong> January 2017<br />
+	<strong>Client:</strong> houseofscotland.nz<br />
+	<strong>Category:</strong> Ecommerce Storefronts<br />
+	</div>
 </div>
