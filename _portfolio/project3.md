@@ -11,7 +11,7 @@ caption:
 ---
 <div style="background-color:#EFEFEF;display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:0px 20px 0px 20px;margin:auto;">
 
-	<div style="display:block;background-color:#EFEFEF;padding:10px 10px 10px 10px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="display:block;background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/made-order-advisor-crew-screen-scanning-barcodes.jpg" width="100%" alt="Order Ready Notification Display System for Customers of Cafes and Quick Service Restaurants." style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;text-align:center;">
@@ -26,7 +26,7 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:10px 10px 10px 10px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/made-order-advisor-crew-screen.png" width="100%" style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:10px 10px 10px 10px;max-width:900px;">
@@ -39,7 +39,7 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:10px 10px 10px 10px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/made-order-advisor-crew-screen-keypad.png" width="100%" style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;max-width:900px;">
@@ -52,7 +52,7 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:10px 10px 10px 10px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/made-order-advisor-customer-screen.png" width="100%" style="max-width:900px;"/>
 	</div>
 	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;max-width:900px;">
@@ -65,7 +65,7 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:10px 10px 10px 10px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/made-order-advisor-customer-screen-photo.jpg" width="100%" style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
@@ -77,7 +77,7 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:10px 10px 10px 10px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/04-full.jpg" width="100%" style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
@@ -89,7 +89,7 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:10px 10px 10px 10px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<video id="project3-video1-v1" width="300" height="170" controls style="display:block;width:100%;max-width:900px;">
 	  <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:block;width:100%;max-width:900px;">
 	  Your browser does not support the video tag.
@@ -110,7 +110,7 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:10px 10px 10px 10px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<video id="project3-video2-v1" width="300" height="170" controls style="display:block;width:100%;max-width:900px;">
 	  <source src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" type="video/mp4" style="display:block;width:100%;max-width:900px;">
 	  Your browser does not support the video tag.
