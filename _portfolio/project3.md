@@ -9,7 +9,7 @@ caption:
   subtitle: Order Ready Notification System
   thumbnail: assets/img/portfolio/made-order-advisor-crew-screen-thumb.jpg
 ---
-<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+<div style="display:block;background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 <img src="assets/img/portfolio/made-order-advisor-crew-screen-scanning-barcodes.jpg" width="100%" alt="Order Ready Notification Display System for Customers of Cafes and Quick Service Restaurants." style="max-width:900px;" />
 </div>
 <div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
