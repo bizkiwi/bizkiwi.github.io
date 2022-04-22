@@ -9,7 +9,7 @@ caption:
   subtitle: Shopify Ecommerce Store
   thumbnail: assets/img/portfolio/hos-website-thumb.jpg
 ---
-<div style="display:block;position:relative;overflow-y:visible;overflow-x:auto;width:100%;min-width:320px;padding:auto;margin:auto;">
+<div style="display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;padding:auto;margin:auto;">
 	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:1800px;margin:auto;"/></div>
 
 	<br/><br />
