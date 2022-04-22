@@ -9,14 +9,14 @@ caption:
   subtitle: Order Ready Notification System
   thumbnail: assets/img/portfolio/made-order-advisor-crew-screen-thumb.jpg
 ---
-<div style="display:block;background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+<div style="display:block;background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 <img src="assets/img/portfolio/made-order-advisor-crew-screen-scanning-barcodes.jpg" width="100%" alt="Order Ready Notification Display System for Customers of Cafes and Quick Service Restaurants." style="max-width:900px;" />
 </div>
-<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
+<div style="background-color:#EFEFEF;padding:5px;max-width:900px;text-align:center;">
 <strong>The Made Order Advisor Touchscreen App in use at a Quick Service Restaurant (QSR).
 </strong>
 </div>
-<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;max-width:900px;">
+<div style="background-color:#EFEFEF;padding-top:5px auto 5px 0px;text-align:left;max-width:900px;">
 Three Input Methods<br />
 1. Barcode scan<br />
 2. Manual key in<br />
@@ -24,14 +24,14 @@ Three Input Methods<br />
 
 <br/><br />
 
-<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 <img src="assets/img/portfolio/made-order-advisor-crew-screen.png" width="100%" style="max-width:900px;" />
 </div>
-<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;max-width:900px;">
+<div style="background-color:#EFEFEF;padding-top:5px;padding:10px 0px 10px 0px;max-width:900px;">
 <strong>Touchscreen App: Counters show time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.
 </strong>
 </div>
-<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;max-width:900px;">
+<div style="background-color:#EFEFEF;padding-top:5px;padding:10px 0px 10px 0px;text-align:left;max-width:900px;">
 Touchscreen App:
 Counters show time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.</div>
 
