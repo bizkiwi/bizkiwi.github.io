@@ -39,7 +39,7 @@ caption:
 	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:1.5em;">
 		<strong>Timers and Schedules</strong>
 	</div>
-	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:10px 10px 10px 10px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 		<img src="assets/img/portfolio/mkappy-timers.png" width="100%" style="width:100%;max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:0px;padding-right:0px;padding-bottom:5px;text-align:left;max-width:900px;">
