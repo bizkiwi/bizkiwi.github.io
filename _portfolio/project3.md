@@ -88,7 +88,7 @@ caption:
 		<strong>System Demo - Business Side</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px auto 0px auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
-	<video id="project3-video1-v1" width="640" height="360" controls style="display:inline;width:100%;max-width:640px;">
+	<video id="project3-video1-v1" width="640" height="360" controls style="display:block;width:100%;max-width:640px;">
 	  <source src="assets/vid/made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:inline;width:100%;max-width:640px;">
 	  Your browser does not support the video tag.
 	</video>
