@@ -60,6 +60,8 @@ function MyLoadHandler() {
 
 	if(window.outerWidth < window.outerHeight) {
 	
+		document.getElementById("close-modal-button").style.right = "24px";
+		
 		document.getElementById("project3-video1-v1").src = "made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4";
 		document.getElementById("project3-video1-v2").src = "";
 		document.getElementById("project3-video2-v1").src = "made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4";
@@ -80,6 +82,8 @@ function MyLoadHandler() {
 		
 	} else {
 	
+		document.getElementById("close-modal-button").style.right = "0px";
+		
 		document.getElementById("project3-video1-v1").src = "";
 		document.getElementById("project3-video1-v2").src = "made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4";
 		document.getElementById("project3-video2-v1").src = "";
