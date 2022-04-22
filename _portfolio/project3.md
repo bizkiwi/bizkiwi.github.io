@@ -11,17 +11,17 @@ caption:
 ---
 <div style="background-color:#EFEFEF;display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:0px 20px 0px 20px;margin:auto;">
 
-	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:1.5em;text-align:center;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;max-width:900px;font-size:1.5em;text-align:center;">
 	<strong>Made Order Advisor App</strong>
 	</div>
-	<div style="display:block;background-color:#EFEFEF;padding:10px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
+	<div style="display:block;background-color:#EFEFEF;padding:0px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/made-order-advisor-crew-screen-scanning-barcodes.jpg" width="100%" alt="Order Ready Notification Display System for Customers of Cafes and Quick Service Restaurants." style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px 0px 10px 0px;max-width:900px;text-align:center;">
 	<strong>The Made Order Advisor Touchscreen App in use at a Quick Service Restaurant (QSR).
 	</strong>
 	</div>
-	<div style="background-color:#EFEFEF;padding-top:5px 0px 5px 0px;text-align:left;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:5px 0px 5px 0px;text-align:left;max-width:900px;">
 	Three Input Methods<br />
 	1. Barcode scan<br />
 	2. Manual key in<br />
