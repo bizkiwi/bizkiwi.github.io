@@ -19,7 +19,7 @@
 		<div style="float:left;width:100%;padding: 10px 10px 0px 10px;margin:auto;background-color:#eeeeee;border-style:solid;border-color:#eeeeee;border-width:1px;border-radius:10px 10px 0px 0px;">
 		  <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="width:100%;margin:auto;padding:0;background-color:#eeeeee;">
 			  <div style="min-width:24vw;width:100%;padding:auto 12px 0px 12px;margin:auto;background-color:#eeeeee;"><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; --><!-- TRBL -->
-				  <div class="fa-stack fa-4x" style="min-height:15vw;height:100%;max-height:320px;margin:auto;padding:auto;width:100%;background-size:cover;background-color:#dddddd;background-image:url({{ project.caption.thumbnail }});">
+				  <div class="fa-stack fa-4x" style="min-height:15vw;max-height:320px;margin:auto;padding:auto;width:100%;background-size:cover;background-color:#dddddd;background-image:url({{ project.caption.thumbnail }});">
 					<i class="fas fa-circle fa-stack-2x text-primary" style="opacity:0.75;margin-top:40px;"></i>
 					<i class="{{ site.data.style.portfolio-icon | default: 'fa fa-search-plus' }} fa-stack-1x fa-inverse" style="margin-top:42px;"></i>
 					<!--
