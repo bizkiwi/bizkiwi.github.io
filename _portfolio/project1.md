@@ -10,11 +10,11 @@ caption:
   thumbnail: assets/img/portfolio/hos-website-thumb.jpg
 ---
 <div style="display:block;position:relative;overflow-y:visible;width:100%;max-width:1400px;min-width:320px;padding:auto;margin:auto;">
-	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:1800px;margin:auto;"/></div>
+	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-website.jpg" style="width:100%;max-width:1400px;margin:auto;"/></div>
 
 	<br/><br />
 
-	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-marketing.jpg" style="width:100%;max-width:1800px;margin:auto;"/></div>
+	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-marketing.jpg" style="width:100%;max-width:1400px;margin:auto;"/></div>
 
 	<br/><br />
 
@@ -24,7 +24,7 @@ caption:
 	<br/><br />
 
 	<h3>Desktop Website</h3>
-	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="width:100%;max-width:1800px;margin:auto;"/></div>
+	<div style="width:100%;max-width:1400px;margin:auto;padding:auto;"><img src="assets/img/portfolio/hos-website-main-page-desktop-version.png" style="width:100%;max-width:1400px;margin:auto;"/></div>
 
 	<br/><br />
 
