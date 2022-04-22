@@ -11,7 +11,7 @@ caption:
 ---
 <div style="background-color:#EFEFEF;display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:0px 20px 0px 20px;margin:auto;">
 
-	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;max-width:900px;font-size:1.5em;text-align:center;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;max-width:900px;font-size:1.4em;text-align:center;">
 	<strong>Made Order Advisor App</strong>
 	</div>
 	<div style="display:block;background-color:#EFEFEF;padding:0px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
@@ -84,16 +84,16 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;max-width:900px;font-size:1.5em;text-align:center;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;max-width:900px;font-size:1.4em;text-align:center;">
 		<strong>Business Side Demo</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px auto 0px auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<video id="project3-video1-v1" width="300" height="170" controls style="display:inline;width:100%;max-width:300px;visibility:visible;">
-	  <source src="" type="video/mp4" style="display:inline;width:100%;max-width:300px;">
+	  <source src="made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:inline;width:100%;max-width:300px;">
 	  Your browser does not support the video tag.
 	</video>
 	<video id="project3-video1-v2" width="800" height="480" controls style="display:none;width:100%;max-width:800px;visibility:hidden;">
-	  <source src="" type="video/mp4" style="display:inline;width:100%;max-width:800px;">
+	  <source src="made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:inline;width:100%;max-width:800px;">
 	  Your browser does not support the video tag.
 	</video>
 	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;max-width:900px;">
@@ -102,16 +102,16 @@ caption:
 	
 	<br/><br />
 	
-	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;max-width:900px;font-size:1.5em;text-align:center;">
+	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;max-width:900px;font-size:1.4em;text-align:center;">
 		<strong>Customer Side Demo</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px auto 0px auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<video id="project3-video2-v1" width="300" height="170" controls style="display:inline;width:100%;max-width:300px;visibility:visible;">
-	  <source src="" type="video/mp4" style="display:inline;width:100%;max-width:300px;">
+	  <source src="made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:inline;width:100%;max-width:300px;">
 	  Your browser does not support the video tag.
 	</video>
 	<video id="project3-video2-v2" width="800" height="480" controls style="display:none;width:100%;max-width:800px;visibility:hidden;">
-	  <source src="" type="video/mp4" style="display:inline;width:100%;max-width:800px;">
+	  <source src="made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4" type="video/mp4" style="display:inline;width:100%;max-width:800px;">
 	  Your browser does not support the video tag.
 	</video>
 	</div>
