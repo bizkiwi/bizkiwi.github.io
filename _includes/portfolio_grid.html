@@ -16,9 +16,9 @@
     <div class="row text-center" style="background-color:#f8f9fa;min-width:90vw;">
 	{% for project in site.portfolio %}
 	  <div class="col-md-4 col-sm-6 portfolio-item" style="background-color:#f8f9fa;margin:0px;padding-bottom:30px;min-width:30vw;">
-		  <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="width:100%;background-color:#dddddd;border-width:0px;border-color:#eeeeee;border-style:solid;">
-			  <div style="float:left;height:100%;min-height:200px;width:100%;padding:12px 12px 0px 12px;margin:auto;padding:auto;background-color:#eeeeee;border-style:solid;border-color:#eeeeee;border-width:1px;border-radius:10px 10px 0px 0px;"><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; --><!-- TRBL -->
-				  <div class="fa-stack fa-4x" style="height:100%;margin:0;padding: auto auto auto auto;width:100%;background-size: cover;background-color:#dddddd;background-image:url({{ project.caption.thumbnail }});">
+		  <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="float:left;padding: 5px 10px 5px 10px;width:100%;background-color:#eeeeee;border-color:#eeeeee;border-width:1px;border-radius:10px 10px 0px 0px;border-style:solid;">
+			  <div style="float:left;height:100%;min-height:200px;width:100%;padding:12px 12px 0px 12px;margin:auto;padding:auto;background-color:#eeeeee;><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; --><!-- TRBL -->
+				  <div class="fa-stack fa-4x" style="height:100%;margin:0;padding:auto auto auto auto;width:100%;background-size:cover;background-color:#dddddd;background-image:url({{ project.caption.thumbnail }});">
 					<i class="fas fa-circle fa-stack-2x text-primary" style="opacity:0.75;margin-top:30px;"></i>
 					<i class="{{ site.data.style.portfolio-icon | default: 'fa fa-search-plus' }} fa-stack-1x fa-inverse" style="margin-top:32px;"></i>
 					<!--
