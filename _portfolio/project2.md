@@ -34,9 +34,8 @@ caption:
 			<li>Content adapts to different display aspect ratios</li>
 			<li>Portrait and Landscape styling triggered by rotation of tablet or smartphone.</li>
 		</ul>
+		<br/><br />
 	</div>
-
-	<br/><br />
 
 	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 		<img src="assets/img/portfolio/mkappy-timers.png" width="100%" style="width:100%;max-width:900px;" />
@@ -46,9 +45,8 @@ caption:
 	</div>
 	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;max-width:900px;">
 		In-App countdown timers provide for cool store shelf life of stock and scheduling of employee maintenance tasks and reoccurring activities. Tiles are colour coded for QSC and KPI scores.	
+		<br/><br />
 	</div>
-
-	<br/><br />
 
 	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 		<img src="assets/img/portfolio/mkappy-builds.png" width="100%" style="width:100%;max-width:900px;" />
@@ -58,10 +56,9 @@ caption:
 	</div>
 	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;max-width:900px;">
 		The Build Guides are visual chart instructions for assembling and packaging orders of products. This content is accessible via responsive Touchscreen tablet app. Visual collections of products are available to choose from.
+		<br/><br />
 	</div>
 			
-	<br/><br />
-
 	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 		<img src="assets/img/portfolio/build-guide-chart.png" width="100%" style="width:100%;max-width:900px;" />
 	</div>
@@ -70,12 +67,11 @@ caption:
 	</div>
 	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;max-width:900px;">
 		The Build Guides are visual chart instructions for assembling and packaging products. 
+		<br/><br />
 	</div>
 
-	<br/><br />
-
 	<!--{:.list-inline}-->
-	<div style="width:100%;text-align:center;">
+	<div style="width:100%;text-align:center;max-width:900px;">
 	<strong>Date:</strong> 2017<br />
 	<strong>Client:</strong> McDonald's Frankton Queenstown<br />
 	<strong>Category:</strong> Tablet Apps<br />
