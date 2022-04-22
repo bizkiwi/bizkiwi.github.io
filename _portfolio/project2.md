@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/mkappy-timers-thumb.jpg
 ---
 <div style="background-color:#EFEFEF;display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:20px;margin:auto;">
-	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:1.5em;">
 		<strong>The Touchscreen App MkAPPy Kitchen</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:auto;margin:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
@@ -33,10 +33,10 @@ caption:
 			<li>Content adapts to different display aspect ratios</li>
 			<li>Portrait and Landscape styling triggered by rotation of tablet or smartphone.</li>
 		</ul>
-		<br/><br />
+		<br/><br /><br />
 	</div>
 
-	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:1.75em;">
 		<strong>Timers and Schedules</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
@@ -44,10 +44,10 @@ caption:
 	</div>
 	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:0px;padding-right:0px;padding-bottom:5px;text-align:left;max-width:900px;">
 		In-App countdown timers provide for cool store shelf life of stock and scheduling of employee maintenance tasks and reoccurring activities. Tiles are colour coded for QSC and KPI scores.	
-		<br/><br />
+		<br/><br /><br />
 	</div>
 
-	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:2.0em;">
 		<strong>Build Guides Product Selection</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
@@ -55,7 +55,7 @@ caption:
 	</div>
 	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:0px;padding-right:0px;padding-bottom:5px;text-align:left;max-width:900px;">
 		The Build Guides are visual chart instructions for assembling and packaging orders of products. This content is accessible via responsive Touchscreen tablet app. Visual collections of products are available to choose from.
-		<br/><br />
+		<br/><br /><br />
 	</div>
 			
 	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
@@ -66,7 +66,7 @@ caption:
 	</div>
 	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:0px;padding-right:0px;padding-bottom:5px;text-align:left;max-width:900px;">
 		The Build Guides are visual chart instructions for assembling and packaging products. 
-		<br/><br />
+		<br/><br /><br />
 	</div>
 
 	<!--{:.list-inline}-->
