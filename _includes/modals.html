@@ -5,9 +5,9 @@
   id="p{{ forloop.index }}"
   tabindex="-1"
   role="dialog"
-  aria-hidden="true" style="background-color:#212529;width:100vw;margin:0;padding:0;opacity:1;">
-  <div class="modal-dialog" style="width:100vw;margin:0;padding:0;background-color:#212529;opacity:1;">
-    <div class="modal-content" style="margin:0;padding:0px auto 0px auto;min-width:320px;width:100vw;background-color:#212529;opacity:1;">
+  aria-hidden="true" style="background-color:#f8f9fa;width:100vw;margin:0;padding:0;opacity:1;">
+  <div class="modal-dialog" style="width:100vw;margin:0;padding:0;background-color:#f8f9fa;opacity:1;">
+    <div class="modal-content" style="margin:0;padding:0px auto 0px auto;min-width:320px;width:100vw;background-color:#f8f9fa;opacity:1;">
 	  <div style="position:relative;float:left;min-width:320px;width:100%;overflow-x:visible;overflow-y:visible;display:inline;margin:0;padding:0px 0px 0px auto;background-color:#f8f9fa;opacity:1.0;">
 		<div style="display:inline;width:100%;padding:0px auto 0px auto;background-color:#f8f9fa;opacity:1.0;">
 		<button
@@ -33,7 +33,7 @@
 				  <img
 					class="img-fluid d-block mx-auto"
 					src="{{ project.image }}"
-					alt="{{ project.alt }}"
+					alt="{{ project.alt }}" style="max-width:900px;"
 				  />
 			  </p>
               <p style="min-width:320px;width:60vw;min-width:320px;max-width:900px;padding:auto;display:inline;">{{ project.content }}</p>
