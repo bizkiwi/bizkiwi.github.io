@@ -15,7 +15,7 @@ caption:
 	<strong>Made Order Advisor App</strong>
 	</div>
 	<div style="display:block;background-color:#EFEFEF;padding:0px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
-	<img src="assets/img/portfolio/made-order-advisor-crew-screen-scanning-barcodes.jpg" width="100%" alt="Order Ready Notification Display System for Customers of Cafes and Quick Service Restaurants." style="max-width:900px;" />
+	<img src="assets/img/portfolio/made-order-advisor-crew-screen-scanning-barcodes-900w.jpg" width="100%" alt="Order Ready Notification Display System for Customers of Cafes and Quick Service Restaurants." style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px 0px 10px 0px;max-width:900px;text-align:center;">
 	<strong>The Made Order Advisor Touchscreen App in use at a Quick Service Restaurant (QSR).
@@ -31,7 +31,7 @@ caption:
 	<br/><br />
 
 	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
-	<img src="assets/img/portfolio/made-order-advisor-crew-screen.png" width="100%" style="max-width:900px;" />
+	<img src="assets/img/portfolio/made-order-advisor-crew-screen-900w.jpg" width="100%" style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px 0px 10px 0px;max-width:900px;">
 	<strong>Touchscreen App: Counters show time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.
@@ -41,7 +41,7 @@ caption:
 	<br/><br />
 
 	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
-	<img src="assets/img/portfolio/made-order-advisor-crew-screen-keypad.png" width="100%" style="max-width:900px;" />
+	<img src="assets/img/portfolio/made-order-advisor-crew-screen-keypad-900w.jpg" width="100%" style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;max-width:900px;">
 	<strong>On Screen touchscreen keypad for manual entry of Order Numbers if Pick Slips are too damaged to use the barcode scanner.
@@ -51,7 +51,7 @@ caption:
 	<br/><br />
 
 	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
-	<img src="assets/img/portfolio/made-order-advisor-customer-screen.png" width="100%" style="max-width:900px;"/>
+	<img src="assets/img/portfolio/made-order-advisor-customer-screen-900w.jpg" width="100%" style="max-width:900px;"/>
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;max-width:900px;">
 	<strong>Application: Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area.
@@ -61,7 +61,7 @@ caption:
 	<br/><br />
 
 	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
-	<img src="assets/img/portfolio/made-order-advisor-customer-screen-photo.jpg" width="100%" style="max-width:900px;" />
+	<img src="assets/img/portfolio/made-order-advisor-customer-screen-photo-900w.jpg" width="100%" style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;max-width:900px;">
 	<strong>Content displayed on a screen in the customer waiting area.</strong>
@@ -73,7 +73,7 @@ caption:
 	<br/><br />
 
 	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
-	<img src="assets/img/portfolio/04-full.jpg" width="100%" style="max-width:900px;" />
+	<img src="assets/img/portfolio/autoscan-900w.jpg" width="100%" style="max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;max-width:900px;">
 	<strong>The AutoScan device for use with the Made Order Advisor system.</strong>
