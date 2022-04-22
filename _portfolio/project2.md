@@ -11,7 +11,7 @@ caption:
 ---
 <div style="background-color:#EFEFEF;display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:20px;margin:auto;">
 	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:1.5em;">
-		<strong>The Touchscreen App MkAPPy Kitchen</strong>
+		<strong>MkAPPy Kitchen Tablet App</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:auto;margin:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 		<img src="assets/img/portfolio/mkappy-timers-screen.jpg" width="100%" style="width:100%;max-width:640px;" />
@@ -36,7 +36,7 @@ caption:
 		<br/><br /><br />
 	</div>
 
-	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:1.75em;">
+	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:1.5em;">
 		<strong>Timers and Schedules</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
@@ -47,7 +47,7 @@ caption:
 		<br/><br /><br />
 	</div>
 
-	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:2.0em;">
+	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:1.5em;">
 		<strong>Build Guides Product Selection</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
@@ -58,7 +58,7 @@ caption:
 		<br/><br /><br />
 	</div>
 			
-	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;font-size:1.5em;">
 		<strong>Build Guide Instructional Visual Content</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
