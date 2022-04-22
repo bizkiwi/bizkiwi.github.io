@@ -1,6 +1,6 @@
 <!-- Portfolio Grid -->
-<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].portfolio.section | default: 'portfolio' }}" style="background-color:#f8f9fa;min-width:90vw;max-width:1400px;margin:auto;opacity:0.7;"><!-- #212529 -->
-  <div class="container" style="background-color:#f8f9fa;min-width:90vw;max-width:1400px;margin:auto;">
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].portfolio.section | default: 'portfolio' }}" style="background-color:#f8f9fa;margin:auto;opacity:0.7;"><!-- #212529 -->
+  <div class="container" style="background-color:#f8f9fa;margin:auto;">
     <div class="row" style="background-color:#f8f9fa;">
       <div class="col-lg-12 text-center" style="background-color:#f8f9fa;">
 	  	  <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].portfolio.title | markdownify | default: "Portfolio" }}</h2>
@@ -13,13 +13,13 @@
       </div>
     </div>
 	<br /><br />
-    <div class="row text-center" style="background-color:#f8f9fa;min-width:90vw;max-width:1400px;margin:auto;">
+    <div class="row text-center" style="background-color:#f8f9fa;margin:auto;">
 	{% for project in site.portfolio %}
-	  <div class="col-md-4 col-sm-6 portfolio-item" style="background-color:#f8f9fa;margin:auto;;padding-bottom:30px;width:100%;min-width:30vw;max-width:466px;">
+	  <div class="col-md-4 col-sm-6 portfolio-item" style="background-color:#f8f9fa;margin:auto;;padding-bottom:30px;width:100%;">
 		<div style="float:left;width:100%;padding: 12px 10px 0px 10px;margin:auto;background-color:#eeeeee;border-style:solid;border-color:#eeeeee;border-width:1px;border-radius:10px 10px 0px 0px;">
 		  <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="width:100%;margin:auto;padding:0;background-color:#eeeeee;">
-			  <div style="min-width:24vw;width:100%;padding:auto 12px 0px 12px;margin:auto;background-color:#eeeeee;"><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; --><!-- TRBL -->
-				  <div class="fa-stack fa-4x" style="min-height:15vw;max-height:320px;margin:auto;padding:auto;width:100%;background-size:cover;background-color:#dddddd;background-image:url({{ project.caption.thumbnail }});">
+			  <div style="width:100%;padding:auto 12px 0px 12px;margin:auto;background-color:#eeeeee;"><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; --><!-- TRBL -->
+				  <div class="fa-stack fa-4x" style="margin:auto;padding:auto;width:100%;background-size:cover;background-color:#dddddd;background-image:url({{ project.caption.thumbnail }});">
 					<i class="fas fa-circle fa-stack-2x text-primary" style="opacity:0.75;margin-top:40px;"></i>
 					<i class="{{ site.data.style.portfolio-icon | default: 'fa fa-search-plus' }} fa-stack-1x fa-inverse" style="margin-top:42px;"></i>
 					<!--
