@@ -59,29 +59,42 @@ function MyLoadHandler() {
 	document.getElementById("page-top").style.color = "#1C4587";
 
 	if(window.outerWidth < window.outerHeight) {
-		var selector = document.getElementById("project3-video1-v1").style;
-		selector.visibility = "hidden";
-		selector.display = "none";
+	
+		document.getElementById("project3-video1-v1").src = "made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4";
+		document.getElementById("project3-video1-v2").src = "";
+		document.getElementById("project3-video2-v1").src = "made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4";
+		document.getElementById("project3-video2-v2").src = "";
+		
 		var selector = document.getElementById("project3-video1-v2").style;
-		selector.visibility = "visible";//300
-		selector.display = "inline";//167
-		var selector = document.getElementById("project3-video2-v1").style;
 		selector.visibility = "hidden";
 		selector.display = "none";
-		var selector = document.getElementById("project3-video2-v2").style;
+		var selector = document.getElementById("project3-video1-v1").style;
 		selector.visibility = "visible";//300
 		selector.display = "inline";//167
+		var selector = document.getElementById("project3-video2-v2").style;
+		selector.visibility = "hidden";
+		selector.display = "none";
+		var selector = document.getElementById("project3-video2-v1").style;
+		selector.visibility = "visible";//300
+		selector.display = "inline";//167
+		
 	} else {
-		var selector = document.getElementById("project3-video1-v1").style;
+	
+		document.getElementById("project3-video1-v1").src = "";
+		document.getElementById("project3-video1-v2").src = "made-order-advisor-scanning-barcodes-at-counter-720p30fps.mp4";
+		document.getElementById("project3-video2-v1").src = "";
+		document.getElementById("project3-video2-v2").src = "made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4";
+		
+		var selector = document.getElementById("project3-video1-v2").style;
 		selector.visibility = "visible";
 		selector.display = "inline";
-		var selector = document.getElementById("project3-video1-v2").style;
+		var selector = document.getElementById("project3-video1-v1").style;
 		selector.visibility = "hidden";//300
 		selector.display = "none";//167
-		var selector = document.getElementById("project3-video2-v1").style;
+		var selector = document.getElementById("project3-video2-v2").style;
 		selector.visibility = "visible";
 		selector.display = "inline";
-		var selector = document.getElementById("project3-video2-v2").style;
+		var selector = document.getElementById("project3-video2-v1").style;
 		selector.visibility = "hidden";//300
 		selector.display = "none";//167
 	}
