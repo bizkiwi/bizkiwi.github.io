@@ -12,8 +12,8 @@ caption:
 ---
 
 <div style="display:inline;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:auto;margin:auto;">
-	<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-		<img src="assets/img/portfolio/mkappy-timers-screen.jpg" width="100%" />
+	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;">
+		<img src="assets/img/portfolio/mkappy-timers-screen.jpg" width="100%" style="width:100%;max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:5px;">
 		<strong>The Touchscreen App MkAPPy Kitchen</strong>
@@ -39,8 +39,8 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-		<img src="assets/img/portfolio/mkappy-timers.png" width="100%" />
+	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;">
+		<img src="assets/img/portfolio/mkappy-timers.png" width="100%" style="width:100%;max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:5px;">
 		<strong>Timers & Schedules</strong>
@@ -51,8 +51,8 @@ caption:
 
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-		<img src="assets/img/portfolio/mkappy-builds.png" width="100%" />
+	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;">
+		<img src="assets/img/portfolio/mkappy-builds.png" width="100%" style="width:100%;max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:5px;">
 		<strong>Build Guides Product Selection</strong>
@@ -63,8 +63,8 @@ caption:
 			
 	<br/><br />
 
-	<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
-		<img src="assets/img/portfolio/build-guide-chart.png" width="100%" />
+	<div style="background-color:#EFEFEF;padding:auto;overflow-y:visible;width:100%;height:100%;">
+		<img src="assets/img/portfolio/build-guide-chart.png" width="100%" style="width:100%;max-width:900px;" />
 	</div>
 	<div style="background-color:#EFEFEF;padding:5px;">
 		<strong>Build Guide Instructional Visual Content</strong>
