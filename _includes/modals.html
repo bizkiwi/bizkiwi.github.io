@@ -18,16 +18,16 @@
 	  </div>
       <div class="container" style="position:relative;float:left;min-width:320px;width:100vw;overflow-x:auto;overflow-y:visible;display:inline;margin:0;padding:0;background-color:#f8f9fa;opacity:1.0;">
 		<div style="position:relative;float:right;min-width:320px;width:100vw;display:inline;margin:0px 0px 0px auto;padding:auto;background-color:#f8f9fa;opacity:1.0;">
-			<div style="width:100vw;max-width:1440px;margin:0px auto 0px auto;padding:auto;display:inline;">
+			<!--<div style="width:100vw;max-width:1440px;margin:0px auto 0px auto;padding:auto;display:inline;">-->
 	  <!-- TRBL -->
 		<!--<div class="row" style="display:block;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;margin:0;padding:0;background-color:#f8f9fa;opacity:1.0;">
           <div class="col-lg-8 mx-auto" style="position:display:block;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;margin:0;padding:0;background-color:#f8f9fa;">
             <div class="modal-body" style="display:inline;min-width:320px;width:100vw;overflow-x:visible;overflow-y:visible;margin:0;padding:auto;">
 			  <div style="min-width:320px;width:100%;max-width:1480px;overflow-y:visible;display:block;margin:auto;padding:auto;background-color:#f8f9fa;opacity:1.0;"> -->
               <!-- Project Details Go Here -->
-              <h2 class="text-uppercase" style="font-size:1.6em;width:100%;padding:auto;">{{ project.title }}</h2>
-              <p class="item-intro text-muted" style="font-size:1.6em;width:100%;padding:auto;">{{ project.subtitle }}</p>
-			  <p style="font-size:1.6em;width:100%;padding:auto;">
+              <h2 class="text-uppercase" style="font-size:1.6em;width:100%;padding:auto;display:inline;">{{ project.title }}</h2>
+              <p class="item-intro text-muted" style="font-size:1.6em;width:100%;padding:auto;display:inline;">{{ project.subtitle }}</p>
+			  <p style="font-size:1.6em;width:100%;padding:auto;display:inline;">
 				  <img
 					class="img-fluid d-block mx-auto"
 					src="{{ project.image }}"
@@ -39,7 +39,7 @@
 				  <button
 					class="btn btn-primary"
 					data-dismiss="modal"
-					type="button" style="margin:auto;">
+					type="button" style="margin:auto;display:inline;">
 					<i class="fas fa-times"></i>
 					{{ site.data.sitetext[site.locale].portfolio.closebutton |
 					default: "Close Project" }}
@@ -47,8 +47,8 @@
 				  <br/><br/>
 			  </p>
 			  <!-- </div>
-            </div>-->
-          </div>
+            </div>
+          </div>-->
         </div>
       </div>
     </div>
