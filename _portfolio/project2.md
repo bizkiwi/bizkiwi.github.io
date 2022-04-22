@@ -9,7 +9,7 @@ caption:
   subtitle: Touchscreen Tablet App for Kitchens
   thumbnail: assets/img/portfolio/mkappy-timers-thumb.jpg
 ---
-<div style="background-color:#EFEFEF;display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:20px;margin:auto;">
+<div style="background-color:#EFEFEF;display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:10px;margin:auto;">
 	<div style="background-color:#EFEFEF;padding:auto;margin:auto;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 		<img src="assets/img/portfolio/mkappy-timers-screen.jpg" width="100%" style="width:100%;max-width:640px;" />
 	</div>
