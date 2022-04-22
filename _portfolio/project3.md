@@ -11,7 +11,7 @@ caption:
 ---
 <div style="background-color:#EFEFEF;display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:0px 20px 0px 20px;margin:auto;">
 
-	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;max-width:900px;font-size:1.4em;text-align:center;">
+	<div style="background-color:#EFEFEF;padding:15px 0px 5px 0px;max-width:900px;font-size:1.4em;text-align:center;">
 	<strong>Made Order Advisor App</strong>
 	</div>
 	<div style="display:block;background-color:#EFEFEF;padding:0px 0px 0px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
@@ -126,26 +126,6 @@ caption:
 	</div>
 
 	<br/><br />
-
-<!--
-	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
-	<video id="project3-video2-v1" width="300" height="170" controls style="display:block;width:100%;max-width:640px;">
-	  <source src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" type="video/mp4" style="display:block;width:100%;max-width:900px;">
-	  Your browser does not support the video tag.
-	</video>
-	<video id="project3-video2-v2" width="640" height="360" controls style="display:inline;width:100%;max-width:640px;">
-	  <source src="assets/vid/made-order-advisor-order-numbers-on-customer-screens-720p30fps.mp4" type="video/mp4" style="display:block;width:100%;max-width:900px;">
-	  Your browser does not support the video tag.
-	</video>
-	</div>
-	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;max-width:900px;">
-	<strong>Made Order Advisor displaying Order Numbers ready to be collected.</strong>
-	</div>
-	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;text-align:left;max-width:900px;">
-	Order Numbers for customer orders currently ready to collect are displayed on large displays in the Customer Service Area. Order Numbers to display are selected via Barcode Scan, Touchscreen Keypad or automatically via a BizKiwi AutoScan device.
-	</div>
-	<br/><br/>
-	-->
 
 	<!--{:.list-inline}-->
 	<div style="width:100%;text-align:center;max-width:900px;">
