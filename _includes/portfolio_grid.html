@@ -15,10 +15,10 @@
 	<br /><br />
     <div class="row text-center" style="background-color:#f8f9fa;min-width:90vw;">
 	{% for project in site.portfolio %}
-	  <div class="col-md-4 col-sm-6 portfolio-item" style="background-color:#f8f9fa;margin:0px;padding-bottom:30px;min-width:30vw;">
+	  <div class="col-md-4 col-sm-6 portfolio-item" style="float:left;background-color:#f8f9fa;margin:0px;padding-bottom:30px;min-width:30vw;">
 		<div style="float:left;height:100px;width:100%;padding: 5px 10px 5px 10px;background-color:#eeeeee;border-style:solid;border-color:#eeeeee;border-width:1px;border-radius:10px 10px 0px 0px;">
-		  <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="margin:auto;padding:0;background-color:#eeeeee;">
-			  <div style="height:100%;min-height:200px;width:100%;padding:12px 12px 0px 12px;margin:auto;padding:auto;background-color:#eeeeee;><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; --><!-- TRBL -->
+		  <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="float:left;margin:auto;padding:0;background-color:#eeeeee;">
+			  <div style="float:left;height:100%;min-height:200px;width:100%;padding:12px 12px 0px 12px;margin:auto;padding:auto;background-color:#eeeeee;><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; --><!-- TRBL -->
 				  <div class="fa-stack fa-4x" style="height:100%;margin:0;padding:auto auto auto auto;width:100%;background-size:cover;background-color:#dddddd;background-image:url({{ project.caption.thumbnail }});">
 					<i class="fas fa-circle fa-stack-2x text-primary" style="opacity:0.75;margin-top:30px;"></i>
 					<i class="{{ site.data.style.portfolio-icon | default: 'fa fa-search-plus' }} fa-stack-1x fa-inverse" style="margin-top:32px;"></i>
@@ -43,7 +43,7 @@
 		</div>
 		-->
 		<div style="float:left;height:100px;width:100%;padding: 5px 10px 5px 10px;background-color:#eeeeee;vertical-align:bottom;border-style:solid;border-color:#eeeeee;border-width:1px;border-radius:0px 0px 10px 10px;">
-			<a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="background-color:#cccccc;text-decoration:underline;">
+			<a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="float:left;background-color:#cccccc;text-decoration:underline;">
 			  <div class="body-font" style="font-size:28px;width:100%;height:40px;float:left;padding-bottom:0;background-color:#eeeeee;color:#1C4587;text-decoration:underline;alink:#2B54CE;vlink:#2B54CE;color:#2B54CE;">{{ project.caption.title | markdownify }}</div><!-- class="service-heading"  --><!-- TRBL -->
 			  {% if project.caption.subtitle %}<div class="text-muted" style="font-size:15px;width:100%;height:50px;float:left;vertical-align:top;font-style:italic;background-color:#eeeeee;">{{ project.caption.subtitle | markdownify }}</div>{% endif %}
 			</a>
