@@ -33,21 +33,15 @@ caption:
 	<strong>Touchscreen App: Counters show time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.
 	</strong>
 	</div>
-	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;text-align:left;max-width:900px;">
-	Touchscreen App:
-	Counters show time elapsed since orders were ready for customers to collect. Colour coding denotes urgency for managing QSC and KPI scores.</div>
 
 	<br/><br />
 
 	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/made-order-advisor-crew-screen-keypad.png" width="100%" style="max-width:900px;" />
 	</div>
-	<div style="background-color:#EFEFEF;padding:5px 0px 5px 0px;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;max-width:900px;">
 	<strong>On Screen touchscreen keypad for manual entry of Order Numbers if Pick Slips are too damaged to use the barcode scanner.
 	</strong>
-	</div>
-	<div style="background-color:#EFEFEF;padding:5px 0px 5px 0px;text-align:left;max-width:900px;">
-	On Screen touchscreen keypad for manual entry of Order Numbers if Pick Slips are too damaged to use the barcode scanner.
 	</div>
 
 	<br/><br />
@@ -68,10 +62,10 @@ caption:
 	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/made-order-advisor-customer-screen-photo.jpg" width="100%" style="max-width:900px;" />
 	</div>
-	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;max-width:900px;">
 	<strong>Content displayed on a screen in the customer waiting area.</strong>
 	</div>
-	<div style="background-color:#EFEFEF;padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;padding-left:10px;padding-right:10px;padding-bottom:5px;text-align:left;max-width:900px;">
 	Order Numbers display as tiles that resize to fit layout patterns assigned to the number of Order Numbers on display.
 	</div>
 
@@ -80,7 +74,7 @@ caption:
 	<div style="background-color:#EFEFEF;padding:10px 0px 10px 0px;overflow-y:visible;width:100%;height:100%;max-width:900px;">
 	<img src="assets/img/portfolio/04-full.jpg" width="100%" style="max-width:900px;" />
 	</div>
-	<div style="background-color:#EFEFEF;padding:5px;max-width:900px;">
+	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;max-width:900px;">
 	<strong>The AutoScan device for use with the Made Order Advisor system.</strong>
 	</div>
 	<div style="background-color:#EFEFEF;padding:0px 0px 5px 0px;text-align:left;max-width:900px;">
