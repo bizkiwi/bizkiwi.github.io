@@ -1,6 +1,6 @@
 <!-- Portfolio Grid -->
-<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].portfolio.section | default: 'portfolio' }}" style="background-color:#f8f9fa;min-width:90vw;"><!-- #212529 -->
-  <div class="container" style="background-color:#f8f9fa;min-width:90vw;">
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].portfolio.section | default: 'portfolio' }}" style="background-color:#f8f9fa;min-width:90vw;max-width:1400px;"><!-- #212529 -->
+  <div class="container" style="background-color:#f8f9fa;min-width:90vw;max-width:1400px;">
     <div class="row" style="background-color:#f8f9fa;">
       <div class="col-lg-12 text-center" style="background-color:#f8f9fa;">
 	  	  <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].portfolio.title | markdownify | default: "Portfolio" }}</h2>
@@ -13,10 +13,10 @@
       </div>
     </div>
 	<br /><br />
-    <div class="row text-center" style="background-color:#f8f9fa;min-width:90vw;">
+    <div class="row text-center" style="background-color:#f8f9fa;min-width:90vw;max-width:1400px;">
 	{% for project in site.portfolio %}
-	  <div class="col-md-4 col-sm-6 portfolio-item" style="background-color:#f8f9fa;margin:0px;padding-bottom:30px;min-width:30vw;">
-		<div style="float:left;min-height:17vw;height:200px;width:100%;padding: 10px 10px 0px 10px;margin:auto;background-color:#eeeeee;border-style:solid;border-color:#eeeeee;border-width:1px;border-radius:10px 10px 0px 0px;">
+	  <div class="col-md-4 col-sm-6 portfolio-item" style="background-color:#f8f9fa;margin:0px;padding-bottom:30px;min-width:30vw;max-width:466px;">
+		<div style="float:left;min-height:17vw;height:200px;max-height:340px;width:100%;padding: 10px 10px 0px 10px;margin:auto;background-color:#eeeeee;border-style:solid;border-color:#eeeeee;border-width:1px;border-radius:10px 10px 0px 0px;">
 		  <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="margin:auto;padding:0;background-color:#eeeeee;">
 			  <div style="min-height:16vw;height:200px;min-width:24vw;width:100%;padding:auto 12px 0px 12px;margin:auto;background-color:#eeeeee;"><!-- TRBL border-width:0px 2px 2px 2px;border-color:#cccccc;border-style:solid; --><!-- TRBL -->
 				  <div class="fa-stack fa-4x" style="min-height:15vw;height:188px;margin:auto;padding:auto;width:100%;background-size:cover;background-color:#dddddd;background-image:url({{ project.caption.thumbnail }});">
