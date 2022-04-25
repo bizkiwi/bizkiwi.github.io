@@ -32,6 +32,14 @@ en: &DEFAULT_EN
     button: Show More
     buttonlink: "#portfolio"
     list:
+      - title: "Cloud Server Systems"
+        desc: "Cloud data services API including Amazon AWS, Google Cloud and Arduino Cloud.<br><br>"
+        icon: fas fa-cloud
+        img: "cloud-server-systems.jpg"
+      - title: "Databases and CMS"
+        desc: "Hosted and Cloud-based databases and Content Management Systems (CMS).<br><br>"
+        icon: fas fa-database
+        img: "databases-and-cms.jpg"
       - title: "Ecommerce Solutions"
         desc: "Digital commerce with the Shopify platform and third-parties ecosystem.<br><br>"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
@@ -40,14 +48,6 @@ en: &DEFAULT_EN
         desc: "Mobile first and single page responsive web applications development.<br><br>"
         icon: fas fa-mobile-alt
         img: "responsive-design.jpg"
-      - title: "Internet of Things (IoT)"
-        desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators and IoT<br><br>"
-        icon: fas fa-bolt
-        img: "internet-of-things.jpg"
-      - title: "Prototype Development"
-        desc: "Development of proof-of-concept hardware, firmware, software prototype systems.<br><br>"
-        icon: fas fa-magic
-        img: "prototype-development.jpg"
       - title: "Software Development"
         desc: "Desktop and Server Software Application Development.<br><br>"
         icon: fas fa-laptop
@@ -56,18 +56,19 @@ en: &DEFAULT_EN
         desc: "Laravel, WordPress and SilverStripe development platforms.<br><br>"
         icon: fas fa-sitemap
         img: "website-development.jpg"
-      - title: "Databases and CMS"
-        desc: "Hosted and Cloud-based databases and Content Management Systems (CMS).<br><br>"
-        icon: fas fa-database
-        img: "databases-and-cms.jpg"
+      - title: "Prototype Development"
+        desc: "Development of proof-of-concept hardware, firmware, software prototype systems.<br><br>"
+        icon: fas fa-magic
+        img: "prototype-development.jpg"
+      - title: "Internet of Things (IoT)"
+        desc: "Electronics, Microcontrollers, Embedded, Sensors, Actuators and IoT<br><br>"
+        icon: fas fa-bolt
+        img: "internet-of-things.jpg"
       - title: "Technical Writing"
         desc: "Authoring of report, user, wiki and technical documentation including Github Markdown.<br><br>"
         icon: fas fa-book
         img: "technical-writing.jpg"
-      - title: "Cloud Server Systems"
-        desc: "Cloud data services API including Amazon AWS, Google Cloud and Arduino Cloud.<br><br>"
-        icon: fas fa-cloud
-        img: "cloud-server-systems.jpg"
+
   portfolio:
     title: "Portfolio"
     text: "Example projects involving BizKiwi.NZ"
