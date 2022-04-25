@@ -193,7 +193,7 @@ en: &DEFAULT_EN
         
   contact:
     title: "Contact"
-    text: "<div style='color:#ffffff;max-width:100vw;padding-left:3vw;padding-right:3vw;display:block;overflow-x:hidden;'> <span style='white-space: nowrap;'>Please submit the contact form</span>&nbsp; <span style='white-space: nowrap;'>or email hello@bizkiwi.nz</span>&nbsp; <span style='white-space: nowrap;'>or call/text 022-3601234</span>&nbsp; </div>"
+    text: "<div style='color:#ffffff;max-width:100vw;padding-left:3vw;padding-right:3vw;display:block;overflow-x:hidden;'> <span style='white-space: nowrap;'>Please submit the contact form</span>&nbsp; <span style='white-space: nowrap;'>or email hello@bizkiwi.nz</span>&nbsp; <span style='white-space: nowrap;'>or call/text 022-3601234</span>&nbsp; <span style='white-space: nowrap;'>or message via <a href="https://linkedin.com/in/bizkiwi/" target="_BLANK">LinkedIn</a></span>&nbsp; </div>"
     image: assets/img/team/4.jpg
     section: contact
     name: "Name*"
