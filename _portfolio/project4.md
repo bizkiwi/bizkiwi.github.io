@@ -10,8 +10,11 @@ caption:
   thumbnail: assets/img/portfolio/autoscan-thumbnail.jpg
 
 ---
-<div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
-	<div style="width:100%;overflow-y:visible;float:left;display:block;">
+<!--<div style="width:100%;margin:0;padding:auto;display:block;float:left;position:relative;z-index:38000;overflow-y:visible;">
+	<div style="width:100%;overflow-y:visible;float:left;display:block;">-->
+	
+<div style="background-color:#EFEFEF;display:block;position:relative;overflow-y:visible;width:100%;min-width:320px;max-width:900px;padding:0px 20px 0px 20px;margin:auto;">
+	<div style="background-color:#EFEFEF;padding:15px 0px 5px 0px;max-width:900px;font-size:1.4em;text-align:center;">
 		
 		<div style="background-color:#EFEFEF;padding:0;overflow-y:visible;width:100%;height:100%;">
 			<img src="assets/img/portfolio/04-full.jpg" width="100%" />
