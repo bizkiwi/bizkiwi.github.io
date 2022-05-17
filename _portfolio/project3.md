@@ -82,7 +82,7 @@ caption:
 	The AutoScan is a datastream parser device used to digitally extract Order Numbers from Pick Slips as they are printed to a POS printer. When connected to the Made Order Advisor the order numbers appear on a display in the Customer Service Area.
 	</div>
 
-	<br/><br />
+	<br/><br /><!-- -->
 
 	<div style="background-color:#EFEFEF;padding:10px 0px 0px 0px;max-width:900px;font-size:1.4em;text-align:center;">
 		<strong>Business Side Demo</strong>
